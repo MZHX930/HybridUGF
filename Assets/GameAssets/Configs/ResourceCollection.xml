@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="Configs" LoadType="0" Packed="True" />
+      <Resource Name="DataTables" LoadType="0" Packed="True" />
+      <Resource Name="GameAssets/Entities/Character/Shell/CharacterShell" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Entities/Character/Shell/SoldierShell" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Entities/Character/View/CharacterSpine1" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Entities/Character/View/CharacterSpine2" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Entities/Skill/Shell/SkillShell" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Entities/Skill/View/BulletSkill" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Entities/Vehicle/VehicleTemplate" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Scenes/Launcher" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Scenes/LevelFightScene" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Scenes/MainUI" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Spine/ArmourBoss" LoadType="0" Packed="True" />
+      <Resource Name="GameAssets/Spine/hero1" LoadType="0" Packed="True" />
+      <Resource Name="GameAssets/Textures/1_1" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Textures/1_10" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Textures/1_2" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Textures/1_3" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Textures/1_4" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Textures/1_5" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Textures/1_6" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Textures/1_7" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Textures/1_8" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/Textures/1_9" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/UIForms/Common/ComTipForm" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/UIForms/FightProcedure/DamageFloatForm" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/UIForms/FightProcedure/FightFailureForm" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/UIForms/FightProcedure/FightRuntimeForm" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/UIForms/FightProcedure/FightVictoryForm" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/UIForms/FightProcedure/SelectBuffsForm" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/UIForms/LevelStageForm" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/UIForms/LoadAssetsForm" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/UIForms/MainUI/MainUIForm" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/UISpriteAtlas/Common" LoadType="0" Packed="False" />
+      <Resource Name="GameAssets/UISprites/Common" LoadType="0" Packed="False" />
+      <Resource Name="Localization" LoadType="0" Packed="True" />
+      <Resource Name="TMPResources" LoadType="0" Packed="True" />
+    </Resources>
+    <Assets>
+      <Asset Guid="0333502ef083f6849bc296404c49ee93" ResourceName="DataTables" />
+      <Asset Guid="038d3198c75a3364c81211f823e1d8fe" ResourceName="GameAssets/Spine/ArmourBoss" />
+      <Asset Guid="03aafb15c642ad84aa29af81df96ae2c" ResourceName="GameAssets/Spine/ArmourBoss" />
+      <Asset Guid="041758e5d1aa3a94ab37724d97fe9a69" ResourceName="GameAssets/Spine/hero1" />
+      <Asset Guid="05092282a6481814a89f14f25a8b09e7" ResourceName="GameAssets/UIForms/Common/ComTipForm" />
+      <Asset Guid="058f2afd5ff4dca4ba379a3c958808a3" ResourceName="DataTables" />
+      <Asset Guid="06d2657fb703ee142b7b38b03b52b2a5" ResourceName="DataTables" />
+      <Asset Guid="097aa7f7e1abb38429b338e79ee8144b" ResourceName="DataTables" />
+      <Asset Guid="0d7c0d25ec5d61044962834639654099" ResourceName="DataTables" />
+      <Asset Guid="0fbd2d7efe086394c8cd3c5e24d4a274" ResourceName="GameAssets/UISprites/Common" />
+      <Asset Guid="100f81c2ad8400c4cabf1b4c973e3983" ResourceName="DataTables" />
+      <Asset Guid="103a58bd2dab9cc47a08c95f5bd2c736" ResourceName="GameAssets/UIForms/FightProcedure/FightRuntimeForm" />
+      <Asset Guid="10eb3be8eb3701448989f0b5df67a3f6" ResourceName="GameAssets/Textures/1_3" />
+      <Asset Guid="163d912980352c3448c9564c726a78cd" ResourceName="GameAssets/Spine/ArmourBoss" />
+      <Asset Guid="17f8e48aa3fae5f41ae1c2215a8c9336" ResourceName="GameAssets/Entities/Character/Shell/CharacterShell" />
+      <Asset Guid="18d0f65d37254094a9fb0b783af7a347" ResourceName="GameAssets/UISprites/Common" />
+      <Asset Guid="18da357881f1048449ad5c409b417d7e" ResourceName="DataTables" />
+      <Asset Guid="1a2da10c662de0547b3e2887a7969c6e" ResourceName="GameAssets/Entities/Vehicle/VehicleTemplate" />
+      <Asset Guid="1f343ed2ed4574448b5b0bdd4bdbd139" ResourceName="GameAssets/Textures/1_5" />
+      <Asset Guid="28959ce16c5c3b249af65a8891e1a479" ResourceName="DataTables" />
+      <Asset Guid="2999584247dc72b43bfe3d924f85a32e" ResourceName="GameAssets/Scenes/Launcher" />
+      <Asset Guid="2d91b59a203ba6d428619770c5d0ab5a" ResourceName="DataTables" />
+      <Asset Guid="2e498d1c8094910479dc3e1b768306a4" ResourceName="TMPResources" />
+      <Asset Guid="30ecf1eb44ae14c4092c3edb54515478" ResourceName="DataTables" />
+      <Asset Guid="3b8dcf68aa35a5e46b269d3daa22a311" ResourceName="DataTables" />
+      <Asset Guid="3ed0ac80f0c14bb4ea9aca2a575324b0" ResourceName="GameAssets/UIForms/FightProcedure/FightVictoryForm" />
+      <Asset Guid="3f5b5dff67a942289a9defa416b206f3" ResourceName="TMPResources" />
+      <Asset Guid="44c8db52241385c45bbb14a1718f17bf" ResourceName="Configs" />
+      <Asset Guid="46c2a25cbb745b54289249f7120207da" ResourceName="Localization" />
+      <Asset Guid="4801f9c88d6e1b2448aaaaf2de0e43bc" ResourceName="GameAssets/Scenes/MainUI" />
+      <Asset Guid="4b0aaede535fd0f4c8e39bef080a258b" ResourceName="GameAssets/Entities/Character/View/CharacterSpine1" />
+      <Asset Guid="4c5a4ca4d96c06f438e7109ff4b9e936" ResourceName="GameAssets/Entities/Character/Shell/SoldierShell" />
+      <Asset Guid="4caeaf47c23ce754e9fdf1f009e059ae" ResourceName="GameAssets/Entities/Character/View/CharacterSpine2" />
+      <Asset Guid="4e87641ecf064674fb9c20920f0bcb01" ResourceName="DataTables" />
+      <Asset Guid="5381c3022aadff64394695bc41ee2e38" ResourceName="DataTables" />
+      <Asset Guid="552212a6709751a43bb3317cf4e4e0c8" ResourceName="GameAssets/Textures/1_8" />
+      <Asset Guid="5bf6fac61267fa2489fac4f3e4c91b15" ResourceName="DataTables" />
+      <Asset Guid="5fac1b45fa088c742ab4efc3d313e786" ResourceName="GameAssets/UISprites/Common" />
+      <Asset Guid="6081bf588a3aea64bb37ccd6718b756e" ResourceName="GameAssets/Spine/hero1" />
+      <Asset Guid="63de4134c6e962f489560660cf53efa1" ResourceName="GameAssets/Entities/Skill/View/BulletSkill" />
+      <Asset Guid="69172734d8a6f71438544c10f6e94436" ResourceName="DataTables" />
+      <Asset Guid="69ff0e27e627d9846a34ed20653bb005" ResourceName="GameAssets/UISprites/Common" />
+      <Asset Guid="6d3c2094131f62c439a26a40f7711cb9" ResourceName="DataTables" />
+      <Asset Guid="6d6a1d18b9b218d47aec9fe354389d3c" ResourceName="GameAssets/UIForms/LevelStageForm" />
+      <Asset Guid="73f03de7ba4f92c48a7e12ba0292b2ee" ResourceName="DataTables" />
+      <Asset Guid="78a61b3f550ea08459e30ccf34af7f92" ResourceName="DataTables" />
+      <Asset Guid="79459efec17a4d00a321bdcc27bbc385" ResourceName="TMPResources" />
+      <Asset Guid="7e4cdfbfd322d6944af95de6468ef913" ResourceName="DataTables" />
+      <Asset Guid="80e845fc16fa8cc40b83ead63a29e0fe" ResourceName="GameAssets/Textures/1_2" />
+      <Asset Guid="8228c8b5d0bb17f4e940074b3c15869d" ResourceName="DataTables" />
+      <Asset Guid="87a7616864bb70f4a8f6e78430ed8c11" ResourceName="DataTables" />
+      <Asset Guid="89e2bd4ad48a39941b01a7bfbd291840" ResourceName="GameAssets/Textures/1_6" />
+      <Asset Guid="8b62ea4890f22fe468371ea2d44ac751" ResourceName="GameAssets/Spine/ArmourBoss" />
+      <Asset Guid="8f586378b4e144a9851e7b34d9b748ee" ResourceName="TMPResources" />
+      <Asset Guid="92605e997fdae434784809d4cce1236c" ResourceName="DataTables" />
+      <Asset Guid="975b5869554fddd43a7f30d10fb7194b" ResourceName="GameAssets/Textures/1_7" />
+      <Asset Guid="9c78b73afcec2704186bf4c9b7dd374e" ResourceName="GameAssets/UIForms/MainUI/MainUIForm" />
+      <Asset Guid="9f0534d152df74040a1f6397802aae17" ResourceName="DataTables" />
+      <Asset Guid="9f06d6135d6f2e04a9180ac8e249e9ab" ResourceName="GameAssets/Textures/1_4" />
+      <Asset Guid="9fe09b30ae74640409385bdba996dd13" ResourceName="DataTables" />
+      <Asset Guid="a0aef8cacc4419448a3cd9cfee1b1b6f" ResourceName="GameAssets/Textures/1_9" />
+      <Asset Guid="a801fa941b7bc8b4db910677024d9d78" ResourceName="GameAssets/UIForms/LoadAssetsForm" />
+      <Asset Guid="abf722a5c89d82f42a451a6d86a42993" ResourceName="DataTables" />
+      <Asset Guid="b406f0cdba2477f438ac3d12837b3243" ResourceName="DataTables" />
+      <Asset Guid="b44bfac45a6cb7f448eb320ecc030a9c" ResourceName="Configs" />
+      <Asset Guid="b69aa98f432d4f34dba7f18fcba932c8" ResourceName="GameAssets/UIForms/FightProcedure/SelectBuffsForm" />
+      <Asset Guid="bacdb94e104c4bf4a8641104cabbdb3b" ResourceName="GameAssets/Entities/Skill/Shell/SkillShell" />
+      <Asset Guid="c3ae49de1a0e9f54981d8346cb7558fa" ResourceName="GameAssets/Spine/hero1" />
+      <Asset Guid="c3cd4a8f78b35e8449cda726a2caa59e" ResourceName="GameAssets/UISpriteAtlas/Common" />
+      <Asset Guid="c41005c129ba4d66911b75229fd70b45" ResourceName="TMPResources" />
+      <Asset Guid="c58d135eda77db742b0c22ed580f7838" ResourceName="GameAssets/Spine/ArmourBoss" />
+      <Asset Guid="cb1aedacd5a2eea47a135f31e7ef365c" ResourceName="GameAssets/Spine/hero1" />
+      <Asset Guid="cc0e58ba8e7f03c4d92cb93ae3747c0e" ResourceName="DataTables" />
+      <Asset Guid="d1594fc5fab5c61459ba48b1b6e66c42" ResourceName="DataTables" />
+      <Asset Guid="d733fb12360ee4f41af1183dfbabbf85" ResourceName="GameAssets/Spine/ArmourBoss" />
+      <Asset Guid="d7f583ba35261fd47af4c035a74abbd1" ResourceName="GameAssets/UISprites/Common" />
+      <Asset Guid="d80eaa3ab4d079542abeb165c9092fb4" ResourceName="DataTables" />
+      <Asset Guid="d82c1b31c7e74239bff1220585707d2b" ResourceName="TMPResources" />
+      <Asset Guid="db5ed04d6c0be454f9e99be4c5806a82" ResourceName="GameAssets/UISprites/Common" />
+      <Asset Guid="dba6d39e686125341a23cdc7c1e2c9c5" ResourceName="DataTables" />
+      <Asset Guid="dee3c00eb052d4245ba03e39b94fe40d" ResourceName="GameAssets/UISprites/Common" />
+      <Asset Guid="df490aae9b412f148b374472e1a0d3ac" ResourceName="GameAssets/UISprites/Common" />
+      <Asset Guid="dfba4851c946a5548970d6fd4fc5803c" ResourceName="GameAssets/Spine/hero1" />
+      <Asset Guid="e1d111d4141b7244bb543a3a71cd18c9" ResourceName="GameAssets/UIForms/FightProcedure/FightFailureForm" />
+      <Asset Guid="e5e13aefe6841aa439edce39ff76a5b1" ResourceName="DataTables" />
+      <Asset Guid="e73a58f6e2794ae7b1b7e50b7fb811b0" ResourceName="TMPResources" />
+      <Asset Guid="eeb0e7b9bd7b61044add7770c5e78ac7" ResourceName="GameAssets/Scenes/LevelFightScene" />
+      <Asset Guid="f0c85a8d5bb688f41b9b011ab71f295c" ResourceName="GameAssets/Textures/1_10" />
+      <Asset Guid="f21d93d9746d9794998dabfbc086cf96" ResourceName="GameAssets/UIForms/FightProcedure/DamageFloatForm" />
+      <Asset Guid="f3b10a2ab565cab448e6b96b061edccb" ResourceName="GameAssets/Spine/hero1" />
+      <Asset Guid="f89b00c6f90d6894c9ffe7564b370ea7" ResourceName="GameAssets/Textures/1_1" />
+      <Asset Guid="f952c082cb03451daed3ee968ac6c63e" ResourceName="TMPResources" />
+      <Asset Guid="fade42e8bc714b018fac513c043d323b" ResourceName="TMPResources" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>

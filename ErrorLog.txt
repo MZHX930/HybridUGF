@@ -1,0 +1,18 @@
+Assertion failed on expression: '!(o->TestHideFlag(Object::kDontSaveInEditor) && (options & kAllowDontSaveObjectsToBePersistent) == 0)'
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+Assertion failed on expression: '!(o->TestHideFlag(Object::kDontSaveInEditor) && (options & kAllowDontSaveObjectsToBePersistent) == 0)'
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+Assertion failed on expression: '!(o->TestHideFlag(Object::kDontSaveInEditor) && (options & kAllowDontSaveObjectsToBePersistent) == 0)'
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+Assertion failed on expression: '!(o->TestHideFlag(Object::kDontSaveInEditor) && (options & kAllowDontSaveObjectsToBePersistent) == 0)'
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+Assertion failed on expression: '!(o->TestHideFlag(Object::kDontSaveInEditor) && (options & kAllowDontSaveObjectsToBePersistent) == 0)'
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+Assertion failed on expression: '!(o->TestHideFlag(Object::kDontSaveInEditor) && (options & kAllowDontSaveObjectsToBePersistent) == 0)'
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+

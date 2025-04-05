@@ -1,0 +1,650 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <Dictionary Language="PortugueseBrazil">
+        <String Key="设置界面5" Value="Português" />
+        <String Key="主页icon1" Value="Pacote de novato" />
+        <String Key="主页icon2" Value="Loja mensal" />
+        <String Key="主页icon3" Value="Fundo de crescimento" />
+        <String Key="主页icon4" Value="VIP" />
+        <String Key="主页icon5" Value="Pacote de boost" />
+        <String Key="导航栏1" Value="Batalha" />
+        <String Key="导航栏2" Value="Loja" />
+        <String Key="导航栏3" Value="Equipamento" />
+        <String Key="导航栏4" Value="Evento" />
+        <String Key="导航栏5" Value="herói" />
+        <String Key="导航栏6" Value="talento" />
+        <String Key="品质1" Value="Comum" />
+        <String Key="品质2" Value="Raro" />
+        <String Key="品质3" Value="Épico" />
+        <String Key="品质4" Value="Lenda" />
+        <String Key="关卡名101" Value="Prado Ventoso" />
+        <String Key="关卡名102" Value="Pradaria Infinita" />
+        <String Key="关卡名201" Value="Labirinto de Dunas" />
+        <String Key="关卡名202" Value="Tempestade de Areia" />
+        <String Key="关卡名301" Value="Lava Derretida" />
+        <String Key="关卡名302" Value="Fogo do Inferno" />
+        <String Key="关卡名401" Value="Caminho Glacial" />
+        <String Key="关卡名402" Value="Permafrost" />
+        <String Key="关卡名501" Value="Caminho Antigo" />
+        <String Key="关卡名502" Value="Relíquias Sagradas" />
+        <String Key="关卡名11" Value="Canção do Orvalho da Manhã" />
+        <String Key="关卡名12" Value="Trilha do Por do Sol" />
+        <String Key="关卡名13" Value="Cânion Frio" />
+        <String Key="关卡名14" Value="Pico da Fúria" />
+        <String Key="关卡名15" Value="Sonho Partido" />
+        <String Key="关卡名循环1" Value="Ondas Brilhantes" />
+        <String Key="关卡名循环2" Value="Areais Sem Fim" />
+        <String Key="关卡名循环3" Value="Fenda de Lava" />
+        <String Key="关卡名循环4" Value="Palácio de Cristal" />
+        <String Key="关卡名循环5" Value="Velhas Histórias" />
+        <String Key="关卡名循环6" Value="Pico da Fúria" />
+        <String Key="关卡名循环7" Value="Poeira Selvagem" />
+        <String Key="关卡名循环8" Value="Sussurros das Ruínas" />
+        <String Key="关卡描述1" Value="Limpo" />
+        <String Key="关卡描述2" Value="Maior Registro: Onda {0}" />
+        <String Key="关卡描述3" Value="Jogadores concluídos：{0}" />
+        <String Key="解锁说明1" Value="Desbloqueado após passar de nível {0}" />
+        <String Key="解锁说明2" Value="Trancado" />
+        <String Key="解锁说明3" Value="Desbloquear após qualquer pagamento" />
+        <String Key="解锁说明4" Value="Desbloqueado após 7 dias de login" />
+        <String Key="解锁" Value="Desbloqueado" />
+        <String Key="波次说明1" Value="Onda {0}" />
+        <String Key="挑战关卡按钮1" Value="Batalha" />
+        <String Key="挑战关卡按钮2" Value="Incursão" />
+        <String Key="剩余次数说明1" Value="{0} tentativas restantes hoje" />
+        <String Key="Toast1" Value="Equipamento insuficiente" />
+        <String Key="Toast2" Value="Energia insuficiente" />
+        <String Key="Toast3" Value="Ouro insuficiente" />
+        <String Key="Toast4" Value="Gemas insuficientes" />
+        <String Key="Toast5" Value="Fragmentos insuficientes" />
+        <String Key="Toast6" Value="Pegue suas armas para lutar" />
+        <String Key="Toast7" Value="Em breve..." />
+        <String Key="Toast8" Value="Anúncio não carrega, tente novamente mais tarde" />
+        <String Key="Toast9" Value="O equipamento atingiu o nível máximo, 
+não pode ser fundido" />
+        <String Key="Toast10" Value="Por favor preencha a descrição do problema" />
+        <String Key="Toast11" Value="submetido com sucesso" />
+        <String Key="Toast12" Value="Chaves insuficientes" />
+        <String Key="Toast13" Value="Conecte-se à loja..." />
+        <String Key="Toast14" Value="Tentativas de desafio insuficientes restantes" />
+        <String Key="Toast15" Value="Poção insuficiente" />
+        <String Key="Toast16" Value="O talento está cheio" />
+        <String Key="Toast17" Value="Hero Star 3 desbloqueado" />
+        <String Key="Toast18" Value="Energia de habilidade insuficiente" />
+        <String Key="Toast19" Value="{0} não é suficiente" />
+        <String Key="Toast20" Value="Foi sorteado hoje, volte amanhã" />
+        <String Key="Toast21" Value="Sucesso na compra!" />
+        <String Key="Toast22" Value="Compra falhada" />
+        <String Key="Toast23" Value="Recuperação bem-sucedida" />
+        <String Key="Toast24" Value="Falha na restauração, tente novamente mais tarde" />
+        <String Key="Toast25" Value="Excedido o limite de dias de compra" />
+        <String Key="商店分区1" Value="Ofertas Diárias" />
+        <String Key="商店分区2" Value="Baú de Fragmentos" />
+        <String Key="商店分区3" Value="Ouro" />
+        <String Key="商店分区4" Value="VIP" />
+        <String Key="商店分区5" Value="Energia" />
+        <String Key="商店分区6" Value="pacote de presente" />
+        <String Key="商店分区7" Value="poção mágica" />
+        <String Key="商店礼包1" Value="Pacote de presente de valor" />
+        <String Key="商店礼包2" Value="Contém fragmentos do herói Wukong!" />
+        <String Key="商店礼包3" Value="Compra por tempo limitado:" />
+        <String Key="商品金币1" Value="Um Punhado de Ouro" />
+        <String Key="商品金币2" Value="Um Saco de Ouro" />
+        <String Key="商品金币3" Value="Uma Caixa de Ouro" />
+        <String Key="商品钻石1" Value="Diamante" />
+        <String Key="商品钻石2" Value="punhado de diamantes" />
+        <String Key="商品钻石3" Value="alguns diamantes" />
+        <String Key="商品钻石4" Value="muitos diamantes" />
+        <String Key="商品钻石5" Value="Pequeno saco de diamantes" />
+        <String Key="商品钻石6" Value="Grande saco de diamantes" />
+        <String Key="商品钻石7" Value="caixa de diamantes" />
+        <String Key="商品药瓶1" Value="Uma pequena quantidade de poção mágica" />
+        <String Key="商品药瓶2" Value="algumas poções mágicas" />
+        <String Key="商品药瓶3" Value="Muitas poções mágicas" />
+        <String Key="商品钥匙1" Value="chave de prata" />
+        <String Key="商品钥匙2" Value="chave de ouro" />
+        <String Key="商品宝箱1" Value="Baú Comum" />
+        <String Key="商品宝箱2" Value="Baú Exquisito" />
+        <String Key="商品宝箱3" Value="{0}Equipamento Comum{1} Garantido" />
+        <String Key="商品宝箱4" Value="{0}Equipamento Raro{1} Garantido" />
+        <String Key="商品宝箱5" Value="Possíveis fragmentos de equipamento obtíveis:" />
+        <String Key="商品宝箱6" Value="Probabilidade de cada fragmento: {0}" />
+        <String Key="商品宝箱7" Value="Abrir baús aumenta o nível, melhorando a próxima recompensa" />
+        <String Key="商品宝箱8" Value="Toque para abrir" />
+        <String Key="商品宝箱9" Value="{0}Equipamento Épico{1} Garantido" />
+        <String Key="商品宝箱10" Value="Equipamento {0}lendário{1} indispensável" />
+        <String Key="宝箱弹窗1" Value="Recompensas do baú" />
+        <String Key="宝箱弹窗2" Value="Atualização de nível de baú" />
+        <String Key="商品去广告1" Value="Benefício VIP: Remover todos os anúncios" />
+        <String Key="商品去广告2" Value="Benefícios VIP Ativados" />
+        <String Key="体力弹窗1" Value="Estação de Energia" />
+        <String Key="商店说明1" Value="Você pode solicitar um reembolso no prazo de 7 dias a partir da data da compra.
+(No entanto, os reembolsos não podem ser feitos para produtos abertos imediatamente ou quando parte do produto for usada.)" />
+        <String Key="商店按钮1" Value="Grátis" />
+        <String Key="商店按钮2" Value="Esgotado" />
+        <String Key="商店按钮3" Value="Restaurar Compras" />
+        <String Key="商店按钮4" Value="Atualizar" />
+        <String Key="商店按钮5" Value="Ainda restam {0} horários livres hoje" />
+        <String Key="商店折扣1" Value="Promoção" />
+        <String Key="商店折扣2" Value="-0.9" />
+        <String Key="商店折扣3" Value="-0.7" />
+        <String Key="商店折扣4" Value="-0.5" />
+        <String Key="商店折扣5" Value="-0.3" />
+        <String Key="商店折扣6" Value="-0.1" />
+        <String Key="商店折扣7" Value="Valor" />
+        <String Key="vip结算礼包1" Value="Membro premium" />
+        <String Key="vip结算礼包2" Value="Ganhe imediatamente os recursos acumulados após a compra:" />
+        <String Key="vip结算礼包3" Value="Adiciona permanentemente {0} moedas, {1} sobremesas e {2} fragmentos de equipamentos ao final de cada fase principal após a compra!" />
+        <String Key="vip结算礼包4" Value="Os benefícios são efetivos permanentemente!" />
+        <String Key="月卡商店1" Value="Passe Semanal" />
+        <String Key="月卡商店2" Value="Receber recompensas sem anúncios" />
+        <String Key="月卡商店3" Value="Passe Mensal" />
+        <String Key="月卡商店4" Value="Limite de energia +30" />
+        <String Key="月卡商店5" Value="Não ativo" />
+        <String Key="月卡商店6" Value="Receber" />
+        <String Key="月卡商店7" Value="Recebido" />
+        <String Key="月卡商店8" Value="Obtenha agora" />
+        <String Key="月卡商店9" Value="Recompensas diárias" />
+        <String Key="月卡弹窗1" Value="Compre e desfrute de benefícios de grande valor" />
+        <String Key="成长基金1" Value="Em vigor imediatamente após a compra, reembolsos estão disponíveis se não forem aplicáveis." />
+        <String Key="成长基金2" Value="Você pode atualizar passando o nível principal." />
+        <String Key="成长基金3" Value="Página {0}" />
+        <String Key="成长基金4" Value="Obtenha com um clique" />
+        <String Key="成长基金5" Value="Nível de crescimento aprovado {0}" />
+        <String Key="成长基金6" Value="Obtenha as seguintes recompensas imediatamente após a compra" />
+        <String Key="成长基金7" Value="As seguintes recompensas podem ser desbloqueadas na compra" />
+        <String Key="奖励界面1" Value="Parabéns" />
+        <String Key="奖励界面2" Value="Toque para continuar" />
+        <String Key="装备养成按钮1" Value="Melhorar" />
+        <String Key="装备养成按钮2" Value="Máx" />
+        <String Key="装备名称0" Value="Carteira" />
+        <String Key="装备名称1" Value="Adaga" />
+        <String Key="装备名称2" Value="Espada" />
+        <String Key="装备名称3" Value="Luva" />
+        <String Key="装备名称4" Value="Veneno" />
+        <String Key="装备名称5" Value="Shuriken" />
+        <String Key="装备名称6" Value="Poção" />
+        <String Key="装备名称7" Value="Arco" />
+        <String Key="装备名称8" Value="Feitiço de Gelo" />
+        <String Key="装备名称9" Value="Barril de Vinho" />
+        <String Key="装备名称10" Value="Varinha de Laser" />
+        <String Key="装备名称11" Value="taco de beisebol" />
+        <String Key="装备名称12" Value="machado de arremesso" />
+        <String Key="装备名称13" Value="martelo do raio" />
+        <String Key="装备名称14" Value="besta" />
+        <String Key="装备名称15" Value="futebol americano" />
+        <String Key="装备名称16" Value="mangual" />
+        <String Key="装备名称17" Value="escudo" />
+        <String Key="装备名称18" Value="anel" />
+        <String Key="装备名称19" Value="bola saltitante" />
+        <String Key="装备名称20" Value="arma dupla" />
+        <String Key="装备名称21" Value="Bastão de ouro" />
+        <String Key="装备分区1" Value="Implantado" />
+        <String Key="装备分区2" Value="Não implantado" />
+        <String Key="装备属性1" Value="Alvo" />
+        <String Key="装备属性2" Value="CD" />
+        <String Key="装备属性3" Value="Alcance" />
+        <String Key="装备属性4" Value="Ataque" />
+        <String Key="装备属性5" Value="HP" />
+        <String Key="装备属性6" Value="Empilhamento de Escudo" />
+        <String Key="装备属性7" Value="Cura" />
+        <String Key="装备属性8" Value="Dinheiro" />
+        <String Key="装备属性9" Value="Eu" />
+        <String Key="装备属性10" Value="Inimigo Mais Próximo" />
+        <String Key="装备属性11" Value="Inimigo Aleatório" />
+        <String Key="装备1词条1" Value="CD do Adaga {0}-20%{1}" />
+        <String Key="装备1词条2" Value="25% de chance de lançar um Adaga extra {0}+1{1}" />
+        <String Key="装备1词条3" Value="Dano do Adaga {0}+25%{1}" />
+        <String Key="装备1词条4" Value="CD do Adaga {0}-30%{1}" />
+        <String Key="装备1词条5" Value="50% de chance de lançar um Adaga extra {0}+1{1}" />
+        <String Key="装备1词条6" Value="Dano do Adaga {0}+50%{1}" />
+        <String Key="装备1词条7" Value="Dano da faca borboleta ao chefe{0}+100%{1}" />
+        <String Key="装备2词条1" Value="CD da Espada {0}-25%{1}" />
+        <String Key="装备2词条2" Value="Invoca 2 espadas giratórias por 2s" />
+        <String Key="装备2词条3" Value="Espadas giratórias aumentadas para {0}4{1}" />
+        <String Key="装备2词条4" Value="Espadas giratórias aumentadas para {0}6{1}" />
+        <String Key="装备2词条5" Value="Alcance de ataque da espada invocada {0}+50%{1}" />
+        <String Key="装备2词条6" Value="Dano de espada{0}+50%{1}" />
+        <String Key="装备2词条7" Value="Há uma probabilidade de {0}25%{1} de lançar duas espadas seguidas" />
+        <String Key="装备3词条1" Value="Todas as armas ao lado das luva CD {0}-10%{1}" />
+        <String Key="装备3词条2" Value="CD das Luva {0}-10%{1}" />
+        <String Key="装备3词条3" Value="Empilhamento de Escudo de Luva {0}+20%{1}" />
+        <String Key="装备3词条4" Value="Todas as armas ao lado das luva CD {0}-20%{1}" />
+        <String Key="装备3词条5" Value="Cada vez que você empilha uma armadura, há 10% de chance de obter 1 moeda de prata" />
+        <String Key="装备3词条6" Value="Quantidade de acúmulo de armadura de luva aumentada para {0}40%{1}" />
+        <String Key="装备3词条7" Value="Cada vez que você acumula armadura, a probabilidade de obter 1 moeda de prata aumenta para {0}20%{1}" />
+        <String Key="装备4词条1" Value="Dano de Veneno {0}+100%{1}" />
+        <String Key="装备4词条2" Value="CD de Veneno {0}-20%{1}" />
+        <String Key="装备4词条3" Value="Depois de atingir um inimigo, uma poça de veneno é criada e todos os inimigos que passarem serão envenenados" />
+        <String Key="装备4词条4" Value="O tempo de envenenamento aumentou {0}+50%{1}" />
+        <String Key="装备4词条5" Value="{0}50%{1} de probabilidade de lançar uma pequena garrafa de veneno adicional" />
+        <String Key="装备4词条6" Value="O dano contínuo de Poison aumentou para {0}200%{1}" />
+        <String Key="装备4词条7" Value="{0}100%{1} de probabilidade de lançar uma pequena garrafa de veneno adicional e criar um reservatório de veneno" />
+        <String Key="装备5词条1" Value="Shuriken irá ricochetear uma vez após atingir, máximo 1 ricochete" />
+        <String Key="装备5词条2" Value="Dano de Shuriken {0}+25%{1}" />
+        <String Key="装备5词条3" Value="Chance de acerto crítico do Shuriken{0}+25%{1}" />
+        <String Key="装备5词条4" Value="Número de Shurikens Lançados {0}+1{1}" />
+        <String Key="装备5词条5" Value="A shuriken tem {0}50%{1} de probabilidade de ser ejetada 2 vezes" />
+        <String Key="装备5词条6" Value="Dano de Shuriken{0}+50%{1}" />
+        <String Key="装备5词条7" Value="O número de shuriken disparados aumentou para {0}2{1}" />
+        <String Key="装备6词条1" Value="Cura de Poção {0}+20%{1}" />
+        <String Key="装备6词条2" Value="HP da Poção {0}+20%{1}" />
+        <String Key="装备6词条3" Value="CD da Poção {0}-25%{1}" />
+        <String Key="装备6词条4" Value="Cura de Poção {0}+40%{1}" />
+        <String Key="装备6词条5" Value="Cura de Poção {0}+50%{1}" />
+        <String Key="装备7词条1" Value="O arco dispara {0}3{1} flechas ao atacar" />
+        <String Key="装备7词条2" Value="A flecha penetra {0}+1{1} inimigo" />
+        <String Key="装备7词条3" Value="Quando o arco acerta, invoca {0}1{1} tornado" />
+        <String Key="装备7词条4" Value="Aumenta a velocidade e a distância de viagem do tornado" />
+        <String Key="装备7词条5" Value="O número de setas espalhadas aumentou para {0}5{1}" />
+        <String Key="装备7词条6" Value="Dano do arco{0}+50%{1}" />
+        <String Key="装备7词条7" Value="O tamanho do tornado aumentou para {0}150%{1}" />
+        <String Key="装备8词条1" Value="CD de Feitiço de Gelo {0}-20%{1}" />
+        <String Key="装备8词条2" Value="Dano do Cone de Gelo {0}+30%{1}" />
+        <String Key="装备8词条3" Value="Quando o Cone de Gelo acerta, invoca 5 pequenos cones, cada um causando {0}20%{1} de dano" />
+        <String Key="装备8词条4" Value="O acerto do Cone de Gelo desencadeia uma Nova de Gelo, causando uma explosão" />
+        <String Key="装备8词条5" Value="Picador de Gelo Pequeno tem {0}50%{1} de probabilidade de ativar Nova Congelante" />
+        <String Key="装备8词条6" Value="Danos no cone de gelo{0}+50%{1}" />
+        <String Key="装备8词条7" Value="Alcance Nova Gélida{0}+50%{1}" />
+        <String Key="装备9词条1" Value="Dano do Barril {0}+25%{1}" />
+        <String Key="装备9词条2" Value="CD do Barril {0}-20%{1}" />
+        <String Key="装备9词条3" Value="Tamanho do Barril {0}+100%{1}" />
+        <String Key="装备9词条4" Value="{0}25%{1} de chance de invocar um barril extra ao atacar" />
+        <String Key="装备9词条5" Value="O cano explode após rolar por uma certa distância, causando dano de área" />
+        <String Key="装备9词条6" Value="Dano do Barril {0}+50%{1}" />
+        <String Key="装备9词条7" Value="Os barris reduzem a velocidade dos inimigos em {0}25%{1}" />
+        <String Key="装备10词条1" Value="Dano do Laser {0}+25%{1}" />
+        <String Key="装备10词条2" Value="Aumenta {0}+1{1} Laser de Varrimento" />
+        <String Key="装备10词条3" Value="Aumentar significativamente a largura do laser" />
+        <String Key="装备10词条4" Value="Aumentar a contagem de laser para {0}3{1} feixes" />
+        <String Key="装备10词条5" Value="{0}+1{1} digitalização a laser adicional" />
+        <String Key="装备10词条6" Value="Dano de laser{0}+50%{1}" />
+        <String Key="装备10词条7" Value="Tempo de resfriamento do laser {0}-50%{1}" />
+        <String Key="装备11词条1" Value="Dispara aleatoriamente {0}1{1} bola de beisebol no inimigo após atingir" />
+        <String Key="装备11词条2" Value="Dano do taco de beisebol {0}+25%{1}" />
+        <String Key="装备11词条3" Value="Dispara aleatoriamente {0}3{1} bolas de beisebol no inimigo após atingir" />
+        <String Key="装备11词条4" Value="25% de chance de lançar adicionalmente {0}1{1} taco de beisebol" />
+        <String Key="装备11词条5" Value="Volume de beisebol{0}+50%{1}" />
+        <String Key="装备11词条6" Value="Danos com taco de beisebol{0}+50%{1}" />
+        <String Key="装备11词条7" Value="A chance de lançar tacos de beisebol adicionais aumentou para {0}50%{1}" />
+        <String Key="装备12词条1" Value="Penetração do machado {0}+1{1}" />
+        <String Key="装备12词条2" Value="Duração do tempo de recarga do machado {0}-20%{1}" />
+        <String Key="装备12词条3" Value="Tamanho do machado {0}+50%{1}" />
+        <String Key="装备12词条4" Value="Causa efeito de sangramento no inimigo" />
+        <String Key="装备12词条5" Value="Há 25% de chance de lançar {0}1{1} machado de arremesso adicional" />
+        <String Key="装备12词条6" Value="Dano de arremesso de machado{0}+50%{1}" />
+        <String Key="装备12词条7" Value="O tempo de espera do machado de arremesso foi reduzido para {0}-40%{1}" />
+        <String Key="装备13词条1" Value="Invoca um raio após atingir um inimigo" />
+        <String Key="装备13词条2" Value="Dano do martelo {0}+25%{1}" />
+        <String Key="装备13词条3" Value="Duração do tempo de recarga do martelo {0}-20%{1}" />
+        <String Key="装备13词条4" Value="O martelo não será bloqueado por inimigos" />
+        <String Key="装备13词条5" Value="O martelo tem {0}20%{1} de chance de repelir o inimigo" />
+        <String Key="装备13词条6" Value="Dano do martelo{0}+50%{1}" />
+        <String Key="装备13词条7" Value="Relâmpagos provocam tempestades" />
+        <String Key="装备14词条1" Value="A besta dispara {0}5{1} flechas pequenas adicionais" />
+        <String Key="装备14词条2" Value="Tempo de espera da besta{0}-20%{1}" />
+        <String Key="装备14词条3" Value="Dano de besta{0}+25%{1}" />
+        <String Key="装备14词条4" Value="Bestas irão repelir inimigos em distâncias curtas" />
+        <String Key="装备14词条5" Value="A besta causa efeitos de sangramento no inimigo" />
+        <String Key="装备14词条6" Value="Dano de besta{0}+50%{1}" />
+        <String Key="装备14词条7" Value="A besta dispara {0}8{1} flechas pequenas adicionais" />
+        <String Key="装备15词条1" Value="Rugby irá derrubar o inimigo em curtas distâncias" />
+        <String Key="装备15词条2" Value="Rugby CD {0}-20%{1}" />
+        <String Key="装备15词条3" Value="Rugby Size {0}+50%{1}" />
+        <String Key="装备15词条4" Value="20% de chance de derrubar bastante os inimigos." />
+        <String Key="装备15词条5" Value="{0}25%{1} de chance de lançar rugby {0}+1{1}" />
+        <String Key="装备15词条6" Value="Rugby damage{0}+50%{1}" />
+        <String Key="装备15词条7" Value="Rugby knockback chance aumentada para {0}30%{1}" />
+        <String Key="装备16词条1" Value="Causa efeito de sangramento no inimigo" />
+        <String Key="装备16词条2" Value="Dano do mangual {0}+25%{1}" />
+        <String Key="装备16词条3" Value="Alcance de ataque do mangual {0}+100%{1}" />
+        <String Key="装备16词条4" Value="Causa efeito de atordoamento no inimigo" />
+        <String Key="装备16词条5" Value="Flail {0}25%{1} de chance de causar 1 ataque adicional" />
+        <String Key="装备16词条6" Value="Dano de mangual {0}+50%{1}" />
+        <String Key="装备16词条7" Value="Tempo de recarga do mangual {0}-20%{1}" />
+        <String Key="装备17词条1" Value="Vida do escudo {0}+20%{1}" />
+        <String Key="装备17词条2" Value="Duração do tempo de recarga do escudo {0}-20%{1}" />
+        <String Key="装备17词条3" Value="Lança o escudo e atordoa o inimigo" />
+        <String Key="装备17词条4" Value="20% de chance de reduzir o dano recebido à distância em {0}-50%{1}" />
+        <String Key="装备17词条5" Value="Vida do escudo {0}+30%{1}" />
+        <String Key="装备18词条1" Value="Vida do anel {0}+20%{1}" />
+        <String Key="装备18词条2" Value="Dano de arma perto do anel{0}+20%{1}" />
+        <String Key="装备18词条3" Value="Para cada anel contido na mochila, a taxa de esquiva é de {0}+1%{1}" />
+        <String Key="装备18词条4" Value="Taxa de acerto crítico {0}+1%{1} para cada anel carregado na mochila" />
+        <String Key="装备19词条1" Value="Número de saltos da bola elástica {0}+3{1}" />
+        <String Key="装备19词条2" Value="Dano por salto da bola elástica {0}+30%{1}" />
+        <String Key="装备19词条3" Value="Após o primeiro golpe em um inimigo, a bola elástica tem 50% de chance de se dividir em 2 bolas" />
+        <String Key="装备19词条4" Value="Taxa de crítico da bola elástica {0}+30%{1}" />
+        <String Key="装备19词条5" Value="O número de quiques da bola saltitante aumentou para {0}5{1}" />
+        <String Key="装备19词条6" Value="Dano de bola saltitante{0}+50%{1}" />
+        <String Key="装备19词条7" Value="Bola saltitante com {0}20%{1} de chance de repelir os inimigos" />
+        <String Key="装备20词条1" Value="Quando 2 balas atingem o mesmo inimigo, a segunda bala é garantidamente um crítico" />
+        <String Key="装备20词条2" Value="Dano da bala {0}+50%{1}" />
+        <String Key="装备20词条3" Value="Balas causam dano por sangramento ao atingir inimigos" />
+        <String Key="装备20词条4" Value="Balas explodem ao atingir inimigos, causando dano em área" />
+        <String Key="装备20词条5" Value="{0}30%{1} de chance de disparar uma bala adicional" />
+        <String Key="装备20词条6" Value="Dano da bala {0}+50%{1}" />
+        <String Key="装备20词条7" Value="Recarga da arma dupla{0}-20%{1}" />
+        <String Key="装备21词条1" Value="Comprimento do bastão dourado {0}+25%{1}" />
+        <String Key="装备21词条2" Value="Invoca um enorme bastão dourado para atingir inimigos" />
+        <String Key="装备21词条3" Value="20% de chance de atordoar por 0,5s ao ser atingido pelo bastão dourado" />
+        <String Key="装备21词条4" Value="Dano do bastão dourado {0}+50%{1}" />
+        <String Key="装备21词条5" Value="O comprimento do Porrete de Ouro foi aumentado para {0}50%{1}" />
+        <String Key="装备21词条6" Value="Dano do Porrete Dourado{0}+70%{1}" />
+        <String Key="装备21词条7" Value="Resfriamento por Porrete Dourado {0}-35%{1}" />
+        <String Key="通用词条装备101" Value="CD de todas as armas -5%" />
+        <String Key="通用词条装备102" Value="CD de todas as armas -10%" />
+        <String Key="通用词条装备103" Value="CD de todas as armas -20%" />
+        <String Key="通用词条装备201" Value="CD de todas as armaduras -5%" />
+        <String Key="通用词条装备202" Value="CD de todas as armaduras -10%" />
+        <String Key="通用词条装备203" Value="CD de todas as armaduras -20%" />
+        <String Key="通用词条装备301" Value="Dano de todas as armas +5%" />
+        <String Key="通用词条装备302" Value="Dano de todas as armas +10%" />
+        <String Key="通用词条装备303" Value="Dano de todas as armas +20%" />
+        <String Key="通用词条装备401" Value="HP de todas as armaduras +5%" />
+        <String Key="通用词条装备402" Value="HP de todas as armaduras +10%" />
+        <String Key="通用词条装备403" Value="HP de todas as armaduras +20%" />
+        <String Key="通用词条装备503" Value="Restaurar imediatamente 50% HP" />
+        <String Key="通用词条怪物101" Value="Experiência ao matar monstros +10%" />
+        <String Key="通用词条怪物102" Value="Experiência ao matar monstros +25%" />
+        <String Key="通用词条怪物103" Value="Experiência ao matar monstros +50%" />
+        <String Key="通用词条怪物201" Value="Velocidade de movimento de todos os monstros -5%" />
+        <String Key="通用词条怪物202" Value="Velocidade de movimento de todos os monstros -10%" />
+        <String Key="通用词条怪物203" Value="Velocidade de movimento de todos os monstros -20%" />
+        <String Key="通用词条怪物301" Value="Dano de todos os monstros -5%" />
+        <String Key="通用词条怪物302" Value="Dano de todos os monstros -10%" />
+        <String Key="通用词条怪物303" Value="Dano de todos os monstros -20%" />
+        <String Key="通用词条经济101" Value="Obter imediatamente 20 moedas de prata" />
+        <String Key="通用词条经济102" Value="Obter imediatamente 30 moedas de prata" />
+        <String Key="通用词条经济103" Value="Obter imediatamente 60 moedas de prata" />
+        <String Key="通用词条经济201" Value="Moedas de prata ganhas por onda +20%" />
+        <String Key="通用词条经济202" Value="Moedas de prata ganhas por onda +30%" />
+        <String Key="通用词条经济203" Value="Moedas de prata ganhas por onda +50%" />
+        <String Key="通用词条商店103" Value="Aumenta 50% a chance de atualizar o equipamento de nível 2" />
+        <String Key="通用词条商店203" Value="Cada atualização adiciona um item adicional" />
+        <String Key="通用词条商店303" Value="A primeira atualização é gratuita cada vez que retornar à loja" />
+        <String Key="通用词条boss101" Value="Dano ao chefe +10%" />
+        <String Key="通用词条boss102" Value="Dano ao chefe +25%" />
+        <String Key="通用词条boss103" Value="Dano ao chefe +40%" />
+        <String Key="通用词条经济301" Value="Ganhe 5% de juros após a batalha (máximo 10)" />
+        <String Key="通用词条经济302" Value="Ganhe 10% de juros após a batalha (máximo 10)" />
+        <String Key="通用词条经济303" Value="Ganhe 20% de juros após a batalha (máximo 10)" />
+        <String Key="通用词条一次性1" Value="Após esta rodada de batalha, 1 equipamento será atualizado aleatoriamente" />
+        <String Key="通用词条一次性2" Value="Após esta rodada de batalha, 2 equipamentos serão atualizados aleatoriamente" />
+        <String Key="暂停界面1" Value="Pausa" />
+        <String Key="暂停界面2" Value="Recurso Ativado" />
+        <String Key="退出弹窗1" Value="Atenção" />
+        <String Key="退出弹窗2" Value="Sair agora não concederá nenhuma recompensa nem reembolsará energia. Continuar?" />
+        <String Key="退出弹窗3" Value="Confirmar" />
+        <String Key="战斗界面1" Value="Onda {0}" />
+        <String Key="战斗界面2" Value="Atualizar" />
+        <String Key="战斗界面3" Value="Equipamento Lv.2 +1" />
+        <String Key="战斗界面4" Value="Batalha" />
+        <String Key="战斗界面5" Value="Estatísticas de Dano" />
+        <String Key="补充银币弹窗1" Value="Moedas de prata insuficientes" />
+        <String Key="补充银币弹窗2" Value="Assistir a um vídeo para ganhar {0} moedas de prata?" />
+        <String Key="选择词条界面1" Value="Recurso" />
+        <String Key="选择词条界面2" Value="{0}/{1} Usos Restantes" />
+        <String Key="选择词条界面3" Value="Atualizar" />
+        <String Key="选择词条界面4" Value="Pegar Tudo" />
+        <String Key="复活界面1" Value="Reviver?" />
+        <String Key="复活界面2" Value="Você receberá 30 moedas de prata e desbloqueará a loja no jogo, que sempre será atualizada com equipamentos de nível 3." />
+        <String Key="复活界面3" Value="Reviver" />
+        <String Key="复活界面4" Value="Não, obrigado" />
+        <String Key="结算界面1" Value="Vitória" />
+        <String Key="结算界面2" Value="Derrota" />
+        <String Key="结算界面3" Value="Maior Registro: Onda {0}" />
+        <String Key="结算界面4" Value="Novo Recorde!" />
+        <String Key="结算界面5" Value="Recompensas" />
+        <String Key="结算界面6" Value="Duplo" />
+        <String Key="结算界面7" Value="Confirmar" />
+        <String Key="结算界面8" Value="Restam {0} vezes hoje" />
+        <String Key="结算界面9" Value="Registro atual: Onda {0}" />
+        <String Key="设置界面1" Value="Configurações" />
+        <String Key="设置界面2" Value="Som" />
+        <String Key="设置界面3" Value="Música" />
+        <String Key="设置界面4" Value="Vibração" />
+        <String Key="设置界面6" Value="Política de Privacidade" />
+        <String Key="设置界面7" Value="Política do usuário" />
+        <String Key="设置界面9" Value="Vincular conta" />
+        <String Key="新装备解锁1" Value="Novo Equipamento" />
+        <String Key="新装备解锁2" Value="Novo Slot de Implantação" />
+        <String Key="引导1" Value="Monstros estão chegando, arrume seu equipamento rapidamente para a batalha!" />
+        <String Key="引导2" Value="Coloque o equipamento na sua mochila" />
+        <String Key="引导3" Value="A mochila não cabe, clique na adaga para girar" />
+        <String Key="引导4" Value="Atualizando a loja para obter mais equipamentos" />
+        <String Key="引导5" Value="Dois equipamentos iguais podem ser combinados para uma atualização" />
+        <String Key="引导6" Value="O saco de dinheiro produz moedas de prata extras após derrotar cada onda" />
+        <String Key="引导7" Value="Tudo está pronto, vamos vencer esses monstros!" />
+        <String Key="引导8" Value="Escolha um recurso para melhorar suas habilidades!" />
+        <String Key="引导9" Value="Depois de derrotar uma onda de monstros, vamos fazer uma pausa!" />
+        <String Key="引导10" Value="Adicione novos slots à sua mochila para expandir seu espaço" />
+        <String Key="引导11" Value="Use moedas de prata para atualizar a loja e obter mais equipamentos" />
+        <String Key="引导12" Value="Aproveite ao máximo o espaço da sua mochila, maximize seu potencial!" />
+        <String Key="引导13" Value="Uau! Você conseguiu alguns fragmentos de equipamento, agora você pode atualizar seu equipamento!" />
+        <String Key="引导14" Value="Atualizar seu equipamento pode melhorar habilidades básicas e desbloquear novos recursos" />
+        <String Key="引导15" Value="Mais equipamento poderoso esperando para você desbloquear" />
+        <String Key="引导16" Value="Você ficou mais forte! Vamos continuar lutando contra esses monstros!" />
+        <String Key="引导17" Value="Parabéns! Você desbloqueou novo equipamento, implante-o agora!" />
+        <String Key="引导18" Value="Arraste o equipamento para cima e substitua-o pelo equipamento da batalha" />
+        <String Key="引导19" Value="Clique para ajustar a velocidade de combate do nível atual" />
+        <String Key="断网" Value="Para garantir uma melhor experiência de jogo, você precisa jogar online." />
+        <String Key="好评1" Value="Avaliação de Cinco Estrelas" />
+        <String Key="好评2" Value="Se você gostou do nosso jogo, por favor, dê-nos uma avaliação de cinco estrelas. É muito importante para nós." />
+        <String Key="反馈1" Value="Enviar" />
+        <String Key="反馈2" Value="Feedback" />
+        <String Key="反馈3" Value="Tipo de Feedback" />
+        <String Key="反馈4" Value="Melhorar" />
+        <String Key="反馈5" Value="Reclamação" />
+        <String Key="反馈6" Value="Outro" />
+        <String Key="反馈7" Value="Bug" />
+        <String Key="反馈8" Value="Clique para preencher os detalhes." />
+        <String Key="反馈9" Value="Contato (opcional)" />
+        <String Key="反馈10" Value="Facebook" />
+        <String Key="反馈11" Value="Email" />
+        <String Key="反馈12" Value="Phone" />
+        <String Key="反馈13" Value="Por favor, preencha" />
+        <String Key="断线重连标题" Value="Aviso" />
+        <String Key="断线重连内容" Value="Retomar batalha anterior?" />
+        <String Key="加速弹窗1" Value="Aceleração de batalha" />
+        <String Key="加速弹窗2" Value="Você quer acelerar o nível atual?" />
+        <String Key="银币使用弹窗1" Value="dica" />
+        <String Key="银币使用弹窗2" Value="Você ainda tem muitas moedas de prata disponíveis para atualizações." />
+        <String Key="银币使用弹窗3" Value="No modo &quot;Lute até o fim&quot; você só pode se preparar uma vez. Após entrar na batalha, não poderá voltar. Ainda tem moedas de prata, tem certeza que deseja entrar?" />
+        <String Key="银币使用弹窗4" Value="Preparar" />
+        <String Key="银币使用弹窗5" Value="Lutar" />
+        <String Key="确认框勾选1" Value="Não há mais lembretes hoje" />
+        <String Key="副本标题1" Value="Diamond Realm" />
+        <String Key="副本标题2" Value="Gold Realm" />
+        <String Key="副本标题3" Value="Gear Realm" />
+        <String Key="副本标题4" Value="Lute até o fim" />
+        <String Key="剩余时间说明1" Value="Tempo restante:" />
+        <String Key="副本玩法说明1" Value="Lute até o fim" />
+        <String Key="副本玩法说明2" Value="os inimigos continuarão chegando! Esteja preparado para a batalha e espere até o fim da contagem regressiva!" />
+        <String Key="副本玩法说明3" Value="Recompensas generosas" />
+        <String Key="副本玩法说明4" Value="Quanto maiores os pontos acumulados, mais generosas serão as recompensas!" />
+        <String Key="副本玩法说明5" Value="Batalha extravagante" />
+        <String Key="副本玩法说明6" Value="Dois buffs e debuffs aleatórios diferentes toda semana!" />
+        <String Key="副本玩法说明7" Value="Lista de glória" />
+        <String Key="副本玩法说明8" Value="A lista é atualizada toda semana, continue desafiando e competindo pela primeira posição!" />
+        <String Key="副本玩法说明9" Value="Guia" />
+        <String Key="副本积分奖励弹窗1" Value="Pontos Recompensas" />
+        <String Key="副本积分奖励弹窗2" Value="Não alcançado" />
+        <String Key="一站到底排行榜1" Value="Classificação" />
+        <String Key="一站到底排行榜2" Value="RumbleBag" />
+        <String Key="一站到底排行榜3" Value="Não classificado" />
+        <String Key="副本按钮1" Value="Enter" />
+        <String Key="副本记录1" Value="Melhor recorde" />
+        <String Key="副本退出1" Value="Sair agora fará com que o desafio falhe. Continuar?" />
+        <String Key="副本退出2" Value="O desafio ainda não acabou,tem certeza que quer sair?" />
+        <String Key="游戏属性1" Value="Pontos de Vida" />
+        <String Key="游戏属性2" Value="Porcentagem de Regeneração de PV" />
+        <String Key="游戏属性3" Value="Regeneração de PV" />
+        <String Key="游戏属性4" Value="Aumento de PV" />
+        <String Key="游戏属性5" Value="Escudo" />
+        <String Key="游戏属性6" Value="Porcentagem de Regeneração de Escudo" />
+        <String Key="游戏属性7" Value="Regeneração de Escudo" />
+        <String Key="游戏属性8" Value="Aumento de Escudo" />
+        <String Key="游戏属性9" Value="Ataque" />
+        <String Key="游戏属性10" Value="Aumento de Ataque" />
+        <String Key="游戏属性11" Value="Taxa Crítica" />
+        <String Key="游戏属性12" Value="Dano Crítico" />
+        <String Key="游戏属性13" Value="Taxa de Evasão" />
+        <String Key="游戏属性14" Value="Duração de Atordoamento" />
+        <String Key="游戏属性15" Value="Taxa de Envenenamento" />
+        <String Key="游戏属性16" Value="Duração do Veneno" />
+        <String Key="游戏属性17" Value="Taxa de Sangramento" />
+        <String Key="游戏属性18" Value="Duração do Sangramento" />
+        <String Key="游戏属性19" Value="Velocidade de Movimento" />
+        <String Key="游戏属性20" Value="Número de Rebotes" />
+        <String Key="游戏属性21" Value="Número de Penetrações" />
+        <String Key="游戏属性22" Value="CD" />
+        <String Key="游戏属性23" Value="Tipo de Alvo" />
+        <String Key="游戏属性24" Value="Alcance do Alvo" />
+        <String Key="游戏属性25" Value="Benefício" />
+        <String Key="游戏强化类型-1" Value="Nenhum" />
+        <String Key="游戏强化类型1" Value="Desbloquear habilidade ativa" />
+        <String Key="游戏强化类型2" Value="Deve haver um nível {0} {1} no início" />
+        <String Key="游戏强化类型3" Value="Há uma probabilidade {0} de que mais um equipamento apareça." />
+        <String Key="游戏强化类型4" Value="Cada atualização tem uma chance de {0}% de melhorar um equipamento" />
+        <String Key="游戏强化类型5" Value="O número de espaços na mochila inicial aumenta em {0}" />
+        <String Key="游戏强化类型6" Value="Receber {0} moedas de prata iniciais adicionais" />
+        <String Key="游戏强化类型7" Value="Ganhar {0} moedas de prata a cada onda" />
+        <String Key="游戏强化类型8" Value="Comece com escudo completo" />
+        <String Key="游戏强化类型9" Value="Comece cheio de energia de habilidade" />
+        <String Key="游戏强化类型101" Value="Todo o dano do herói aumenta em {0}%, a saúde aumenta em {1}" />
+        <String Key="游戏强化类型102" Value="A saúde base do herói aumenta em {0}" />
+        <String Key="游戏强化类型103" Value="O dano ao BOSS aumenta em {0}%" />
+        <String Key="游戏强化类型104" Value="Todo o dano do herói aumenta em {0}%" />
+        <String Key="游戏强化类型105" Value="O herói recupera {0} de saúde por segundo" />
+        <String Key="游戏强化类型106" Value="Todo o dano causado pelos heróis é reduzido em {0}%" />
+        <String Key="游戏强化类型201" Value="Melhoria da habilidade ativa {0}%" />
+        <String Key="游戏强化类型202" Value="A velocidade de recarga da habilidade ativa aumenta em {0}%" />
+        <String Key="游戏强化类型301" Value="A propriedade {1} de {0} aumenta em {2}%" />
+        <String Key="游戏强化类型302" Value="A propriedade {0} de todos os equipamentos aumenta em {1}%" />
+        <String Key="游戏强化类型303" Value="Os atributos {0} de todas as armaduras são aumentados em {1}%" />
+        <String Key="游戏强化类型304" Value="A propriedade {0} de todas as armas aumenta em {1}%" />
+        <String Key="游戏强化类型301_1" Value="Os atributos {1} de {0} foram reduzidos em {2}%" />
+        <String Key="游戏强化类型302_1" Value="Os {0} atributos de todos os equipamentos foram reduzidos em {1}%" />
+        <String Key="游戏强化类型303_1" Value="Todos os atributos {0} da armadura são reduzidos em {1}%" />
+        <String Key="游戏强化类型304_1" Value="{0} atributos de todas as armas reduzidos em {1}%" />
+        <String Key="游戏强化类型401" Value="A propriedade {0} do inimigo diminui em {1}%" />
+        <String Key="游戏强化类型402" Value="A experiência obtida ao derrotar inimigos aumenta em {0}%" />
+        <String Key="游戏强化类型403" Value="Boss é imune a todos os efeitos negativos" />
+        <String Key="游戏强化类型404" Value="Atributos do monstro {0} aumentados em {1}%" />
+        <String Key="游戏强化类型405" Value="Monstros comuns são imunes a todos os efeitos negativos" />
+        <String Key="HeroName1" Value="Elfo" />
+        <String Key="HeroName2" Value="Mago" />
+        <String Key="HeroName3" Value="Senhora engraçada" />
+        <String Key="HeroName4" Value="Wukong" />
+        <String Key="Hero2ActiveSkillDesc" Value="Invoca uma bola gigante saltitante para derrubar monstros no caminho" />
+        <String Key="Hero3ActiveSkillDesc" Value="Restaura instantaneamente uma grande quantidade de vida" />
+        <String Key="Hero4ActiveSkillDesc" Value="Invoca um Bastão de ouro para causar dano a inimigos próximos." />
+        <String Key="Hero3PassiveSkillDesc" Value="Restaura continuamente uma pequena quantidade de vida" />
+        <String Key="Hero4PassiveSkillDesc" Value="Ganha 2 moedas de prata para cada síntese" />
+        <String Key="NoActiveSkill" Value="Nenhuma habilidade ativa" />
+        <String Key="NoPassiveSkill" Value="Nenhuma habilidade passiva" />
+        <String Key="英雄界面1" Value="Habilidades ativas" />
+        <String Key="英雄界面2" Value="Habilidades passivas" />
+        <String Key="英雄界面3" Value="Subir de nível" />
+        <String Key="英雄界面4" Value="Subir de estrela" />
+        <String Key="英雄界面5" Value="Subir de nível" />
+        <String Key="英雄界面6" Value="Subir de nível rápido" />
+        <String Key="英雄界面7" Value="Nível máximo" />
+        <String Key="英雄界面8" Value="Bônus de estrela" />
+        <String Key="英雄界面9" Value="Subir de estrela" />
+        <String Key="英雄界面10" Value="Estrela máxima" />
+        <String Key="英雄界面11" Value="Em uso..." />
+        <String Key="天赋界面1" Value="Lista de Talentos" />
+        <String Key="天赋界面2" Value="Fazer" />
+        <String Key="天赋界面3" Value="Todos os talentos tornam-se efetivos após a aquisição" />
+        <String Key="天赋界面4" Value="Detalhes do Talento" />
+        <String Key="天赋描述1" Value="Chance de crítico de todas as armas +{0}" />
+        <String Key="天赋描述2" Value="Dano crítico aumentado de todas as armas +{0}" />
+        <String Key="天赋描述3" Value="Dano de todas as armas +{0}" />
+        <String Key="天赋描述4" Value="Vida máxima do herói +{0}" />
+        <String Key="天赋描述5" Value="Recuperação de vida por segundo do herói +{0}" />
+        <String Key="天赋描述6" Value="Duração de recarga de todas as armas -{0}" />
+        <String Key="天赋描述7" Value="Duração de recarga de toda a armadura -{0}" />
+        <String Key="天赋描述8" Value="Velocidade de voo da arma +{0}" />
+        <String Key="天赋描述9" Value="Dano do inimigo -{0}" />
+        <String Key="天赋描述10" Value="Velocidade de movimento do inimigo -{0}" />
+        <String Key="天赋描述11" Value="Experiência obtida ao derrotar inimigos +{0}" />
+        <String Key="天赋描述12" Value="Cada atualização tem {0}% de chance de atualizar um equipamento adicional" />
+        <String Key="天赋描述13" Value="Cada atualização tem {0}% de chance de aprimorar um equipamento" />
+        <String Key="天赋描述14" Value="Espaços iniciais na mochila +{0}" />
+        <String Key="天赋描述15" Value="Moedas de prata iniciais +{0}" />
+        <String Key="天赋描述16" Value="Moedas de prata obtidas ao final de cada onda +{0}" />
+        <String Key="CurrencyTips7" Value="Obtido através de níveis, etc." />
+        <String Key="CurrencyName1" Value="Energia" />
+        <String Key="CurrencyName2" Value="Ouro" />
+        <String Key="CurrencyName3" Value="Diamante" />
+        <String Key="CurrencyName4" Value="moedas de prata" />
+        <String Key="CurrencyName5" Value="chave de ouro" />
+        <String Key="CurrencyName6" Value="chave de prata" />
+        <String Key="CurrencyName7" Value="bolo" />
+        <String Key="CurrencyName8" Value="poção mágica" />
+        <String Key="CurrencyName1001" Value="Fragmentos de equipamento" />
+        <String Key="CurrencyName2001" Value="Fragmentos de Herói" />
+        <String Key="设置界面8" Value="Exibição de Dano" />
+        <String Key="任务界面1" Value="Tarefa" />
+        <String Key="任务界面2" Value="Pode ser reivindicado" />
+        <String Key="任务界面3" Value="Reivindicado" />
+        <String Key="任务界面4" Value="Em progresso" />
+        <String Key="任务界面5" Value="Tarefas Diárias" />
+        <String Key="任务界面6" Value="Conquista" />
+        <String Key="TaskDesc101" Value="Passar de nível {0}" />
+        <String Key="TaskDesc102" Value="Receba qualquer onda de baús de tesouro {0} vezes" />
+        <String Key="TaskDesc103" Value="{0} varreduras concluídas no total" />
+        <String Key="TaskDesc104" Value="Liquidação acumulada {0} vezes" />
+        <String Key="TaskDesc105" Value="Participou de cópias {0} vezes" />
+        <String Key="TaskDesc201" Value="Aprimore qualquer equipamento {0} vezes" />
+        <String Key="TaskDesc202" Value="Aprimore qualquer equipamento para o nível {0}" />
+        <String Key="TaskDesc301" Value="Obteve {0} chaves douradas no total" />
+        <String Key="TaskDesc302" Value="Um total de {0} baús de tesouro requintados foram abertos" />
+        <String Key="TaskDesc303" Value="Consumir {0} moedas de ouro" />
+        <String Key="TaskDesc304" Value="Consumir {0} diamantes" />
+        <String Key="TaskDesc305" Value="Consumir {0} força física" />
+        <String Key="TaskDesc401" Value="Fortaleça o herói {0} vezes" />
+        <String Key="TaskDesc402" Value="Qualquer herói atinge o nível {0}" />
+        <String Key="TaskDesc403" Value="O nível de estrela de qualquer herói atinge {0} estrelas" />
+        <String Key="TaskDesc501" Value="Um total de {0} talentos foram sorteados" />
+        <String Key="TaskDesc502" Value="Qualquer talento atinge o nível {0}" />
+        <String Key="TaskDesc601" Value="Equipamento sintetizado {0} vezes durante a batalha" />
+        <String Key="TaskDesc602" Value="Consumir {0} moedas de prata" />
+        <String Key="TaskDesc603" Value="Mate {0} monstros" />
+        <String Key="TaskDesc604" Value="Ganhe com {0} equipamento" />
+        <String Key="TaskDesc605" Value="Habilidades ativas liberadas {0} vezes no total" />
+        <String Key="TaskDesc606" Value="Consumo total de {0} moedas de prata" />
+        <String Key="TaskDesc607" Value="Matou {0} monstros no total" />
+        <String Key="TaskDesc608" Value="Atualização cumulativa da loja {0} vezes" />
+        <String Key="TaskDesc609" Value="Síntese acumulativa de quebra-cabeças {0} vezes" />
+        <String Key="TaskDesc701" Value="Total de {0} minutos on-line hoje" />
+        <String Key="TaskDesc702" Value="Conclua {0} tarefas diárias" />
+        <String Key="TaskDesc703" Value="Ativar cartão VIP" />
+        <String Key="TaskDesc704" Value="{0} compras acumuladas na loja diária" />
+        <String Key="签到标题" Value="Assinatura" />
+        <String Key="已签到天数" Value="Já assinou por{0}dias" />
+        <String Key="签到天数标题" Value="Dia{0}" />
+        <String Key="签到操作描述" Value="Clique para recompensas." />
+        <String Key="签到状态描述" Value="Já assinou hoje, volte amanhã" />
+        <String Key="签到宝箱天数" Value="{0} dias" />
+        <String Key="抽奖标题" Value="Horóscopo diário" />
+        <String Key="抽奖按钮" Value="Sorteio" />
+        <String Key="抽奖关闭描述" Value="Clique no vazio para fechar" />
+        <String Key="挂机领奖标题" Value="Recompensas de aventura" />
+        <String Key="挂机时长描述" Value="Aventurou-se por {0} minutos" />
+        <String Key="挂机奖励描述" Value="Quanto mais níveis principais passar, maiores serão as recompensas" />
+        <String Key="挂机领取等待描述" Value="Disponível em{0}" />
+        <String Key="挂机奖励已满描述" Value="A caixa de recompensas está cheia!" />
+        <String Key="副本扫荡描述" Value="*Desbloqueie saque após desafio diário.
+*Desbloqueie saque permanente após nível {0}." />
+        <String Key="联网失败标题" Value="Falha no link de rede" />
+        <String Key="联网失败内容" Value="Verifique a rede e tente novamente" />
+        <String Key="获取存档标题" Value="Arquivo" />
+        <String Key="获取存档内容" Value="Percebemos que você possui atualmente um arquivo de histórico. Deseja sincronizá-lo?" />
+        <String Key="支付提示弹窗" Value="Descanso" />
+        <String Key="休憩标题" Value="Salvo：" />
+        <String Key="休憩已累计" Value="Descansando..." />
+    </Dictionary>
+</Dictionaries>

@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <Dictionary Language="Indonesian">
+        <String Key="设置界面5" Value="Bahasa Indonesia" />
+        <String Key="主页icon1" Value="Paket Selamat Datang" />
+        <String Key="主页icon2" Value="Toko Bulanan" />
+        <String Key="主页icon3" Value="Dana Pertumbuhan" />
+        <String Key="主页icon4" Value="VIP" />
+        <String Key="主页icon5" Value="Paket Peningkatan" />
+        <String Key="导航栏1" Value="Pertempuran" />
+        <String Key="导航栏2" Value="Toko" />
+        <String Key="导航栏3" Value="Peralatan" />
+        <String Key="导航栏4" Value="Acara" />
+        <String Key="导航栏5" Value="pahlawan" />
+        <String Key="导航栏6" Value="bakat" />
+        <String Key="品质1" Value="Umum" />
+        <String Key="品质2" Value="Langka" />
+        <String Key="品质3" Value="Epik" />
+        <String Key="品质4" Value="Legenda" />
+        <String Key="关卡名101" Value="Padang Rumput Berangin" />
+        <String Key="关卡名102" Value="Padang Rumput Tak Berujung" />
+        <String Key="关卡名201" Value="Labirin Bukit Pasir" />
+        <String Key="关卡名202" Value="Badai Pasir" />
+        <String Key="关卡名301" Value="Lava Cair" />
+        <String Key="关卡名302" Value="Api Neraka" />
+        <String Key="关卡名401" Value="Jalur Gletser" />
+        <String Key="关卡名402" Value="Tanah Beku" />
+        <String Key="关卡名501" Value="Jalan Kuno" />
+        <String Key="关卡名502" Value="Relik Suci" />
+        <String Key="关卡名11" Value="Lagu Embun Pagi" />
+        <String Key="关卡名12" Value="Jalan Senja" />
+        <String Key="关卡名13" Value="Jurang Dingin" />
+        <String Key="关卡名14" Value="Puncak Amarah" />
+        <String Key="关卡名15" Value="Mimpi Putus" />
+        <String Key="关卡名循环1" Value="Gelombang Berkilauan" />
+        <String Key="关卡名循环2" Value="Pasir Tak Berujung" />
+        <String Key="关卡名循环3" Value="Retakan Lava" />
+        <String Key="关卡名循环4" Value="Istana Kristal" />
+        <String Key="关卡名循环5" Value="Cerita Lama" />
+        <String Key="关卡名循环6" Value="Puncak Amarah" />
+        <String Key="关卡名循环7" Value="Debu Liar" />
+        <String Key="关卡名循环8" Value="Bisikan Puing" />
+        <String Key="关卡描述1" Value="Dibersihkan" />
+        <String Key="关卡描述2" Value="Rekor Tertinggi: Gelombang {0}" />
+        <String Key="关卡描述3" Value="Pemain yang selesai：{0}" />
+        <String Key="解锁说明1" Value="Tidak terkunci setelah melewati level {0}" />
+        <String Key="解锁说明2" Value="Terkunci" />
+        <String Key="解锁说明3" Value="Buka setelah pembayaran apa pun" />
+        <String Key="解锁说明4" Value="Buka kunci setelah 7 hari masuk" />
+        <String Key="解锁" Value="Dibuka" />
+        <String Key="波次说明1" Value="Gelombang {0}" />
+        <String Key="挑战关卡按钮1" Value="Pertempuran" />
+        <String Key="挑战关卡按钮2" Value="Serangan" />
+        <String Key="剩余次数说明1" Value="{0} Percobaan Tersisa Hari Ini" />
+        <String Key="Toast1" Value="Peralatan Tidak Cukup" />
+        <String Key="Toast2" Value="Stamina Tidak Cukup" />
+        <String Key="Toast3" Value="Emas Tidak Cukup" />
+        <String Key="Toast4" Value="Permata Tidak Cukup" />
+        <String Key="Toast5" Value="Fragmen Tidak Cukup" />
+        <String Key="Toast6" Value="Ambil senjatamu untuk bertarung" />
+        <String Key="Toast7" Value="Segera Hadir..." />
+        <String Key="Toast8" Value="Iklan Tidak Dimuat, Silakan Coba Lagi Nanti" />
+        <String Key="Toast9" Value="Peralatan telah mencapai level maksimum, 
+tidak dapat digabung" />
+        <String Key="Toast10" Value="Silakan isi deskripsi masalahnya" />
+        <String Key="Toast11" Value="Berhasil dikirimkan" />
+        <String Key="Toast12" Value="Kunci tidak cukup" />
+        <String Key="Toast13" Value="Hubungkan ke toko..." />
+        <String Key="Toast14" Value="Upaya tantangan yang tersisa tidak mencukupi" />
+        <String Key="Toast15" Value="Ramuan tidak cukup" />
+        <String Key="Toast16" Value="Bakat sudah penuh" />
+        <String Key="Toast17" Value="Pahlawan Bintang 3 Tidak Terkunci" />
+        <String Key="Toast18" Value="Energi keterampilan tidak mencukupi" />
+        <String Key="Toast19" Value="{0} Tidak Cukup" />
+        <String Key="Toast20" Value="Sudah diundi hari ini, besok datang lagi" />
+        <String Key="Toast21" Value="Pembelian sukses!" />
+        <String Key="Toast22" Value="Pembelian gagal" />
+        <String Key="Toast23" Value="Pemulihan berhasil" />
+        <String Key="Toast24" Value="Pemulihan gagal, coba lagi nanti" />
+        <String Key="Toast25" Value="Melebihi batas hari pembelian" />
+        <String Key="商店分区1" Value="Penawaran Harian" />
+        <String Key="商店分区2" Value="Peti Fragmen" />
+        <String Key="商店分区3" Value="Emas" />
+        <String Key="商店分区4" Value="VIP" />
+        <String Key="商店分区5" Value="Stamina" />
+        <String Key="商店分区6" Value="paket hadiah" />
+        <String Key="商店分区7" Value="ramuan ajaib" />
+        <String Key="商店礼包1" Value="Paket hadiah bernilai" />
+        <String Key="商店礼包2" Value="Termasuk pecahan pahlawan Wukong!" />
+        <String Key="商店礼包3" Value="Pembelian terbatas:" />
+        <String Key="商品金币1" Value="Sekelompok Emas" />
+        <String Key="商品金币2" Value="Sebuah Tas Emas" />
+        <String Key="商品金币3" Value="Sebuah Kotak Emas" />
+        <String Key="商品钻石1" Value="Berlian" />
+        <String Key="商品钻石2" Value="segenggam berlian" />
+        <String Key="商品钻石3" Value="beberapa berlian" />
+        <String Key="商品钻石4" Value="banyak berlian" />
+        <String Key="商品钻石5" Value="Sekantong kecil berlian" />
+        <String Key="商品钻石6" Value="Sekantong besar berlian" />
+        <String Key="商品钻石7" Value="sekotak berlian" />
+        <String Key="商品药瓶1" Value="Sejumlah kecil ramuan ajaib" />
+        <String Key="商品药瓶2" Value="beberapa ramuan ajaib" />
+        <String Key="商品药瓶3" Value="Banyak ramuan ajaib" />
+        <String Key="商品钥匙1" Value="kunci perak" />
+        <String Key="商品钥匙2" Value="kunci emas" />
+        <String Key="商品宝箱1" Value="Peti Umum" />
+        <String Key="商品宝箱2" Value="Peti Indah" />
+        <String Key="商品宝箱3" Value="Dijamin {0}Peralatan Umum{1}" />
+        <String Key="商品宝箱4" Value="Dijamin {0}Peralatan Langka{1}" />
+        <String Key="商品宝箱5" Value="Kemungkinan fragmen peralatan yang dapat diperoleh:" />
+        <String Key="商品宝箱6" Value="Probabilitas setiap fragmen: {0}" />
+        <String Key="商品宝箱7" Value="Membuka peti meningkatkan level, meningkatkan hadiah berikutnya" />
+        <String Key="商品宝箱8" Value="Ketuk untuk membuka" />
+        <String Key="商品宝箱9" Value="Dijamin {0} Peralatan Epik {1}" />
+        <String Key="商品宝箱10" Value="Perlengkapan {0}legendaris{1} yang wajib dimiliki" />
+        <String Key="宝箱弹窗1" Value="Hadiah Peti" />
+        <String Key="宝箱弹窗2" Value="Peningkatan Level Peti" />
+        <String Key="商品去广告1" Value="Manfaat VIP: Hapus Semua Iklan" />
+        <String Key="商品去广告2" Value="Manfaat VIP Diaktifkan" />
+        <String Key="体力弹窗1" Value="Stamina Station" />
+        <String Key="商店说明1" Value="Anda dapat mengajukan pengembalian dana dalam waktu 7 hari sejak tanggal pembelian.
+(Namun, pengembalian uang tidak dapat dilakukan untuk produk yang langsung dibuka atau ketika sebagian dari produk telah digunakan.)" />
+        <String Key="商店按钮1" Value="Gratis" />
+        <String Key="商店按钮2" Value="Habis Terjual" />
+        <String Key="商店按钮3" Value="Pulihkan Pembelian" />
+        <String Key="商店按钮4" Value="Segarkan" />
+        <String Key="商店按钮5" Value="Ada {0} waktu luang tersisa hari ini" />
+        <String Key="商店折扣1" Value="Promosi" />
+        <String Key="商店折扣2" Value="-0.9" />
+        <String Key="商店折扣3" Value="-0.7" />
+        <String Key="商店折扣4" Value="-0.5" />
+        <String Key="商店折扣5" Value="-0.3" />
+        <String Key="商店折扣6" Value="-0.1" />
+        <String Key="商店折扣7" Value="Nilai" />
+        <String Key="vip结算礼包1" Value="Anggota premium" />
+        <String Key="vip结算礼包2" Value="Dapatkan sumber daya terkumpul segera setelah pembelian:" />
+        <String Key="vip结算礼包3" Value="Secara permanen menambahkan {0} koin, {1} pencuci mulut, dan {2} pecahan peralatan di akhir setiap level utama setelah pembelian!" />
+        <String Key="vip结算礼包4" Value="Manfaat berlaku secara permanen!" />
+        <String Key="月卡商店1" Value="Pass Mingguan" />
+        <String Key="月卡商店2" Value="Klaim hadiah tanpa iklan" />
+        <String Key="月卡商店3" Value="Pass Bulanan" />
+        <String Key="月卡商店4" Value="Batas energi +30" />
+        <String Key="月卡商店5" Value="Belum aktif" />
+        <String Key="月卡商店6" Value="Klaim" />
+        <String Key="月卡商店7" Value="Telah diklaim" />
+        <String Key="月卡商店8" Value="Dapatkan sekarang" />
+        <String Key="月卡商店9" Value="Hadiah harian" />
+        <String Key="月卡弹窗1" Value="Beli dan nikmati manfaat bernilai tinggi" />
+        <String Key="成长基金1" Value="Berlaku segera setelah pembelian, pengembalian dana tersedia jika tidak berlaku." />
+        <String Key="成长基金2" Value="Anda dapat meningkatkan dengan melewati level utama." />
+        <String Key="成长基金3" Value="Halaman {0}" />
+        <String Key="成长基金4" Value="Dapatkan dengan satu klik" />
+        <String Key="成长基金5" Value="Lulus Tingkat Pertumbuhan {0}" />
+        <String Key="成长基金6" Value="Anda bisa mendapatkan hadiah berikut segera setelah pembelian" />
+        <String Key="成长基金7" Value="Hadiah berikut dapat dibuka setelah pembelian" />
+        <String Key="奖励界面1" Value="Selamat" />
+        <String Key="奖励界面2" Value="Ketuk untuk melanjutkan" />
+        <String Key="装备养成按钮1" Value="Tingkatkan" />
+        <String Key="装备养成按钮2" Value="Maks" />
+        <String Key="装备名称0" Value="Dompet" />
+        <String Key="装备名称1" Value="Belati" />
+        <String Key="装备名称2" Value="Pedang" />
+        <String Key="装备名称3" Value="Sarung tangan" />
+        <String Key="装备名称4" Value="Racun" />
+        <String Key="装备名称5" Value="Shuriken" />
+        <String Key="装备名称6" Value="Ramuan" />
+        <String Key="装备名称7" Value="Busur" />
+        <String Key="装备名称8" Value="Mantra Es" />
+        <String Key="装备名称9" Value="Tong Anggur" />
+        <String Key="装备名称10" Value="Tongkat Laser" />
+        <String Key="装备名称11" Value="Tongkat Baseball" />
+        <String Key="装备名称12" Value="Kapak Lempar" />
+        <String Key="装备名称13" Value="Palu Petir" />
+        <String Key="装备名称14" Value="Busur Panah Silang" />
+        <String Key="装备名称15" Value="Sepak Bola Amerika" />
+        <String Key="装备名称16" Value="Cambuk rantai" />
+        <String Key="装备名称17" Value="Perisai" />
+        <String Key="装备名称18" Value="Cincin" />
+        <String Key="装备名称19" Value="bola melenting" />
+        <String Key="装备名称20" Value="senjata ganda" />
+        <String Key="装备名称21" Value="Tongkat emas" />
+        <String Key="装备分区1" Value="Telah dikerahkan" />
+        <String Key="装备分区2" Value="Belum dikerahkan" />
+        <String Key="装备属性1" Value="Sasaran" />
+        <String Key="装备属性2" Value="CD" />
+        <String Key="装备属性3" Value="Jangkauan" />
+        <String Key="装备属性4" Value="Serangan" />
+        <String Key="装备属性5" Value="HP" />
+        <String Key="装备属性6" Value="Penumpukan Perisai" />
+        <String Key="装备属性7" Value="Penyembuhan" />
+        <String Key="装备属性8" Value="Uang" />
+        <String Key="装备属性9" Value="Diri" />
+        <String Key="装备属性10" Value="Musuh Terdekat" />
+        <String Key="装备属性11" Value="Musuh Acak" />
+        <String Key="装备1词条1" Value="CD Belati {0}-20%{1}" />
+        <String Key="装备1词条2" Value="25% Kesempatan untuk Melempar Belati Ekstra {0}+1{1}" />
+        <String Key="装备1词条3" Value="Kerusakan Belati {0}+25%{1}" />
+        <String Key="装备1词条4" Value="CD Belati {0}-30%{1}" />
+        <String Key="装备1词条5" Value="50% Kesempatan untuk Melempar Belati Ekstra {0}+1{1}" />
+        <String Key="装备1词条6" Value="Kerusakan Belati {0}+50%{1}" />
+        <String Key="装备1词条7" Value="Kerusakan pisau kupu-kupu pada bos{0}+100%{1}" />
+        <String Key="装备2词条1" Value="CD Pedang {0}-25%{1}" />
+        <String Key="装备2词条2" Value="Memanggil 2 pedang berputar selama 2 detik" />
+        <String Key="装备2词条3" Value="Pedang Berputar Ditingkatkan menjadi {0}4{1}" />
+        <String Key="装备2词条4" Value="Pedang Berputar Ditingkatkan menjadi {0}6{1}" />
+        <String Key="装备2词条5" Value="Jangkauan serangan pedang yang dipanggil {0}+50%{1}" />
+        <String Key="装备2词条6" Value="Kerusakan pedang{0}+50%{1}" />
+        <String Key="装备2词条7" Value="Ada {0}25%{1} kemungkinan melempar 2 pedang berturut-turut" />
+        <String Key="装备3词条1" Value="Semua Senjata di Sebelah Sarung Tangan CD {0}-10%{1}" />
+        <String Key="装备3词条2" Value="CD Sarung Tangan {0}-10%{1}" />
+        <String Key="装备3词条3" Value="Penumpukan Perisai Sarung Tangan {0}+20%{1}" />
+        <String Key="装备3词条4" Value="Semua Senjata di Sebelah Sarung Tangan CD {0}-20%{1}" />
+        <String Key="装备3词条5" Value="Setiap kali Anda menumpuk armor, ada peluang 10% untuk mendapatkan 1 koin perak" />
+        <String Key="装备3词条6" Value="Jumlah penumpukan baju besi sarung tangan meningkat menjadi {0}40%{1}" />
+        <String Key="装备3词条7" Value="Setiap kali Anda menumpuk baju besi, kemungkinan memperoleh 1 koin perak meningkat menjadi {0}20%{1}" />
+        <String Key="装备4词条1" Value="Kerusakan Racun {0}+100%{1}" />
+        <String Key="装备4词条2" Value="CD Racun {0}-20%{1}" />
+        <String Key="装备4词条3" Value="Setelah mengenai musuh, kumpulan racun akan tercipta, dan semua musuh yang lewat akan terkena racun" />
+        <String Key="装备4词条4" Value="Waktu keracunan meningkat {0}+50%{1}" />
+        <String Key="装备4词条5" Value="{0}50%{1} kemungkinan melempar botol racun kecil tambahan" />
+        <String Key="装备4词条6" Value="Kerusakan berkelanjutan dari Poison meningkat menjadi {0}200%{1}" />
+        <String Key="装备4词条7" Value="{0}100%{1} kemungkinan melempar botol racun kecil tambahan dan menciptakan kumpulan racun" />
+        <String Key="装备5词条1" Value="Shuriken akan memantul sekali setelah terkena, maksimum 1 pantulan" />
+        <String Key="装备5词条2" Value="Kerusakan Shuriken {0}+25%{1}" />
+        <String Key="装备5词条3" Value="Peluang serangan kritis Shuriken{0}+25%{1}" />
+        <String Key="装备5词条4" Value="Jumlah Shuriken Ditembakkan {0}+1{1}" />
+        <String Key="装备5词条5" Value="Shuriken memiliki kemungkinan {0}50%{1} untuk dikeluarkan sebanyak 2 kali" />
+        <String Key="装备5词条6" Value="Kerusakan shuriken{0}+50%{1}" />
+        <String Key="装备5词条7" Value="Jumlah shuriken yang ditembakkan meningkat menjadi {0}2{1}" />
+        <String Key="装备6词条1" Value="Penyembuhan Ramuan {0}+20%{1}" />
+        <String Key="装备6词条2" Value="HP Ramuan {0}+20%{1}" />
+        <String Key="装备6词条3" Value="CD Ramuan {0}-25%{1}" />
+        <String Key="装备6词条4" Value="Penyembuhan Ramuan {0}+40%{1}" />
+        <String Key="装备6词条5" Value="Penyembuhan Ramuan {0}+50%{1}" />
+        <String Key="装备7词条1" Value="Busur menembakkan {0}3{1} panah saat menyerang" />
+        <String Key="装备7词条2" Value="Panah menembus {0}+1{1} musuh" />
+        <String Key="装备7词条3" Value="Saat busur mengenai, memanggil {0}1{1} tornado" />
+        <String Key="装备7词条4" Value="Meningkatkan kecepatan dan jarak perjalanan tornado" />
+        <String Key="装备7词条5" Value="Jumlah panah yang tersebar meningkat menjadi {0}5{1}" />
+        <String Key="装备7词条6" Value="Kerusakan busur{0}+50%{1}" />
+        <String Key="装备7词条7" Value="Ukuran tornado meningkat menjadi {0}150%{1}" />
+        <String Key="装备8词条1" Value="CD Mantra Es {0}-20%{1}" />
+        <String Key="装备8词条2" Value="Kerusakan Kerucut Es {0}+30%{1}" />
+        <String Key="装备8词条3" Value="Saat Kerucut Es mengenai, memanggil 5 kerucut kecil, masing-masing memberikan {0}20%{1} kerusakan" />
+        <String Key="装备8词条4" Value="Hit Kerucut Es memicu Frost Nova, menyebabkan ledakan" />
+        <String Key="装备8词条5" Value="Small Ice Pick memiliki kemungkinan {0}50%{1} untuk memicu Frost Nova" />
+        <String Key="装备8词条6" Value="Kerusakan kerucut es{0}+50%{1}" />
+        <String Key="装备8词条7" Value="Kisaran Frost Nova{0}+50%{1}" />
+        <String Key="装备9词条1" Value="Kerusakan Tong {0}+25%{1}" />
+        <String Key="装备9词条2" Value="CD Tong {0}-20%{1}" />
+        <String Key="装备9词条3" Value="Ukuran Tong {0}+100%{1}" />
+        <String Key="装备9词条4" Value="{0}25%{1} kesempatan untuk memanggil tong ekstra saat menyerang" />
+        <String Key="装备9词条5" Value="Larasnya meledak setelah berguling dalam jarak tertentu, menyebabkan kerusakan area" />
+        <String Key="装备9词条6" Value="Kerusakan Tong {0}+50%{1}" />
+        <String Key="装备9词条7" Value="Barel memperlambat musuh sebesar {0}25%{1}" />
+        <String Key="装备10词条1" Value="Kerusakan Laser {0}+25%{1}" />
+        <String Key="装备10词条2" Value="Meningkatkan {0}+1{1} Laser Menyapu" />
+        <String Key="装备10词条3" Value="Meningkatkan lebar laser secara signifikan" />
+        <String Key="装备10词条4" Value="Meningkatkan jumlah laser menjadi {0}3{1} balok" />
+        <String Key="装备10词条5" Value="{0}+1{1} pemindaian laser tambahan" />
+        <String Key="装备10词条6" Value="Kerusakan laser{0}+50%{1}" />
+        <String Key="装备10词条7" Value="Waktu pendinginan laser {0}-50%{1}" />
+        <String Key="装备11词条1" Value="Menembakkan {0}1{1} bola secara acak ke arah musuh setelah menyerang." />
+        <String Key="装备11词条2" Value="Kerusakan Tongkat Bisbol {0}+25%{1}" />
+        <String Key="装备11词条3" Value="Tembakan secara acak {0}3{1} bola ke arah musuh setelah menyerang." />
+        <String Key="装备11词条4" Value="25% peluang untuk melempar {0}1{1} Tongkat Bisbol tambahan." />
+        <String Key="装备11词条5" Value="Volume bisbol{0}+50%{1}" />
+        <String Key="装备11词条6" Value="Kerusakan akibat tongkat baseball{0}+50%{1}" />
+        <String Key="装备11词条7" Value="Peluang melempar tongkat bisbol tambahan meningkat menjadi {0}50%{1}" />
+        <String Key="装备12词条1" Value="Kapak menembus musuh {0}+1{1}" />
+        <String Key="装备12词条2" Value="Durasi Pendinginan Kapak {0}-20%{1}" />
+        <String Key="装备12词条3" Value="Ukuran kapak {0}+50%{1}" />
+        <String Key="装备12词条4" Value="Membuat musuh berdarah" />
+        <String Key="装备12词条5" Value="Ada peluang 25% untuk melemparkan {0}1{1} kapak lempar tambahan." />
+        <String Key="装备12词条6" Value="Kerusakan akibat melempar kapak{0}+50%{1}" />
+        <String Key="装备12词条7" Value="Waktu cooldown kapak lempar dikurangi menjadi {0}-40%{1}" />
+        <String Key="装备13词条1" Value="Memanggil petir setelah mengenai musuh" />
+        <String Key="装备13词条2" Value="Kerusakan palu {0}+25%{1}" />
+        <String Key="装备13词条3" Value="Durasi Pendinginan Palu {0}-20%{1}" />
+        <String Key="装备13词条4" Value="Palu tidak dihalangi oleh musuh." />
+        <String Key="装备13词条5" Value="Palu mempunyai peluang {0}20%{1} untuk memukul mundur musuh." />
+        <String Key="装备13词条6" Value="Kerusakan palu{0}+50%{1}" />
+        <String Key="装备13词条7" Value="Petir memicu badai petir" />
+        <String Key="装备14词条1" Value="Panah otomatis menembakkan {0}5{1} panah kecil tambahan" />
+        <String Key="装备14词条2" Value="Waktu cooldown panah otomatis{0}-20%{1}" />
+        <String Key="装备14词条3" Value="Kerusakan panah otomatis{0}+25%{1}" />
+        <String Key="装备14词条4" Value="Busur silang akan memukul mundur musuh dalam jarak dekat" />
+        <String Key="装备14词条5" Value="Crossbow menyebabkan efek pendarahan pada musuh" />
+        <String Key="装备14词条6" Value="Kerusakan panah otomatis{0}+50%{1}" />
+        <String Key="装备14词条7" Value="Panah otomatis menembakkan {0}8{1} panah kecil tambahan" />
+        <String Key="装备15词条1" Value="Rugby akan memberikan efek knockback pada musuh dalam jarak dekat" />
+        <String Key="装备15词条2" Value="CD Rugby {0}-20%{1}" />
+        <String Key="装备15词条3" Value="Ukuran Rugby {0}+50%{1}" />
+        <String Key="装备15词条4" Value="Peluang 20% ​​untuk memberikan efek knockback pada musuh." />
+        <String Key="装备15词条5" Value="{0}25%{1} peluang melempar rugby {0}+1{1}" />
+        <String Key="装备15词条6" Value="Kerusakan Rugby{0}+50%{1}" />
+        <String Key="装备15词条7" Value="Peluang knockback Rugby meningkat menjadi {0}30%{1}" />
+        <String Key="装备16词条1" Value="Membuat musuh berdarah." />
+        <String Key="装备16词条2" Value="Kerusakan Palu Meteor{0}+25%{1}" />
+        <String Key="装备16词条3" Value="Jangkauan serangan Meteor Hammer{0}+100%{1}" />
+        <String Key="装备16词条4" Value="Menyetrum musuh." />
+        <String Key="装备16词条5" Value="Gagalkan peluang {0}25%{1} untuk menimbulkan 1 serangan tambahan" />
+        <String Key="装备16词条6" Value="Kerusakan pukulan {0}+50%{1}" />
+        <String Key="装备16词条7" Value="Waktu tunggu pukulan {0}-20%{1}" />
+        <String Key="装备17词条1" Value="Darah Perisai {0}+20%{1}" />
+        <String Key="装备17词条2" Value="Durasi Pendinginan Perisai {0}-20%{1}" />
+        <String Key="装备17词条3" Value="Melempar perisai dan membuat musuh terkena stun" />
+        <String Key="装备17词条4" Value="20% peluang menerima kerusakan dari jarak jauh {0}-50%{1}" />
+        <String Key="装备17词条5" Value="Darah Perisai {0}+30%{1}" />
+        <String Key="装备18词条1" Value="Darah Cincin {0}+20%{1}" />
+        <String Key="装备18词条2" Value="Kerusakan senjata di dekat ring{0}+20%{1}" />
+        <String Key="装备18词条3" Value="Untuk setiap cincin yang ada di ransel, tingkat penghindarannya adalah {0}+1%{1}" />
+        <String Key="装备18词条4" Value="Untuk setiap cincin di ransel Rasio Pukulan Kritis {0}+1%{1}" />
+        <String Key="装备19词条1" Value="Jumlah pantulan bola elastis {0}+3{1}" />
+        <String Key="装备19词条2" Value="Kerusakan per pantulan bola elastis {0}+30%{1}" />
+        <String Key="装备19词条3" Value="Setelah pertama kali mengenai musuh, bola elastis memiliki 50% peluang untuk membelah menjadi 2 bola" />
+        <String Key="装备19词条4" Value="Tingkat kritis bola elastis {0}+30%{1}" />
+        <String Key="装备19词条5" Value="Jumlah pantulan bola pantul telah ditingkatkan menjadi {0}5{1}" />
+        <String Key="装备19词条6" Value="Kerusakan bola pantul{0}+50%{1}" />
+        <String Key="装备19词条7" Value="Bola pantul berpeluang {0}20%{1} memukul mundur musuh" />
+        <String Key="装备20词条1" Value="Saat 2 peluru mengenai musuh yang sama, peluru kedua dijamin menjadi kritis" />
+        <String Key="装备20词条2" Value="Kerusakan peluru {0}+50%{1}" />
+        <String Key="装备20词条3" Value="Peluru menyebabkan kerusakan pendarahan saat mengenai musuh" />
+        <String Key="装备20词条4" Value="Peluru meledak saat mengenai musuh, menyebabkan kerusakan area" />
+        <String Key="装备20词条5" Value="Ada {0}30%{1} kemungkinan menembakkan peluru tambahan" />
+        <String Key="装备20词条6" Value="Kerusakan peluru {0}+50%{1}" />
+        <String Key="装备20词条7" Value="Cooldown senjata ganda{0}-20%{1}" />
+        <String Key="装备21词条1" Value="Panjang tongkat emas {0}+25%{1}" />
+        <String Key="装备21词条2" Value="Memanggil tongkat emas raksasa untuk menghantam musuh" />
+        <String Key="装备21词条3" Value="20% peluang untuk melumpuhkan selama 0,5 detik saat terkena tongkat emas" />
+        <String Key="装备21词条4" Value="Kerusakan tongkat emas {0}+50%{1}" />
+        <String Key="装备21词条5" Value="Panjang Gada Emas ditingkatkan menjadi {0}50%{1}" />
+        <String Key="装备21词条6" Value="Kerusakan Gada Emas{0}+70%{1}" />
+        <String Key="装备21词条7" Value="Pendinginan Gada Emas {0}-35%{1}" />
+        <String Key="通用词条装备101" Value="CD Semua Senjata -5%" />
+        <String Key="通用词条装备102" Value="CD Semua Senjata -10%" />
+        <String Key="通用词条装备103" Value="CD Semua Senjata -20%" />
+        <String Key="通用词条装备201" Value="CD Semua Baju Besi -5%" />
+        <String Key="通用词条装备202" Value="CD Semua Baju Besi -10%" />
+        <String Key="通用词条装备203" Value="CD Semua Baju Besi -20%" />
+        <String Key="通用词条装备301" Value="Kerusakan Semua Senjata +5%" />
+        <String Key="通用词条装备302" Value="Kerusakan Semua Senjata +10%" />
+        <String Key="通用词条装备303" Value="Kerusakan Semua Senjata +20%" />
+        <String Key="通用词条装备401" Value="HP Semua Baju Besi +5%" />
+        <String Key="通用词条装备402" Value="HP Semua Baju Besi +10%" />
+        <String Key="通用词条装备403" Value="HP Semua Baju Besi +20%" />
+        <String Key="通用词条装备503" Value="Segera memulihkan 50% HP" />
+        <String Key="通用词条怪物101" Value="Pengalaman dari Membunuh Monster +10%" />
+        <String Key="通用词条怪物102" Value="Pengalaman dari Membunuh Monster +25%" />
+        <String Key="通用词条怪物103" Value="Pengalaman dari Membunuh Monster +50%" />
+        <String Key="通用词条怪物201" Value="Kecepatan Gerakan Semua Monster -5%" />
+        <String Key="通用词条怪物202" Value="Kecepatan Gerakan Semua Monster -10%" />
+        <String Key="通用词条怪物203" Value="Kecepatan Gerakan Semua Monster -20%" />
+        <String Key="通用词条怪物301" Value="Kerusakan Semua Monster -5%" />
+        <String Key="通用词条怪物302" Value="Kerusakan Semua Monster -10%" />
+        <String Key="通用词条怪物303" Value="Kerusakan Semua Monster -20%" />
+        <String Key="通用词条经济101" Value="Segera Dapatkan 20 Koin Perak" />
+        <String Key="通用词条经济102" Value="Segera Dapatkan 30 Koin Perak" />
+        <String Key="通用词条经济103" Value="Segera Dapatkan 60 Koin Perak" />
+        <String Key="通用词条经济201" Value="Koin Perak Diperoleh Per Gelombang +20%" />
+        <String Key="通用词条经济202" Value="Koin Perak Diperoleh Per Gelombang +30%" />
+        <String Key="通用词条经济203" Value="Koin Perak Diperoleh Per Gelombang +50%" />
+        <String Key="通用词条商店103" Value="Peluang Ditingkatkan 50% untuk Menyegarkan Peralatan Level 2" />
+        <String Key="通用词条商店203" Value="Setiap Penyegaran Menambahkan Satu Item Tambahan" />
+        <String Key="通用词条商店303" Value="Penyegaran Pertama Gratis Setiap Kali Kembali ke Toko" />
+        <String Key="通用词条boss101" Value="Kerusakan pada bos +10%" />
+        <String Key="通用词条boss102" Value="Kerusakan pada bos +25%" />
+        <String Key="通用词条boss103" Value="Kerusakan pada bos +40%" />
+        <String Key="通用词条经济301" Value="Dapatkan bunga 5% setelah pertempuran (maksimum 10)" />
+        <String Key="通用词条经济302" Value="Dapatkan bunga 10% setelah pertempuran (maksimum 10)" />
+        <String Key="通用词条经济303" Value="Dapatkan bunga 20% setelah pertempuran (maksimum 10)" />
+        <String Key="通用词条一次性1" Value="Setelah ronde pertempuran ini, 1 peralatan akan ditingkatkan secara acak" />
+        <String Key="通用词条一次性2" Value="Setelah putaran pertempuran ini, 2 peralatan akan ditingkatkan secara acak" />
+        <String Key="暂停界面1" Value="Jeda" />
+        <String Key="暂停界面2" Value="Fitur Diaktifkan" />
+        <String Key="退出弹窗1" Value="Perhatian" />
+        <String Key="退出弹窗2" Value="Meninggalkan sekarang tidak akan memberikan hadiah atau pengembalian stamina. Lanjutkan?" />
+        <String Key="退出弹窗3" Value="Konfirmasi" />
+        <String Key="战斗界面1" Value="Gelombang {0}" />
+        <String Key="战斗界面2" Value="Segarkan" />
+        <String Key="战斗界面3" Value="Peralatan Lv.2 +1" />
+        <String Key="战斗界面4" Value="Pertempuran" />
+        <String Key="战斗界面5" Value="Statistik Kerusakan" />
+        <String Key="补充银币弹窗1" Value="Koin Perak Tidak Cukup" />
+        <String Key="补充银币弹窗2" Value="Menonton video untuk mendapatkan {0} koin perak?" />
+        <String Key="选择词条界面1" Value="Fitur" />
+        <String Key="选择词条界面2" Value="{0}/{1} Penggunaan Tersisa" />
+        <String Key="选择词条界面3" Value="Segarkan" />
+        <String Key="选择词条界面4" Value="Ambil Semua" />
+        <String Key="复活界面1" Value="Menghidupkan kembali?" />
+        <String Key="复活界面2" Value="Anda akan menerima 30 koin perak dan membuka toko dalam game, yang selalu akan menyegarkan dengan peralatan tingkat 3." />
+        <String Key="复活界面3" Value="Menghidupkan kembali" />
+        <String Key="复活界面4" Value="Tidak, terima kasih" />
+        <String Key="结算界面1" Value="Kemenangan" />
+        <String Key="结算界面2" Value="Kekalahan" />
+        <String Key="结算界面3" Value="Rekor Tertinggi: Gelombang {0}" />
+        <String Key="结算界面4" Value="Rekor Baru!" />
+        <String Key="结算界面5" Value="Hadiah" />
+        <String Key="结算界面6" Value="Ganda" />
+        <String Key="结算界面7" Value="Konfirmasi" />
+        <String Key="结算界面8" Value="{0} Kali tersisa hari ini" />
+        <String Key="结算界面9" Value="Rekor saat ini: Gelombang {0}" />
+        <String Key="设置界面1" Value="Pengaturan" />
+        <String Key="设置界面2" Value="Suara" />
+        <String Key="设置界面3" Value="Musik" />
+        <String Key="设置界面4" Value="Getaran" />
+        <String Key="设置界面6" Value="Kebijakan Privasi" />
+        <String Key="设置界面7" Value="kebijakan pengguna" />
+        <String Key="设置界面9" Value="Ikat akun" />
+        <String Key="新装备解锁1" Value="Peralatan Baru" />
+        <String Key="新装备解锁2" Value="Slot Penempatan Baru" />
+        <String Key="引导1" Value="Monster datang, cepat kemas peralatanmu untuk bertempur!" />
+        <String Key="引导2" Value="Masukkan peralatan ke dalam ransel Anda" />
+        <String Key="引导3" Value="Ransel tidak muat, klik pada belati untuk memutar" />
+        <String Key="引导4" Value="Menyegarkan toko untuk mendapatkan lebih banyak peralatan" />
+        <String Key="引导5" Value="Dua peralatan yang sama dapat digabungkan untuk peningkatan" />
+        <String Key="引导6" Value="Kantong uang menghasilkan koin perak ekstra setelah mengalahkan setiap gelombang" />
+        <String Key="引导7" Value="Semuanya sudah siap, ayo kalahkan monster-monster itu!" />
+        <String Key="引导8" Value="Pilih fitur untuk meningkatkan kemampuan Anda!" />
+        <String Key="引导9" Value="Setelah mengalahkan gelombang monster, mari kita istirahat!" />
+        <String Key="引导10" Value="Tambahkan slot baru ke ransel Anda untuk memperluas ruangnya" />
+        <String Key="引导11" Value="Gunakan koin perak untuk menyegarkan toko dan mendapatkan lebih banyak peralatan" />
+        <String Key="引导12" Value="Manfaatkan sepenuhnya ruang ransel Anda, maksimalkan potensinya!" />
+        <String Key="引导13" Value="Wow! Anda mendapatkan beberapa fragmen peralatan, sekarang Anda dapat meningkatkan peralatan Anda!" />
+        <String Key="引导14" Value="Meningkatkan peralatan Anda dapat meningkatkan kemampuan dasar dan membuka fitur baru" />
+        <String Key="引导15" Value="Lebih banyak peralatan kuat yang menunggu untuk Anda buka" />
+        <String Key="引导16" Value="Anda telah menjadi lebih kuat! Mari terus melawan monster-monster itu!" />
+        <String Key="引导17" Value="Selamat! Anda telah membuka peralatan baru, gunakan sekarang!" />
+        <String Key="引导18" Value="Tarik peralatan ke sana dan ganti dengan peralatan dari pertempuran." />
+        <String Key="引导19" Value="Klik untuk menyesuaikan kecepatan tempur level saat ini" />
+        <String Key="断网" Value="Untuk memastikan pengalaman bermain game yang lebih baik, Anda perlu bermain game secara online." />
+        <String Key="好评1" Value="Ulasan Lima Bintang" />
+        <String Key="好评2" Value="Jika Anda menikmati permainan kami, mohon berikan kami ulasan lima bintang. Ini sangat penting bagi kami." />
+        <String Key="反馈1" Value="Kirim" />
+        <String Key="反馈2" Value="Umpan Balik" />
+        <String Key="反馈3" Value="Jenis Umpan Balik" />
+        <String Key="反馈4" Value="Perbaiki" />
+        <String Key="反馈5" Value="Keluhan" />
+        <String Key="反馈6" Value="Lainnya" />
+        <String Key="反馈7" Value="BUG" />
+        <String Key="反馈8" Value="Klik untuk mengisi detail." />
+        <String Key="反馈9" Value="Kontak (opsional)" />
+        <String Key="反馈10" Value="Facebook" />
+        <String Key="反馈11" Value="Email" />
+        <String Key="反馈12" Value="Phone" />
+        <String Key="反馈13" Value="Silakan diisi." />
+        <String Key="断线重连标题" Value="Pemberitahuan" />
+        <String Key="断线重连内容" Value="Lanjutkan pertempuran sebelumnya?" />
+        <String Key="加速弹窗1" Value="Akselerasi pertempuran" />
+        <String Key="加速弹窗2" Value="Apakah Anda ingin mempercepat level saat ini?" />
+        <String Key="银币使用弹窗1" Value="petunjuk" />
+        <String Key="银币使用弹窗2" Value="Anda masih memiliki banyak koin perak yang tersedia untuk penyegaran." />
+        <String Key="银币使用弹窗3" Value="Mode &apos;Berjuang sampai akhir&apos; hanya memungkinkan persiapan sekali, setelah masuk ke dalam pertempuran tidak bisa kembali. Masih ada sisa koin perak, apakah Anda yakin ingin memasuki pertempuran?" />
+        <String Key="银币使用弹窗4" Value="Lanjutkan Persiapan" />
+        <String Key="银币使用弹窗5" Value="Langsung Bertempur" />
+        <String Key="确认框勾选1" Value="Tidak ada lagi pengingat hari ini" />
+        <String Key="副本标题1" Value="Alam Berlian" />
+        <String Key="副本标题2" Value="Alam Emas" />
+        <String Key="副本标题3" Value="Alam Peralatan" />
+        <String Key="副本标题4" Value="Berjuang sampai akhir" />
+        <String Key="剩余时间说明1" Value="Waktu tersisa:" />
+        <String Key="副本玩法说明1" Value="Berjuang sampai akhir" />
+        <String Key="副本玩法说明2" Value="musuh akan terus berdatangan! Bersiaplah untuk bertempur dan tunggu sampai hitungan mundur berakhir!" />
+        <String Key="副本玩法说明3" Value="Hadiah berlimpah" />
+        <String Key="副本玩法说明4" Value="Semakin tinggi akumulasi poin, semakin kaya hadiahnya!" />
+        <String Key="副本玩法说明5" Value="Fancy Battle" />
+        <String Key="副本玩法说明6" Value="Dua buff dan debuff acak berbeda setiap minggu!" />
+        <String Key="副本玩法说明7" Value="Daftar kejayaan" />
+        <String Key="副本玩法说明8" Value="Daftar ini diperbarui setiap minggu, terus tantang diri Anda dan bersaing untuk posisi teratas!" />
+        <String Key="副本玩法说明9" Value="Panduan" />
+        <String Key="副本积分奖励弹窗1" Value="Poin Hadiah" />
+        <String Key="副本积分奖励弹窗2" Value="Belum tercapai" />
+        <String Key="一站到底排行榜1" Value="Peringkat" />
+        <String Key="一站到底排行榜2" Value="RumbleBag" />
+        <String Key="一站到底排行榜3" Value="Tidak diberi peringkat" />
+        <String Key="副本按钮1" Value="Masuk" />
+        <String Key="副本记录1" Value="Rekor terbaik" />
+        <String Key="副本退出1" Value="Jika Anda pergi sekarang, tantangannya akan gagal. Teruskan?" />
+        <String Key="副本退出2" Value="Tantangannya belum selesai,apakah Anda yakin ingin keluar?" />
+        <String Key="游戏属性1" Value="HP" />
+        <String Key="游戏属性2" Value="Persentase Regenerasi HP" />
+        <String Key="游戏属性3" Value="Regenerasi HP" />
+        <String Key="游戏属性4" Value="Peningkatan HP" />
+        <String Key="游戏属性5" Value="Perisai" />
+        <String Key="游戏属性6" Value="Persentase Regenerasi Perisai" />
+        <String Key="游戏属性7" Value="Regenerasi Perisai" />
+        <String Key="游戏属性8" Value="Peningkatan Perisai" />
+        <String Key="游戏属性9" Value="Serangan" />
+        <String Key="游戏属性10" Value="Peningkatan Serangan" />
+        <String Key="游戏属性11" Value="Tingkat Kritis" />
+        <String Key="游戏属性12" Value="Kerusakan Kritis" />
+        <String Key="游戏属性13" Value="Tingkat Menghindar" />
+        <String Key="游戏属性14" Value="Durasi Stun" />
+        <String Key="游戏属性15" Value="Tingkat Racun" />
+        <String Key="游戏属性16" Value="Durasi Racun" />
+        <String Key="游戏属性17" Value="Tingkat Berdarah" />
+        <String Key="游戏属性18" Value="Durasi Berdarah" />
+        <String Key="游戏属性19" Value="Kecepatan Bergerak" />
+        <String Key="游戏属性20" Value="Jumlah Pantulan" />
+        <String Key="游戏属性21" Value="Jumlah Penetrasi" />
+        <String Key="游戏属性22" Value="Waktu Pemulihan" />
+        <String Key="游戏属性23" Value="Tipe Target" />
+        <String Key="游戏属性24" Value="Jarak Target" />
+        <String Key="游戏属性25" Value="Manfaat" />
+        <String Key="游戏强化类型-1" Value="Tidak ada" />
+        <String Key="游戏强化类型1" Value="Membuka keterampilan aktif" />
+        <String Key="游戏强化类型2" Value="Pada awalnya pasti akan memperbarui satu {0} tingkat {1}" />
+        <String Key="游戏强化类型3" Value="Ada kemungkinan {0}% untuk memperbarui satu peralatan tambahan" />
+        <String Key="游戏强化类型4" Value="Setiap kali pembaruan memiliki kemungkinan {0}% untuk meningkatkan satu peralatan" />
+        <String Key="游戏强化类型5" Value="Slot tas awal meningkat {0} slot" />
+        <String Key="游戏强化类型6" Value="Mendapatkan tambahan {0} koin perak awal" />
+        <String Key="游戏强化类型7" Value="Setiap gelombang menambah {0} koin perak" />
+        <String Key="游戏强化类型8" Value="Mulailah dengan perisai penuh" />
+        <String Key="游戏强化类型9" Value="Mulai penuh energi keterampilan" />
+        <String Key="游戏强化类型101" Value="Semua kerusakan pahlawan meningkat {0}%, kesehatan meningkat {1}" />
+        <String Key="游戏强化类型102" Value="Kesehatan dasar pahlawan meningkat {0}" />
+        <String Key="游戏强化类型103" Value="Kerusakan terhadap BOS meningkat {0}%" />
+        <String Key="游戏强化类型104" Value="Semua kerusakan pahlawan meningkat {0}%" />
+        <String Key="游戏强化类型105" Value="Pahlawan memulihkan {0} kesehatan per detik" />
+        <String Key="游戏强化类型106" Value="Semua kerusakan yang ditimbulkan oleh pahlawan berkurang sebesar {0}%" />
+        <String Key="游戏强化类型201" Value="Penguatan keterampilan aktif {0}%" />
+        <String Key="游戏强化类型202" Value="Kecepatan pengisian keterampilan aktif meningkat {0}%" />
+        <String Key="游戏强化类型301" Value="Sifat {0} dari {1} meningkat {2}%" />
+        <String Key="游戏强化类型302" Value="Sifat {0} dari semua peralatan meningkat {1}%" />
+        <String Key="游戏强化类型303" Value="Atribut {0} dari semua armor ditingkatkan sebesar {1}%" />
+        <String Key="游戏强化类型304" Value="Sifat {0} dari semua senjata meningkat {1}%" />
+        <String Key="游戏强化类型301_1" Value="Atribut {1} {0} dikurangi sebesar {2}%" />
+        <String Key="游戏强化类型302_1" Value="Atribut {0} dari semua peralatan dikurangi sebesar {1}%" />
+        <String Key="游戏强化类型303_1" Value="Atribut {0} semua armor dikurangi sebesar {1}%" />
+        <String Key="游戏强化类型304_1" Value="{0} atribut semua senjata dikurangi sebesar {1}%" />
+        <String Key="游戏强化类型401" Value="Sifat {0} musuh menurun {1}%" />
+        <String Key="游戏强化类型402" Value="Pengalaman untuk membunuh musuh meningkat {0}%" />
+        <String Key="游戏强化类型403" Value="Bos kebal terhadap semua efek negatif" />
+        <String Key="游戏强化类型404" Value="Atribut monster {0} meningkat sebesar {1}%" />
+        <String Key="游戏强化类型405" Value="Monster biasa kebal terhadap semua efek negatif" />
+        <String Key="HeroName1" Value="Peri" />
+        <String Key="HeroName2" Value="magang sihir" />
+        <String Key="HeroName3" Value="Wanita Lucu" />
+        <String Key="HeroName4" Value="Wukong" />
+        <String Key="Hero2ActiveSkillDesc" Value="Memanggil bola goyang raksasa untuk menjatuhkan monster di sepanjang jalan" />
+        <String Key="Hero3ActiveSkillDesc" Value="Seketika memulihkan sejumlah besar nyawa" />
+        <String Key="Hero4ActiveSkillDesc" Value="Memanggil Tongkat emas untuk menimbulkan kerusakan pada musuh di sekitar." />
+        <String Key="Hero3PassiveSkillDesc" Value="Secara terus-menerus memulihkan sejumlah kecil nyawa" />
+        <String Key="Hero4PassiveSkillDesc" Value="Mendapatkan 2 koin perak untuk setiap sintesis" />
+        <String Key="NoActiveSkill" Value="Tidak ada keterampilan aktif" />
+        <String Key="NoPassiveSkill" Value="Tidak ada keterampilan pasif" />
+        <String Key="英雄界面1" Value="Keterampilan aktif" />
+        <String Key="英雄界面2" Value="Keterampilan pasif" />
+        <String Key="英雄界面3" Value="Naik Level" />
+        <String Key="英雄界面4" Value="Naik Bintang" />
+        <String Key="英雄界面5" Value="Naik Level" />
+        <String Key="英雄界面6" Value="Naik Level Satu Klik" />
+        <String Key="英雄界面7" Value="Level Maksimal" />
+        <String Key="英雄界面8" Value="Bonus Bintang" />
+        <String Key="英雄界面9" Value="Naik Bintang" />
+        <String Key="英雄界面10" Value="Bintang Maksimal" />
+        <String Key="英雄界面11" Value="Sedang digunakan..." />
+        <String Key="天赋界面1" Value="Daftar Bakat" />
+        <String Key="天赋界面2" Value="Membuat" />
+        <String Key="天赋界面3" Value="Semua bakat menjadi efektif setelah diperoleh" />
+        <String Key="天赋界面4" Value="Detail Bakat" />
+        <String Key="天赋描述1" Value="Probabilitas kritikal semua senjata +{0}" />
+        <String Key="天赋描述2" Value="Kerusakan kritikal yang ditingkatkan dari semua senjata +{0}" />
+        <String Key="天赋描述3" Value="Kerusakan semua senjata +{0}" />
+        <String Key="天赋描述4" Value="Kesehatan maksimum pahlawan +{0}" />
+        <String Key="天赋描述5" Value="Pemulihan kesehatan per detik pahlawan +{0}" />
+        <String Key="天赋描述6" Value="Durasi cooldown semua senjata -{0}" />
+        <String Key="天赋描述7" Value="Durasi cooldown semua armor -{0}" />
+        <String Key="天赋描述8" Value="Kecepatan penerbangan senjata +{0}" />
+        <String Key="天赋描述9" Value="Kerusakan musuh -{0}" />
+        <String Key="天赋描述10" Value="Kecepatan gerakan musuh -{0}" />
+        <String Key="天赋描述11" Value="Pengalaman yang diperoleh dari mengalahkan musuh +{0}" />
+        <String Key="天赋描述12" Value="Setiap refresh memiliki {0}% kemungkinan untuk menyegarkan satu perlengkapan tambahan" />
+        <String Key="天赋描述13" Value="Setiap refresh memiliki {0}% kemungkinan untuk meningkatkan satu perlengkapan" />
+        <String Key="天赋描述14" Value="Slot ransel awal +{0}" />
+        <String Key="天赋描述15" Value="Koin perak awal +{0}" />
+        <String Key="天赋描述16" Value="Koin perak yang diperoleh di akhir setiap gelombang +{0}" />
+        <String Key="CurrencyTips7" Value="Diperoleh melalui level, dll." />
+        <String Key="CurrencyName1" Value="Stamina" />
+        <String Key="CurrencyName2" Value="Emas" />
+        <String Key="CurrencyName3" Value="Berlian" />
+        <String Key="CurrencyName4" Value="koin perak" />
+        <String Key="CurrencyName5" Value="kunci emas" />
+        <String Key="CurrencyName6" Value="kunci perak" />
+        <String Key="CurrencyName7" Value="kue" />
+        <String Key="CurrencyName8" Value="ramuan ajaib" />
+        <String Key="CurrencyName1001" Value="Fragmen peralatan" />
+        <String Key="CurrencyName2001" Value="Fragmen Pahlawan" />
+        <String Key="设置界面8" Value="Tampilan Kerusakan" />
+        <String Key="任务界面1" Value="Tugas" />
+        <String Key="任务界面2" Value="Dapat Diklaim" />
+        <String Key="任务界面3" Value="Telah Diambil" />
+        <String Key="任务界面4" Value="Sedang Berlangsung" />
+        <String Key="任务界面5" Value="tugas sehari-hari" />
+        <String Key="任务界面6" Value="Pencapaian" />
+        <String Key="TaskDesc101" Value="Lulus tingkat {0}" />
+        <String Key="TaskDesc102" Value="Terima gelombang peti harta karun apa pun sebanyak {0} kali" />
+        <String Key="TaskDesc103" Value="Menyelesaikan total {0} penyisiran" />
+        <String Key="TaskDesc104" Value="Akumulasi penyelesaian {0} kali" />
+        <String Key="TaskDesc105" Value="Berpartisipasi dalam penyalinan {0} kali" />
+        <String Key="TaskDesc201" Value="Tingkatkan peralatan apa pun {0} kali" />
+        <String Key="TaskDesc202" Value="Tingkatkan peralatan apa pun ke level {0}" />
+        <String Key="TaskDesc301" Value="Memperoleh total {0} kunci emas" />
+        <String Key="TaskDesc302" Value="Sebanyak {0} peti harta karun indah telah dibuka" />
+        <String Key="TaskDesc303" Value="Konsumsilah {0} koin emas" />
+        <String Key="TaskDesc304" Value="Konsumsi {0} berlian" />
+        <String Key="TaskDesc305" Value="Konsumsilah {0} kekuatan fisik" />
+        <String Key="TaskDesc401" Value="Perkuat pahlawan {0} kali" />
+        <String Key="TaskDesc402" Value="Pahlawan mana pun mencapai level {0}" />
+        <String Key="TaskDesc403" Value="Level bintang pahlawan mana pun mencapai {0} bintang" />
+        <String Key="TaskDesc501" Value="Sebanyak {0} talenta telah ditarik" />
+        <String Key="TaskDesc502" Value="Setiap bakat mencapai level {0}" />
+        <String Key="TaskDesc601" Value="Peralatan yang disintesis {0} kali selama pertempuran" />
+        <String Key="TaskDesc602" Value="Konsumsilah {0} koin perak" />
+        <String Key="TaskDesc603" Value="Bunuh {0} monster" />
+        <String Key="TaskDesc604" Value="Menangkan dengan peralatan {0}" />
+        <String Key="TaskDesc605" Value="Keterampilan aktif dilepaskan sebanyak {0} kali" />
+        <String Key="TaskDesc606" Value="Total konsumsi {0} koin perak" />
+        <String Key="TaskDesc607" Value="Membunuh total {0} monster" />
+        <String Key="TaskDesc608" Value="Penyegaran penyimpanan kumulatif {0} kali" />
+        <String Key="TaskDesc609" Value="Sintesis teka-teki akumulatif {0} kali" />
+        <String Key="TaskDesc701" Value="Total online {0} menit hari ini" />
+        <String Key="TaskDesc702" Value="Selesaikan {0} tugas harian" />
+        <String Key="TaskDesc703" Value="Aktifkan kartu VIP" />
+        <String Key="TaskDesc704" Value="Akumulasi {0} pembelian di toko harian" />
+        <String Key="签到标题" Value="Masuk" />
+        <String Key="已签到天数" Value="Sudah masuk selama {0} hari" />
+        <String Key="签到天数标题" Value="Hari{0}" />
+        <String Key="签到操作描述" Value="Klik untuk hadiah." />
+        <String Key="签到状态描述" Value="Sudah masuk, datang lagi besok." />
+        <String Key="签到宝箱天数" Value="{0}hari" />
+        <String Key="抽奖标题" Value="Ramalan harian" />
+        <String Key="抽奖按钮" Value="Tarik" />
+        <String Key="抽奖关闭描述" Value="Klik area kosong untuk menutup" />
+        <String Key="挂机领奖标题" Value="Hadiah petualangan" />
+        <String Key="挂机时长描述" Value="Sudah petualangan selama {0} menit" />
+        <String Key="挂机奖励描述" Value="Semakin banyak level utama, semakin besar hadiahnya." />
+        <String Key="挂机领取等待描述" Value="Dapatkan setelah {0}" />
+        <String Key="挂机奖励已满描述" Value="Kotak hadiah sudah penuh!" />
+        <String Key="副本扫荡描述" Value="*Buka sweep setelah tantangan harian.
+*Buka sweep permanen setelah level utama {0}." />
+        <String Key="联网失败标题" Value="Tautan jaringan gagal" />
+        <String Key="联网失败内容" Value="Silakan periksa jaringan dan coba lagi" />
+        <String Key="获取存档标题" Value="Arsip" />
+        <String Key="获取存档内容" Value="Kami memperhatikan bahwa saat ini Anda memiliki arsip riwayat. Apakah Anda ingin menyinkronkannya?" />
+        <String Key="支付提示弹窗" Value="Pembayaran sedang diproses, mohon jangan tinggalkan antarmuka saat ini..." />
+        <String Key="休憩标题" Value="Istirahat" />
+        <String Key="休憩已累计" Value="Tersimpan：" />
+        <String Key="休憩制作中" Value="Beristirahat..." />
+    </Dictionary>
+</Dictionaries>

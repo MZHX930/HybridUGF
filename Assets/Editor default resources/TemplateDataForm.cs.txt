@@ -1,0 +1,22 @@
+using GameFramework;
+using UnityEngine.Events;
+using UnityGameFramework.Runtime;
+
+namespace GameDevScript
+{
+    public sealed class _#Key0#_ : UIFormData
+    {
+        public static _#Key0#_ Create()
+        {
+            var data = ReferencePool.Acquire<_#Key0#_>();
+
+            return data;
+        }
+
+        public override int DtId => (int)UIFormId._#Key1#_;
+
+        public override void Clear()
+        {
+        }
+    }
+}

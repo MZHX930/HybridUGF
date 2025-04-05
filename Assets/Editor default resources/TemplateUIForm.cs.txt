@@ -1,0 +1,33 @@
+using UnityEngine;
+using UnityEngine.UI;
+
+namespace GameDevScript
+{
+    /// <summary>
+    /// _#Remark#_
+    /// </summary>
+    public partial class _#Key0#_ : UGuiForm<_#Key1#_>
+    {
+        #region 组件
+        #endregion
+        
+        #region  public data
+        #endregion
+
+        #region private data
+        #endregion
+
+        protected override void OnInit(object userData)
+        {
+            base.OnInit(userData);
+        }
+        
+        protected override void OnFinalOpen()
+        {
+        }
+
+        protected override void OnFinalClose()
+        {
+        }
+    }
+}

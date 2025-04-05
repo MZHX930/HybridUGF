@@ -1,0 +1,650 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <Dictionary Language="Japanese">
+        <String Key="设置界面5" Value="日本語" />
+        <String Key="主页icon1" Value="ウェルカムパック" />
+        <String Key="主页icon2" Value="月間パスストア" />
+        <String Key="主页icon3" Value="成長基金" />
+        <String Key="主页icon4" Value="VIP" />
+        <String Key="主页icon5" Value="ブーストパック" />
+        <String Key="导航栏1" Value="バトル" />
+        <String Key="导航栏2" Value="ショップ" />
+        <String Key="导航栏3" Value="装備" />
+        <String Key="导航栏4" Value="イベント" />
+        <String Key="导航栏5" Value="英雄" />
+        <String Key="导航栏6" Value="天賦" />
+        <String Key="品质1" Value="普通" />
+        <String Key="品质2" Value="レア" />
+        <String Key="品质3" Value="エピック" />
+        <String Key="品质4" Value="レジェンド" />
+        <String Key="关卡名101" Value="そよ風の草原" />
+        <String Key="关卡名102" Value="果てしない草原" />
+        <String Key="关卡名201" Value="砂丘の迷宮" />
+        <String Key="关卡名202" Value="黄砂の空" />
+        <String Key="关卡名301" Value="モルテン溶岩" />
+        <String Key="关卡名302" Value="地獄の火" />
+        <String Key="关卡名401" Value="氷河経路" />
+        <String Key="关卡名402" Value="永久凍土" />
+        <String Key="关卡名501" Value="大昔の道" />
+        <String Key="关卡名502" Value="聖なる遺跡" />
+        <String Key="关卡名11" Value="朝露の歌" />
+        <String Key="关卡名12" Value="夕日の旧道" />
+        <String Key="关卡名13" Value="おろしの峡谷" />
+        <String Key="关卡名14" Value="荒れ狂う峰" />
+        <String Key="关卡名15" Value="断橋" />
+        <String Key="关卡名循环1" Value="光る波" />
+        <String Key="关卡名循环2" Value="無辺の砂陣" />
+        <String Key="关卡名循环3" Value="溶岩の壁" />
+        <String Key="关卡名循环4" Value="氷晶の宮殿" />
+        <String Key="关卡名循环5" Value="物語の旧道" />
+        <String Key="关卡名循环6" Value="荒れ狂う峰" />
+        <String Key="关卡名循环7" Value="荒野の砂" />
+        <String Key="关卡名循环8" Value="廃墟の隠語" />
+        <String Key="关卡描述1" Value="クリア済み" />
+        <String Key="关卡描述2" Value="ベスト記録：ウェーブ {0}" />
+        <String Key="关卡描述3" Value="クリアした人数：{0}" />
+        <String Key="解锁说明1" Value="{0} レベルを通過するとロック解除されました" />
+        <String Key="解锁说明2" Value="未開放" />
+        <String Key="解锁说明3" Value="任意の有料購入後にアンロック" />
+        <String Key="解锁说明4" Value="サインイン後7日でロック解除" />
+        <String Key="解锁" Value="アンロック" />
+        <String Key="波次说明1" Value="ウェーブ {0}" />
+        <String Key="挑战关卡按钮1" Value="バトル" />
+        <String Key="挑战关卡按钮2" Value="掃討" />
+        <String Key="剩余次数说明1" Value="本日残り{0}回" />
+        <String Key="Toast1" Value="持ち装備不足" />
+        <String Key="Toast2" Value="スタミナ不足" />
+        <String Key="Toast3" Value="ゴールド不足" />
+        <String Key="Toast4" Value="ダイヤ不足" />
+        <String Key="Toast5" Value="破片不足" />
+        <String Key="Toast6" Value="武器を持って戦う" />
+        <String Key="Toast7" Value="お楽しみに" />
+        <String Key="Toast8" Value="広告が読み込まれません。後でもう一度お試しください" />
+        <String Key="Toast9" Value="装備はレベルMAXで、これ以上の合成はできない" />
+        <String Key="Toast10" Value="問題の詳細をご記入ください" />
+        <String Key="Toast11" Value="送信成功" />
+        <String Key="Toast12" Value="鍵不足" />
+        <String Key="Toast13" Value="ショップに接続..." />
+        <String Key="Toast14" Value="残り回数不足" />
+        <String Key="Toast15" Value="ポーション不足" />
+        <String Key="Toast16" Value="天賦レベルMAX" />
+        <String Key="Toast17" Value="英雄星3アンロック" />
+        <String Key="Toast18" Value="スキルエネルゲー不足" />
+        <String Key="Toast19" Value="{0}不足" />
+        <String Key="Toast20" Value="今日描いたので明日また来てください" />
+        <String Key="Toast21" Value="購入成功！" />
+        <String Key="Toast22" Value="購入の失敗" />
+        <String Key="Toast23" Value="回復成功" />
+        <String Key="Toast24" Value="復元に失敗しました，後でもう一度お試しください" />
+        <String Key="Toast25" Value="購入日数制限を超えました" />
+        <String Key="商店分区1" Value="今日のお買い得" />
+        <String Key="商店分区2" Value="破片宝箱" />
+        <String Key="商店分区3" Value="ゴールド" />
+        <String Key="商店分区4" Value="VIP" />
+        <String Key="商店分区5" Value="スタミナ" />
+        <String Key="商店分区6" Value="ギフトパック" />
+        <String Key="商店分区7" Value="魔法のポーション" />
+        <String Key="商店礼包1" Value="お買い得パック" />
+        <String Key="商店礼包2" Value="悟空の英雄破片が入っている！" />
+        <String Key="商店礼包3" Value="期間限定：" />
+        <String Key="商品金币1" Value="一握りのゴールド" />
+        <String Key="商品金币2" Value="一袋のゴールド" />
+        <String Key="商品金币3" Value="一箱のゴールド" />
+        <String Key="商品钻石1" Value="ダイヤ" />
+        <String Key="商品钻石2" Value="わずかなダイヤ" />
+        <String Key="商品钻石3" Value="いくつかのダイヤ" />
+        <String Key="商品钻石4" Value="たくさんのダイヤ" />
+        <String Key="商品钻石5" Value="小さな袋のダイヤ" />
+        <String Key="商品钻石6" Value="大きな袋のダイヤ" />
+        <String Key="商品钻石7" Value="一箱のダイヤ" />
+        <String Key="商品药瓶1" Value="わずかなポーション" />
+        <String Key="商品药瓶2" Value="いくつかのポーション" />
+        <String Key="商品药瓶3" Value="たくさんのポーション" />
+        <String Key="商品钥匙1" Value="銀の鍵" />
+        <String Key="商品钥匙2" Value="金の鍵" />
+        <String Key="商品宝箱1" Value="一般の宝箱" />
+        <String Key="商品宝箱2" Value="素敵な宝箱" />
+        <String Key="商品宝箱3" Value="{0}普通{1}装備が入手確定" />
+        <String Key="商品宝箱4" Value="{0}レア{1}装備が入手確定" />
+        <String Key="商品宝箱5" Value="以下の装備破片が入手可能" />
+        <String Key="商品宝箱6" Value="各装備破片の確率：{0}" />
+        <String Key="商品宝箱7" Value="宝箱を開けてレベルアップし、次の宝箱の報酬を増やす" />
+        <String Key="商品宝箱8" Value="タップして開ける" />
+        <String Key="商品宝箱9" Value="{0}エピック{1}装備が入手確定" />
+        <String Key="商品宝箱10" Value="{0}レジェンド{1}装備が入手確定" />
+        <String Key="宝箱弹窗1" Value="宝箱報酬" />
+        <String Key="宝箱弹窗2" Value="宝箱レベルアップ" />
+        <String Key="商品去广告1" Value="VIP特典：すべての広告を削除" />
+        <String Key="商品去广告2" Value="VIP特典発効中" />
+        <String Key="体力弹窗1" Value="スタミナ補充" />
+        <String Key="商店说明1" Value="購入日から7日以内である場合、払い戻し申請を行えます 
+(ただし、購入と同時に適用または一部使用した場合、対応できません。)" />
+        <String Key="商店按钮1" Value="無料" />
+        <String Key="商店按钮2" Value="売り切れ" />
+        <String Key="商店按钮3" Value="購入復元" />
+        <String Key="商店按钮4" Value="リフレッシュ" />
+        <String Key="商店按钮5" Value="本日の無料回数は残り{0}回" />
+        <String Key="商店折扣1" Value="プロモーション" />
+        <String Key="商店折扣2" Value="-0.9" />
+        <String Key="商店折扣3" Value="-0.7" />
+        <String Key="商店折扣4" Value="-0.5" />
+        <String Key="商店折扣5" Value="-0.3" />
+        <String Key="商店折扣6" Value="-0.1" />
+        <String Key="商店折扣7" Value="価値" />
+        <String Key="vip结算礼包1" Value="プレミアム会員" />
+        <String Key="vip结算礼包2" Value="購入後すぐに累積リソースを獲得" />
+        <String Key="vip结算礼包3" Value="購入後永久にメインレベルをクリアする時に、ゴールド+{0}、デザート+{1}、装備破片+{2}！" />
+        <String Key="vip结算礼包4" Value="特典永久発効中！" />
+        <String Key="月卡商店1" Value="週間パス" />
+        <String Key="月卡商店2" Value="広告なしで報酬を受け取る" />
+        <String Key="月卡商店3" Value="月間パス" />
+        <String Key="月卡商店4" Value="スタミナ上限+30" />
+        <String Key="月卡商店5" Value="未発効" />
+        <String Key="月卡商店6" Value="受け取る" />
+        <String Key="月卡商店7" Value="受取済み" />
+        <String Key="月卡商店8" Value="今すぐ入手" />
+        <String Key="月卡商店9" Value="デイリー報酬" />
+        <String Key="月卡弹窗1" Value="購入後優れた特典を享受できる" />
+        <String Key="成长基金1" Value="購入直後から有効となり、返金はできません。" />
+        <String Key="成长基金2" Value="メインレベルをクリアするとアップグレードできる" />
+        <String Key="成长基金3" Value="{0}ページ目" />
+        <String Key="成长基金4" Value="ワンタッチで受け取る" />
+        <String Key="成长基金5" Value="成長基金{0}ページ目" />
+        <String Key="成长基金6" Value="購入直後から以下の報酬を獲得" />
+        <String Key="成长基金7" Value="購入後以下の報酬をアンロック" />
+        <String Key="奖励界面1" Value="獲得おめでとう" />
+        <String Key="奖励界面2" Value="タップして続ける" />
+        <String Key="装备养成按钮1" Value="アップグレード" />
+        <String Key="装备养成按钮2" Value="レベルMAX" />
+        <String Key="装备名称0" Value="財布" />
+        <String Key="装备名称1" Value="ダガー" />
+        <String Key="装备名称2" Value="ソード" />
+        <String Key="装备名称3" Value="手袋" />
+        <String Key="装备名称4" Value="毒薬" />
+        <String Key="装备名称5" Value="手裏剣" />
+        <String Key="装备名称6" Value="ポーション" />
+        <String Key="装备名称7" Value="弓矢" />
+        <String Key="装备名称8" Value="氷刃" />
+        <String Key="装备名称9" Value="樽" />
+        <String Key="装备名称10" Value="レーザーの杖" />
+        <String Key="装备名称11" Value="野球バット" />
+        <String Key="装备名称12" Value="投斧" />
+        <String Key="装备名称13" Value="ライトニングハンマー" />
+        <String Key="装备名称14" Value="弩" />
+        <String Key="装备名称15" Value="ラグビー" />
+        <String Key="装备名称16" Value="フレイル" />
+        <String Key="装备名称17" Value="シールド" />
+        <String Key="装备名称18" Value="指輪" />
+        <String Key="装备名称19" Value="バウンドボール" />
+        <String Key="装备名称20" Value="ペアピストルズ" />
+        <String Key="装备名称21" Value="金箍棒" />
+        <String Key="装备分区1" Value="装備中" />
+        <String Key="装备分区2" Value="未装備" />
+        <String Key="装备属性1" Value="ターゲット" />
+        <String Key="装备属性2" Value="CD" />
+        <String Key="装备属性3" Value="射程" />
+        <String Key="装备属性4" Value="攻撃" />
+        <String Key="装备属性5" Value="HP" />
+        <String Key="装备属性6" Value="シールドスタッキング" />
+        <String Key="装备属性7" Value="回復" />
+        <String Key="装备属性8" Value="マネー" />
+        <String Key="装备属性9" Value="自分" />
+        <String Key="装备属性10" Value="最寄りの敵" />
+        <String Key="装备属性11" Value="ランダムな敵" />
+        <String Key="装备1词条1" Value="ダガーのCD{0}-20%{1}" />
+        <String Key="装备1词条2" Value="25％の確率で投げられるダガーの数{0}+1{1}" />
+        <String Key="装备1词条3" Value="ダガーのダメージ{0}+25%{1}" />
+        <String Key="装备1词条4" Value="ダガーのCD{0}-30%{1}" />
+        <String Key="装备1词条5" Value="50％の確率で投げられるダガーの数{0}+1{1}" />
+        <String Key="装备1词条6" Value="ダガーのダメージ{0}+50%{1}" />
+        <String Key="装备1词条7" Value="バタフライ ナイフによるボスへのダメージ{0}+100%{1}" />
+        <String Key="装备2词条1" Value="ソードのCD{0}-25%{1}" />
+        <String Key="装备2词条2" Value="2秒間回転するソードを2本召喚" />
+        <String Key="装备2词条3" Value="召喚されるソードの数が{0}4{1}本に増加" />
+        <String Key="装备2词条4" Value="召喚されるソードの数が{0}6{1}本に増加" />
+        <String Key="装备2词条5" Value="召喚剣の攻撃範囲 {0}+50%{1}" />
+        <String Key="装备2词条6" Value="剣のダメージ{0}+50%{1}" />
+        <String Key="装备2词条7" Value="2 本の剣を連続して投げる確率は {0}25%{1} です" />
+        <String Key="装备3词条1" Value="リュック中の手袋に隣接するすべての武器のCD{0}-10%{1}" />
+        <String Key="装备3词条2" Value="手袋のCD{0}-10%{1}" />
+        <String Key="装备3词条3" Value="手袋のシールドスタッキング{0}+20%{1}" />
+        <String Key="装备3词条4" Value="リュック中の手袋に隣接するすべての武器のCD{0}-20%{1}" />
+        <String Key="装备3词条5" Value="鎧を積み重ねるたびに、10% の確率で銀貨 1 枚が得られます" />
+        <String Key="装备3词条6" Value="グローブ アーマーのスタック量が {0}40%{1} に増加しました" />
+        <String Key="装备3词条7" Value="鎧を重ねるたびに、銀貨 1 枚を獲得する確率が {0}20%{1} に増加します" />
+        <String Key="装备4词条1" Value="毒薬のダメージ{0}+100%{1}" />
+        <String Key="装备4词条2" Value="毒薬のCD{0}-20%{1}" />
+        <String Key="装备4词条3" Value="敵に当たると毒のプールが作られ、通り過ぎる全ての敵が中毒になる" />
+        <String Key="装备4词条4" Value="中毒時間が{0}+50%{1}増加" />
+        <String Key="装备4词条5" Value="{0}50%{1} の確率で追加の小さな毒瓶を投げる" />
+        <String Key="装备4词条6" Value="毒の継続ダメージが {0}200%{1} に増加しました" />
+        <String Key="装备4词条7" Value="{0}100%{1} の確率で追加の小さな毒瓶を投げて毒プールを作成します" />
+        <String Key="装备5词条1" Value="手裏剣が命中した後、1回の弾射を行い、最大1回の弾射を行う" />
+        <String Key="装备5词条2" Value="手裏剣のダメージ{0}+25%{1}" />
+        <String Key="装备5词条3" Value="手裏剣のクリティカル率{0}+25%{1}" />
+        <String Key="装备5词条4" Value="手裏剣の発射数{0}+1{1}" />
+        <String Key="装备5词条5" Value="手裏剣は {0}50%{1} の確率で 2 回発射されます" />
+        <String Key="装备5词条6" Value="手裏剣のダメージ{0}+50%{1}" />
+        <String Key="装备5词条7" Value="発射される手裏剣の数が {0}2{1} に増加しました" />
+        <String Key="装备6词条1" Value="ポーションの回復{0}+20%{1}" />
+        <String Key="装备6词条2" Value="ポーションのHP{0}+20%{1}" />
+        <String Key="装备6词条3" Value="ポーションのCD{0}-25%{1}" />
+        <String Key="装备6词条4" Value="ポーションの回復{0}+40%{1}" />
+        <String Key="装备6词条5" Value="ポーションの回復{0}+50%{1}" />
+        <String Key="装备7词条1" Value="弓矢で攻撃するときに{0}3{1}本の矢を放つ" />
+        <String Key="装备7词条2" Value="弓矢の攻撃は{0}1{1}の敵を貫く" />
+        <String Key="装备7词条3" Value="弓矢の命中時に{0}1{1}個の竜巻を召喚" />
+        <String Key="装备7词条4" Value="竜巻の移動速度、移動距離が増加" />
+        <String Key="装备7词条5" Value="矢の散布数が {0}5{1} に増加しました" />
+        <String Key="装备7词条6" Value="弓のダメージ{0}+50%{1}" />
+        <String Key="装备7词条7" Value="竜巻のサイズが {0}150%{1} に増加しました" />
+        <String Key="装备8词条1" Value="氷刃のCD{0}-20%{1}" />
+        <String Key="装备8词条2" Value="氷刃のダメージ{0}+30%{1}" />
+        <String Key="装备8词条3" Value="氷刃が命中すると{0}20%{1}ダメージを与える小さな氷刃を5個生成" />
+        <String Key="装备8词条4" Value="氷刃が命中するとフロストノヴァを誘発し、爆発を引き起こす" />
+        <String Key="装备8词条5" Value="小型アイスピックは {0}50%{1} の確率でフロスト ノヴァを引き起こします" />
+        <String Key="装备8词条6" Value="アイスコーンのダメージ{0}+50%{1}" />
+        <String Key="装备8词条7" Value="フロスト ノヴァ範囲{0}+50%{1}" />
+        <String Key="装备9词条1" Value="樽のダメージ{0}+25%{1}" />
+        <String Key="装备9词条2" Value="樽のCD{0}-20%{1}" />
+        <String Key="装备9词条3" Value="樽の大きさ{0}+100%{1}" />
+        <String Key="装备9词条4" Value="攻撃時、{0}25%{1}の確率で追加の樽を召喚" />
+        <String Key="装备9词条5" Value="バレルは一定距離転がると爆発し、範囲にダメージを与える" />
+        <String Key="装备9词条6" Value="樽のダメージ{0}+50%{1}" />
+        <String Key="装备9词条7" Value="樽は敵の速度を {0}25%{1} 遅くします" />
+        <String Key="装备10词条1" Value="レーザーダメージ {0}+25%{1}" />
+        <String Key="装备10词条2" Value="レーザーを{0}+1{1}本増加" />
+        <String Key="装备10词条3" Value="レーザー幅を大幅に拡大" />
+        <String Key="装备10词条4" Value="レーザーが{0}3{1}本に増加" />
+        <String Key="装备10词条5" Value="レーザー スキャンを {0}+1{1} 回追加" />
+        <String Key="装备10词条6" Value="レーザーダメージ{0}+50%{1}" />
+        <String Key="装备10词条7" Value="レーザー冷却時間 {0}-50%{1}" />
+        <String Key="装备11词条1" Value="命中時ランダムに敵に{0}1{1}個の野球を発射" />
+        <String Key="装备11词条2" Value="野球バットのダメージ{0}+25%{1}" />
+        <String Key="装备11词条3" Value="命中時ランダムに敵に{0}3{1}個の野球を発射" />
+        <String Key="装备11词条4" Value="25%の確率で{0}1{1}のバットを追加で投げる" />
+        <String Key="装备11词条5" Value="野球のボリューム{0}+50%{1}" />
+        <String Key="装备11词条6" Value="野球バットのダメージ{0}+50%{1}" />
+        <String Key="装备11词条7" Value="追加の野球バットを投げる確率が {0}50%{1} に増加しました" />
+        <String Key="装备12词条1" Value="斧が敵を貫く{0}+1{1}" />
+        <String Key="装备12词条2" Value="斧のCD{0}-20%{1}" />
+        <String Key="装备12词条3" Value="斧の大きさ{0}+50%{1}" />
+        <String Key="装备12词条4" Value="敵に出血効果を与える" />
+        <String Key="装备12词条5" Value="25% の確率で追加の {0}1{1} 個の手斧を投げます" />
+        <String Key="装备12词条6" Value="投げ斧のダメージ{0}+50%{1}" />
+        <String Key="装备12词条7" Value="投げ斧のクールダウン時間が {0}-40%{1} に短縮されます" />
+        <String Key="装备13词条1" Value="敵に当たると稲妻を召喚" />
+        <String Key="装备13词条2" Value="ハンマーのダメージ{0}+25%{1}" />
+        <String Key="装备13词条3" Value="ハンマーのCD{0}-20%{1}" />
+        <String Key="装备13词条4" Value="ハンマーは敵に阻まれない" />
+        <String Key="装备13词条5" Value="ハンマーは、{0}20%{1} の確率で敵をノックバックします" />
+        <String Key="装备13词条6" Value="ハンマーダメージ{0}+50%{1}" />
+        <String Key="装备13词条7" Value="稲妻が雷雨を引き起こす" />
+        <String Key="装备14词条1" Value="クロスボウが追加の小さなクロスボウの矢を {0}5{1} 発発射します" />
+        <String Key="装备14词条2" Value="クロスボウのクールダウン時間{0}-20%{1}" />
+        <String Key="装备14词条3" Value="クロスボウのダメージ{0}+25%{1}" />
+        <String Key="装备14词条4" Value="クロスボウは近距離の敵をノックバックします" />
+        <String Key="装备14词条5" Value="クロスボウは敵に出血効果を引き起こします" />
+        <String Key="装备14词条6" Value="クロスボウのダメージ{0}+50%{1}" />
+        <String Key="装备14词条7" Value="クロスボウがさらに {0}8{1} 個の小さなクロスボウの矢を発射します" />
+        <String Key="装备15词条1" Value="ラグビーは近距離で敵をノックバックします" />
+        <String Key="装备15词条2" Value="ラグビー CD {0}-20%{1}" />
+        <String Key="装备15词条3" Value="ラグビー サイズ {0}+50%{1}" />
+        <String Key="装备15词条4" Value="敵を大幅にノックバックする確率が 20% です。" />
+        <String Key="装备15词条5" Value="ラグビーボールを投げる確率 {0}+1{1} は {0}25%{1}" />
+        <String Key="装备15词条6" Value="ラグビー ダメージ {0}+50%{1}" />
+        <String Key="装备15词条7" Value="ラグビー ノックバック確率が {0}30%{1} に増加" />
+        <String Key="装备16词条1" Value="敵に出血効果を与える" />
+        <String Key="装备16词条2" Value="フレイルのダメージ{0}+25%{1}" />
+        <String Key="装备16词条3" Value="フレイルの攻撃範囲{0}+100%{1}" />
+        <String Key="装备16词条4" Value="敵にスタン効果を与える" />
+        <String Key="装备16词条5" Value="フレイルが {0}25%{1} の確率で追加攻撃を 1 回行う" />
+        <String Key="装备16词条6" Value="フレイルダメージ {0}+50%{1}" />
+        <String Key="装备16词条7" Value="フレイルのクールダウン {0}-20%{1}" />
+        <String Key="装备17词条1" Value="シールドのHP{0}＋20%{1}" />
+        <String Key="装备17词条2" Value="シールドのCD{0}-20%{1}" />
+        <String Key="装备17词条3" Value="シールドを投げ、敵をスタンさせる" />
+        <String Key="装备17词条4" Value="20%の確率でリモートダメージを受ける{0}-50%{1}" />
+        <String Key="装备17词条5" Value="シールドのHP{0}＋30%{1}" />
+        <String Key="装备18词条1" Value="指輪のHP{0}+20%{1}" />
+        <String Key="装备18词条2" Value="指輪付近の武器ダメージ{0}+20%{1}" />
+        <String Key="装备18词条3" Value="リュックに指輪を1つ入れるごとに回避率{0}+1%{1}" />
+        <String Key="装备18词条4" Value="リュックに指輪を1つ入れるごとにクリティカル率{0}+1%{1}" />
+        <String Key="装备19词条1" Value="バウンドボールのバウンド数{0}+3{1}" />
+        <String Key="装备19词条2" Value="バウンドボールのバウンドごとのダメージ{0}+30%{1}" />
+        <String Key="装备19词条3" Value="バウンドボールが敵に初めて当たった後、50%の確率で2つのボールに分かれる" />
+        <String Key="装备19词条4" Value="バウンドボールのクリティカル率{0}+30%{1}" />
+        <String Key="装备19词条5" Value="弾むボールのバウンド数が {0}5{1} に増加しました" />
+        <String Key="装备19词条6" Value="弾むボールのダメージ{0}+50%{1}" />
+        <String Key="装备19词条7" Value="弾むボールで敵をノックバックする確率は {0}20%{1} です" />
+        <String Key="装备20词条1" Value="2発の弾丸が同じ敵に命中した場合、2発目の弾丸は必ず会心のダメージを与える" />
+        <String Key="装备20词条2" Value="弾丸のダメージ{0}+50%{1}" />
+        <String Key="装备20词条3" Value="弾丸が敵に命中して出血効果を与える" />
+        <String Key="装备20词条4" Value="弾丸が敵に当たると爆発し、範囲ダメージを与える" />
+        <String Key="装备20词条5" Value="{0}30%{1} の確率で追加の弾丸が発射されます" />
+        <String Key="装备20词条6" Value="弾丸のダメージ{0}+50%{1}" />
+        <String Key="装备20词条7" Value="二丁拳銃のクールタイム{0}-20%{1}" />
+        <String Key="装备21词条1" Value="金箍棒の長さ{0}+25%{1}" />
+        <String Key="装备21词条2" Value="巨大な金箍棒を召喚して敵に投げつける" />
+        <String Key="装备21词条3" Value="金箍棒に当たった後、20%の確率で0.5秒間スタン状態になる" />
+        <String Key="装备21词条4" Value="金箍棒のダメージ{0}+50%{1}" />
+        <String Key="装备21词条5" Value="金箍棒の長さが {0}50%{1} に増加します" />
+        <String Key="装备21词条6" Value="金箍棒のダメージ{0}+50%{1}" />
+        <String Key="装备21词条7" Value="金箍棒の冷却率 {0}-35%{1}" />
+        <String Key="通用词条装备101" Value="全武器のCD-5%" />
+        <String Key="通用词条装备102" Value="全武器のCD-10%" />
+        <String Key="通用词条装备103" Value="全武器のCD-20%" />
+        <String Key="通用词条装备201" Value="全アーマーのCD-5%" />
+        <String Key="通用词条装备202" Value="全アーマーのCD-10%" />
+        <String Key="通用词条装备203" Value="全アーマーのCD-20%" />
+        <String Key="通用词条装备301" Value="全武器のダメージ+5%" />
+        <String Key="通用词条装备302" Value="全武器のダメージ+10%" />
+        <String Key="通用词条装备303" Value="全武器のダメージ+20%" />
+        <String Key="通用词条装备401" Value="全アーマーのHP+5%" />
+        <String Key="通用词条装备402" Value="全アーマーのHP+10%" />
+        <String Key="通用词条装备403" Value="全アーマーのHP+20%" />
+        <String Key="通用词条装备503" Value="直ちにHPの50%を回復" />
+        <String Key="通用词条怪物101" Value="モンスター討伐経験値+10%" />
+        <String Key="通用词条怪物102" Value="モンスター討伐経験値+25%" />
+        <String Key="通用词条怪物103" Value="モンスター討伐経験値+50%" />
+        <String Key="通用词条怪物201" Value="全モンスターの移動速度-5%" />
+        <String Key="通用词条怪物202" Value="全モンスターの移動速度-10%" />
+        <String Key="通用词条怪物203" Value="全モンスターの移動速度-20%" />
+        <String Key="通用词条怪物301" Value="全モンスターのダメージ-5%" />
+        <String Key="通用词条怪物302" Value="全モンスターのダメージ-10%" />
+        <String Key="通用词条怪物303" Value="全モンスターのダメージ-20%" />
+        <String Key="通用词条经济101" Value="直ちにシルバーコインを20枚獲得" />
+        <String Key="通用词条经济102" Value="直ちにシルバーコインを30枚獲得" />
+        <String Key="通用词条经济103" Value="直ちにシルバーコインを60枚獲得" />
+        <String Key="通用词条经济201" Value="ウェーブあたりのシルバーコイン+20%" />
+        <String Key="通用词条经济202" Value="ウェーブあたりのシルバーコイン+30%" />
+        <String Key="通用词条经济203" Value="ウェーブあたりのシルバーコイン+50%" />
+        <String Key="通用词条商店103" Value="レベル2装備のリフレッシュ確率+50%" />
+        <String Key="通用词条商店203" Value="リフレッシュごとにアイテムを1つ追加" />
+        <String Key="通用词条商店303" Value="ショップに戻るたびに1回目のリフレッシュ無料" />
+        <String Key="通用词条boss101" Value="ボスへのダメージ +10%" />
+        <String Key="通用词条boss102" Value="ボスへのダメージ+25%" />
+        <String Key="通用词条boss103" Value="ボスへのダメージ +40%" />
+        <String Key="通用词条经济301" Value="戦闘後5％の利息を獲得（最大10）" />
+        <String Key="通用词条经济302" Value="戦闘後に10％の利息を獲得（最大10）" />
+        <String Key="通用词条经济303" Value="戦闘後に20％の利息を獲得（最大10）" />
+        <String Key="通用词条一次性1" Value="このラウンドの戦闘後、装備がランダムで 1 つアップグレードされます" />
+        <String Key="通用词条一次性2" Value="このラウンドの戦闘後、装備が 2 つランダムにアップグレードされます" />
+        <String Key="暂停界面1" Value="一時停止" />
+        <String Key="暂停界面2" Value="有効化された特性" />
+        <String Key="退出弹窗1" Value="注意" />
+        <String Key="退出弹窗2" Value="今離れるなら何の報酬も得られず、スタミナも戻らないので、本当に続けますか？" />
+        <String Key="退出弹窗3" Value="確認" />
+        <String Key="战斗界面1" Value="ウェーブ{0}" />
+        <String Key="战斗界面2" Value="リフレッシュ" />
+        <String Key="战斗界面3" Value="レベル2装備が入手確定" />
+        <String Key="战斗界面4" Value="バトル" />
+        <String Key="战斗界面5" Value="ダメージ統計" />
+        <String Key="补充银币弹窗1" Value="シルバーコイン不足" />
+        <String Key="补充银币弹窗2" Value="ビデオを見て、シルバーコインを{0}枚手に入れますか。" />
+        <String Key="选择词条界面1" Value="特性を選ぶ" />
+        <String Key="选择词条界面2" Value="残り回数{0}/{1}" />
+        <String Key="选择词条界面3" Value="リフレッシュ" />
+        <String Key="选择词条界面4" Value="全部もらう" />
+        <String Key="复活界面1" Value="復活しますか" />
+        <String Key="复活界面2" Value="シルバーコイン30枚を獲得し、ゲーム内のショップをオープンし、レベル3装備を必ずリフレッシュされる" />
+        <String Key="复活界面3" Value="復活" />
+        <String Key="复活界面4" Value="結構" />
+        <String Key="结算界面1" Value="勝利" />
+        <String Key="结算界面2" Value="失敗" />
+        <String Key="结算界面3" Value="ベスト記録：ウェーブ {0}" />
+        <String Key="结算界面4" Value="新記録！" />
+        <String Key="结算界面5" Value="報酬" />
+        <String Key="结算界面6" Value="2倍受け取る" />
+        <String Key="结算界面7" Value="確認" />
+        <String Key="结算界面8" Value="本日残り{0}回" />
+        <String Key="结算界面9" Value="現在の記録：ウェーブ {0}" />
+        <String Key="设置界面1" Value="設定" />
+        <String Key="设置界面2" Value="効果音" />
+        <String Key="设置界面3" Value="BGM" />
+        <String Key="设置界面4" Value="振動" />
+        <String Key="设置界面6" Value="プライバシーポリシー" />
+        <String Key="设置界面7" Value="利用規約" />
+        <String Key="设置界面9" Value="アカウント連携" />
+        <String Key="新装备解锁1" Value="新たな装備" />
+        <String Key="新装备解锁2" Value="新たな出陣スロット" />
+        <String Key="引导1" Value="モンスターがやってくるので、装備をリュックに入れて戦いに臨もう！" />
+        <String Key="引导2" Value="ショップでリフレッシュした装備をリュックに入れる" />
+        <String Key="引导3" Value="リュックに入らない。ナイフをタップして方向を変えてみて" />
+        <String Key="引导4" Value="ショップをリフレッシュしてより多くの装備を取得できる" />
+        <String Key="引导5" Value="同じ装備を合成してアップグレードすることができる" />
+        <String Key="引导6" Value="財布はモンスターを倒した後に追加のシルバーコインを生産する" />
+        <String Key="引导7" Value="よし、モンスターを倒そう！" />
+        <String Key="引导8" Value="アップグレードによって能力を強化することができる。特性を選択しよう！" />
+        <String Key="引导9" Value="モンスターを倒した。休憩しよう！" />
+        <String Key="引导10" Value="新しいグリッドをリュックにつなぎ合わせることで、リュックのスペースを広げることができる" />
+        <String Key="引导11" Value="シルバーコインを使って、ショップをリフレッシュしてより多くの装備を取得できる" />
+        <String Key="引导12" Value="リュックのスペースを最大限に活用しよう" />
+        <String Key="引导13" Value="装備の破片を獲得。装備をアップグレードすることができるようになった" />
+        <String Key="引导14" Value="装備をアップグレードすることで、基本能力が強化されるだけでなく、新たな特性もアンロックされる" />
+        <String Key="引导15" Value="さらに強力な装備も用意されている" />
+        <String Key="引导16" Value="さらに強くなったので、モンスターと戦い続けよう！" />
+        <String Key="引导17" Value="新たな装備のアンロックおめでとう！今すぐ配置しよう。" />
+        <String Key="引导18" Value="ドラッグして出陣装備と入れ替わる" />
+        <String Key="引导19" Value="タップして現在のレベルの戦闘速度を調整する。" />
+        <String Key="断网" Value="より良い体験のために、オンライン状態でゲームを行う必要があります。" />
+        <String Key="好评1" Value="五つ星レビュー" />
+        <String Key="好评2" Value="このゲームが好きなら、ぜひ5つ星レビューをしてください。これは私たちにとって非常に重要です。" />
+        <String Key="反馈1" Value="提出" />
+        <String Key="反馈2" Value="フィードバック" />
+        <String Key="反馈3" Value="フィードバックの種類" />
+        <String Key="反馈4" Value="改善" />
+        <String Key="反馈5" Value="クレーム" />
+        <String Key="反馈6" Value="その他" />
+        <String Key="反馈7" Value="BUG" />
+        <String Key="反馈8" Value="タップして記入" />
+        <String Key="反馈9" Value="連絡先（オプション）" />
+        <String Key="反馈10" Value="Facebook" />
+        <String Key="反馈11" Value="Email" />
+        <String Key="反馈12" Value="Phone" />
+        <String Key="反馈13" Value="記入してください" />
+        <String Key="断线重连标题" Value="注意" />
+        <String Key="断线重连内容" Value="前のバトルを続ける？" />
+        <String Key="加速弹窗1" Value="戦闘加速" />
+        <String Key="加速弹窗2" Value="現在のレベルを加速する？" />
+        <String Key="银币使用弹窗1" Value="ヒント" />
+        <String Key="银币使用弹窗2" Value="リフレッシュ用のシルバーコインはまだたくさんある" />
+        <String Key="银币使用弹窗3" Value="「最後まで戦う」モードでは、一度だけ準備できます。戦闘に入ると戻れません。銀貨が残っていますが、戦闘に入ってもよろしいですか？" />
+        <String Key="银币使用弹窗4" Value="準備する" />
+        <String Key="银币使用弹窗5" Value="戦う" />
+        <String Key="确认框勾选1" Value="今日は通知しない" />
+        <String Key="副本标题1" Value="ダイヤレルム" />
+        <String Key="副本标题2" Value="ゴールドレルム" />
+        <String Key="副本标题3" Value="破片レルム" />
+        <String Key="副本标题4" Value="最後まで戦う" />
+        <String Key="剩余时间说明1" Value="残り時間：" />
+        <String Key="副本玩法说明1" Value="最後まで戦う" />
+        <String Key="副本玩法说明2" Value="敵は続々とやってくる！戦いの準備をして、カウントダウンが終わるまで頑張ってください!" />
+        <String Key="副本玩法说明3" Value="豪華な報酬" />
+        <String Key="副本玩法说明4" Value="貯まったポイントが多ければ多いほど、豪華な報酬が得られます!" />
+        <String Key="副本玩法说明5" Value="ファンシーバトル" />
+        <String Key="副本玩法说明6" Value="毎週2つの異なるランダムなバフとデバフ!" />
+        <String Key="副本玩法说明7" Value="栄光リスト" />
+        <String Key="副本玩法说明8" Value="リストは毎週更新され、常に自分自身に挑戦し、トップの座を競い合います。" />
+        <String Key="副本玩法说明9" Value="ガイド" />
+        <String Key="副本积分奖励弹窗1" Value="ポイント報酬" />
+        <String Key="副本积分奖励弹窗2" Value="未到達" />
+        <String Key="一站到底排行榜1" Value="ランキング" />
+        <String Key="一站到底排行榜2" Value="ランブルバッグ" />
+        <String Key="一站到底排行榜3" Value="ランク外" />
+        <String Key="副本按钮1" Value="入る" />
+        <String Key="副本记录1" Value="ベスト記録" />
+        <String Key="副本退出1" Value="今離れるとチャレンジ失敗とみなされるが、続ける？" />
+        <String Key="副本退出2" Value="挑戦はまだ終わっていません。本当に辞めてもよろしいですか?" />
+        <String Key="游戏属性1" Value="HP" />
+        <String Key="游戏属性2" Value="HP回復（%）" />
+        <String Key="游戏属性3" Value="HP回復" />
+        <String Key="游戏属性4" Value="HP増加" />
+        <String Key="游戏属性5" Value="シールド" />
+        <String Key="游戏属性6" Value="シールド回復（%）" />
+        <String Key="游戏属性7" Value="シールド回復" />
+        <String Key="游戏属性8" Value="シールド増加" />
+        <String Key="游戏属性9" Value="攻撃力" />
+        <String Key="游戏属性10" Value="攻撃力アップ" />
+        <String Key="游戏属性11" Value="クリティカル率" />
+        <String Key="游戏属性12" Value="クリティカルダメージ" />
+        <String Key="游戏属性13" Value="回避率" />
+        <String Key="游戏属性14" Value="スタン時間" />
+        <String Key="游戏属性15" Value="中毒率" />
+        <String Key="游戏属性16" Value="中毒時間" />
+        <String Key="游戏属性17" Value="出血率" />
+        <String Key="游戏属性18" Value="出血時間" />
+        <String Key="游戏属性19" Value="移動速度" />
+        <String Key="游戏属性20" Value="リコシェット数" />
+        <String Key="游戏属性21" Value="貫通回数" />
+        <String Key="游戏属性22" Value="CD" />
+        <String Key="游戏属性23" Value="索敵タイプ" />
+        <String Key="游戏属性24" Value="索敵距離" />
+        <String Key="游戏属性25" Value="収益" />
+        <String Key="游戏强化类型-1" Value="なし" />
+        <String Key="游戏强化类型1" Value="アクティブスキルのアンロック" />
+        <String Key="游戏强化类型2" Value="ゲーム開始の時レベル{0}の{1}のリフレッシュを保証" />
+        <String Key="游戏强化类型3" Value="{0}%の確率で装備が1つ増える" />
+        <String Key="游戏强化类型4" Value="リフレッシュごとに{0}%の確率で装備品をアップグレード" />
+        <String Key="游戏强化类型5" Value="リュックの初期グリッドを{0}つ追加" />
+        <String Key="游戏强化类型6" Value="初期シルバーコインを{0}追加" />
+        <String Key="游戏强化类型7" Value="ウェーブごとにシルバーコインを{0}追加" />
+        <String Key="游戏强化类型8" Value="フルシールドから始める" />
+        <String Key="游戏强化类型9" Value="スキルエネルギー満タンでスタート" />
+        <String Key="游戏强化类型101" Value="英雄の全ダメージが{0}%増加、HPが{1}増加" />
+        <String Key="游戏强化类型102" Value="英雄の基本HPが{0}増加" />
+        <String Key="游戏强化类型103" Value="ボスへのダメージが{0}%増加" />
+        <String Key="游戏强化类型104" Value="英雄の全ダメージが{0}%増加" />
+        <String Key="游戏强化类型105" Value="英雄のHP回復毎秒{0}" />
+        <String Key="游戏强化类型106" Value="ヒーローが与えるダメージはすべて {0}% 減少します" />
+        <String Key="游戏强化类型201" Value="アクティブスキル強化{0}%" />
+        <String Key="游戏强化类型202" Value="アクティブスキルのチャージ速度が{0}%増加" />
+        <String Key="游戏强化类型301" Value="{0}の{1}属性が{2}%増加" />
+        <String Key="游戏强化类型302" Value="全装備の{0}属性が{1}%増加" />
+        <String Key="游戏强化类型303" Value="全アーマーの{0}属性が{1}%増加" />
+        <String Key="游戏强化类型304" Value="全武器の{0}属性が{1}%増加" />
+        <String Key="游戏强化类型301_1" Value="{0}の{1}属性が{2}%減少" />
+        <String Key="游戏强化类型302_1" Value="全装備の{0}属性が{1}%減少" />
+        <String Key="游戏强化类型303_1" Value="全アーマーの{0}属性が{1}%減少" />
+        <String Key="游戏强化类型304_1" Value="全武器の{0}属性が{1}%減少" />
+        <String Key="游戏强化类型401" Value="敵の{0}属性が{1}%減少" />
+        <String Key="游戏强化类型402" Value="敵を倒した時の経験値が{0}%増加" />
+        <String Key="游戏强化类型403" Value="ボスはあらゆるマイナス影響を受けない" />
+        <String Key="游戏强化类型404" Value="モンスターの {0} 属性が {1}% 増加しました" />
+        <String Key="游戏强化类型405" Value="通常のモンスターはあらゆる悪影響を受けません" />
+        <String Key="HeroName1" Value="エルフ" />
+        <String Key="HeroName2" Value="魔法使い" />
+        <String Key="HeroName3" Value="ファニー・レディ" />
+        <String Key="HeroName4" Value="悟空" />
+        <String Key="Hero2ActiveSkillDesc" Value="巨大な弾力ボールを召喚し、沿道のモンスターを突き飛ばす" />
+        <String Key="Hero3ActiveSkillDesc" Value="直ちに大量のHPを回復" />
+        <String Key="Hero4ActiveSkillDesc" Value="金箍棒を召喚し、近くの敵にダメージを与える" />
+        <String Key="Hero3PassiveSkillDesc" Value="少量のHPを継続的に回復" />
+        <String Key="Hero4PassiveSkillDesc" Value="合成ごとにシルバーコインを2枚獲得" />
+        <String Key="NoActiveSkill" Value="アクティブスキルなし" />
+        <String Key="NoPassiveSkill" Value="パッシブスキルなし" />
+        <String Key="英雄界面1" Value="アクティブスキル" />
+        <String Key="英雄界面2" Value="パッシブスキル" />
+        <String Key="英雄界面3" Value="レベルアップ" />
+        <String Key="英雄界面4" Value="スターアップ" />
+        <String Key="英雄界面5" Value="レベルアップ" />
+        <String Key="英雄界面6" Value="ワンタッチでレベルアップ" />
+        <String Key="英雄界面7" Value="レベルMAX" />
+        <String Key="英雄界面8" Value="スターバフ" />
+        <String Key="英雄界面9" Value="スターアップ" />
+        <String Key="英雄界面10" Value="スターMAX" />
+        <String Key="英雄界面11" Value="使用中..." />
+        <String Key="天赋界面1" Value="天賦一覧" />
+        <String Key="天赋界面2" Value="錬成" />
+        <String Key="天赋界面3" Value="すべての天賦を取得すると有効になる" />
+        <String Key="天赋界面4" Value="天賦情報" />
+        <String Key="天赋描述1" Value="全武器クリティカル率+{0}" />
+        <String Key="天赋描述2" Value="全武器クリティカルダメージ+{0}" />
+        <String Key="天赋描述3" Value="全武器ダメージ+{0}" />
+        <String Key="天赋描述4" Value="英雄のHP上限+{0}" />
+        <String Key="天赋描述5" Value="英雄のHP回復毎秒+{0}" />
+        <String Key="天赋描述6" Value="全武器のCD-{0}" />
+        <String Key="天赋描述7" Value="全アーマーのCD-{0}" />
+        <String Key="天赋描述8" Value="武器の飛行速度+{0}" />
+        <String Key="天赋描述9" Value="敵のダメージ-{0}" />
+        <String Key="天赋描述10" Value="敵の移動速度-{0}" />
+        <String Key="天赋描述11" Value="敵を倒す時の経験値+{0}" />
+        <String Key="天赋描述12" Value="リフレッシュごとに{0}%の確率で装備が1つ追加可能" />
+        <String Key="天赋描述13" Value="リフレッシュごとに{0}%の確率で装備が1つアップグレード可能" />
+        <String Key="天赋描述14" Value="リュックの初期グリッド+{0}" />
+        <String Key="天赋描述15" Value="初期シルバーコイン+{0}" />
+        <String Key="天赋描述16" Value="ウェーブ終了時のシルバーコイン+{0}" />
+        <String Key="CurrencyTips7" Value="レベルなどで取得" />
+        <String Key="CurrencyName1" Value="スタミナ" />
+        <String Key="CurrencyName2" Value="ゴールド" />
+        <String Key="CurrencyName3" Value="ダイヤ" />
+        <String Key="CurrencyName4" Value="シルバーコイン" />
+        <String Key="CurrencyName5" Value="金の鍵" />
+        <String Key="CurrencyName6" Value="銀の鍵" />
+        <String Key="CurrencyName7" Value="ケーキ" />
+        <String Key="CurrencyName8" Value="魔法のポーション" />
+        <String Key="CurrencyName1001" Value="装備破片" />
+        <String Key="CurrencyName2001" Value="英雄破片" />
+        <String Key="设置界面8" Value="ダメージ表示" />
+        <String Key="任务界面1" Value="タスク" />
+        <String Key="任务界面2" Value="受け取れる" />
+        <String Key="任务界面3" Value="受け取った" />
+        <String Key="任务界面4" Value="進行中" />
+        <String Key="任务界面5" Value="日々のタスク" />
+        <String Key="任务界面6" Value="成果" />
+        <String Key="TaskDesc101" Value="合格レベル {0}" />
+        <String Key="TaskDesc102" Value="宝箱の波を {0} 回受け取る" />
+        <String Key="TaskDesc103" Value="合計 {0} 件のスイープを完了しました" />
+        <String Key="TaskDesc104" Value="累計決済額 {0} 回" />
+        <String Key="TaskDesc105" Value="{0} 回コピーに参加しました" />
+        <String Key="TaskDesc201" Value="あらゆる装備を{0}回強化する" />
+        <String Key="TaskDesc202" Value="あらゆる装備をレベル {0} まで強化します" />
+        <String Key="TaskDesc301" Value="合計 {0} 個のゴールデン キーを取得しました" />
+        <String Key="TaskDesc302" Value="合計 {0} 個の素晴らしい宝箱を開けました" />
+        <String Key="TaskDesc303" Value="{0} 個のゴールド コインを消費する" />
+        <String Key="TaskDesc304" Value="ダイヤモンドを {0} 個消費する" />
+        <String Key="TaskDesc305" Value="体力を{0}消費する" />
+        <String Key="TaskDesc401" Value="ヒーローを{0}回強化する" />
+        <String Key="TaskDesc402" Value="どのヒーローもレベル {0} に到達します" />
+        <String Key="TaskDesc403" Value="ヒーローのスターレベルが {0} つ星に達しました" />
+        <String Key="TaskDesc501" Value="合計 {0} 人の才能が選ばれました" />
+        <String Key="TaskDesc502" Value="すべての才能がレベル {0} に達する" />
+        <String Key="TaskDesc601" Value="戦闘中に装備を{0}回合成しました" />
+        <String Key="TaskDesc602" Value="シルバーコインを{0}枚消費する" />
+        <String Key="TaskDesc603" Value="{0} 体のモンスターを倒す" />
+        <String Key="TaskDesc604" Value="{0}の装備で勝利する" />
+        <String Key="TaskDesc605" Value="アクティブスキルは合計 {0} 回解放されました" />
+        <String Key="TaskDesc606" Value="{0} 枚の銀貨の合計消費量" />
+        <String Key="TaskDesc607" Value="合計 {0} 体のモンスターを倒した" />
+        <String Key="TaskDesc608" Value="累積ストア更新 {0} 回" />
+        <String Key="TaskDesc609" Value="累計パズル合成 {0} 回" />
+        <String Key="TaskDesc701" Value="今日の合計オンライン時間は {0} 分です" />
+        <String Key="TaskDesc702" Value="{0} 個の毎日のタスクを完了する" />
+        <String Key="TaskDesc703" Value="VIPカードを有効化する" />
+        <String Key="TaskDesc704" Value="毎日のストアでの累計購入数 {0} 件" />
+        <String Key="签到标题" Value="サインイン" />
+        <String Key="已签到天数" Value="{0}日間サインインしました" />
+        <String Key="签到天数标题" Value="{0}日目" />
+        <String Key="签到操作描述" Value="サインインして報酬獲得" />
+        <String Key="签到状态描述" Value="今日はサインイン済み、明日また来てください" />
+        <String Key="签到宝箱天数" Value="{0}日" />
+        <String Key="抽奖标题" Value="今日の運勢" />
+        <String Key="抽奖按钮" Value="抽選" />
+        <String Key="抽奖关闭描述" Value="空白をタップして閉じる" />
+        <String Key="挂机领奖标题" Value="冒険報酬" />
+        <String Key="挂机时长描述" Value="{0}分冒険しました" />
+        <String Key="挂机奖励描述" Value="メインステージをクリアするほど報酬が豪華に" />
+        <String Key="挂机领取等待描述" Value="{0}後に受け取れます" />
+        <String Key="挂机奖励已满描述" Value="報酬ボックスがいっぱいです！" />
+        <String Key="副本扫荡描述" Value="*毎日1回クリアで掃討解放
+*メインステージ{0}クリアで掃討永久解放" />
+        <String Key="联网失败标题" Value="ネットワークリンクに失敗しました" />
+        <String Key="联网失败内容" Value="ネットワークを確認して再試行してください" />
+        <String Key="获取存档标题" Value="アーカイブ" />
+        <String Key="获取存档内容" Value="現在履歴アーカイブがあることに気づきましたが、それを同期しますか?" />
+        <String Key="支付提示弹窗" Value="支払いが処理されています。現在のインターフェースから離れないでください..." />
+        <String Key="休憩标题" Value="休憩" />
+        <String Key="休憩已累计" Value="保存済み：" />
+        <String Key="休憩制作中" Value="休憩中..." />
+    </Dictionary>
+</Dictionaries>

@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <Dictionary Language="Vietnamese">
+        <String Key="设置界面5" Value="Tiếng Việt" />
+        <String Key="主页icon1" Value="Gói chào mừng" />
+        <String Key="主页icon2" Value="Cửa hàng tháng" />
+        <String Key="主页icon3" Value="Quỹ phát triển" />
+        <String Key="主页icon4" Value="VIP" />
+        <String Key="主页icon5" Value="Gói tăng cường" />
+        <String Key="导航栏1" Value="Trận chiến" />
+        <String Key="导航栏2" Value="Cửa hàng" />
+        <String Key="导航栏3" Value="Thiết bị" />
+        <String Key="导航栏4" Value="Sự kiện" />
+        <String Key="导航栏5" Value="anh hùng" />
+        <String Key="导航栏6" Value="tài năng" />
+        <String Key="品质1" Value="Phổ biến" />
+        <String Key="品质2" Value="Hiếm" />
+        <String Key="品质3" Value="Sử thi" />
+        <String Key="品质4" Value="Huyền thoại" />
+        <String Key="关卡名101" Value="Đồng cỏ gió" />
+        <String Key="关卡名102" Value="Đồng cỏ vô tận" />
+        <String Key="关卡名201" Value="Mê cung cồn cát" />
+        <String Key="关卡名202" Value="Bão cát" />
+        <String Key="关卡名301" Value="Dung nham nóng chảy" />
+        <String Key="关卡名302" Value="Lửa địa ngục" />
+        <String Key="关卡名401" Value="Lối đi Băng hà" />
+        <String Key="关卡名402" Value="Đất vĩnh cửu lạnh" />
+        <String Key="关卡名501" Value="Đường xưa" />
+        <String Key="关卡名502" Value="Di tích thiêng liêng" />
+        <String Key="关卡名11" Value="Bài ca sương mai" />
+        <String Key="关卡名12" Value="Con đường hoàng hôn" />
+        <String Key="关卡名13" Value="Hẻm núi lạnh" />
+        <String Key="关卡名14" Value="Đỉnh Nộ" />
+        <String Key="关卡名15" Value="Mộng mị đứt gãy" />
+        <String Key="关卡名循环1" Value="Sóng lấp lánh" />
+        <String Key="关卡名循环2" Value="Cát bất tận" />
+        <String Key="关卡名循环3" Value="Nứt nẻ dung nham" />
+        <String Key="关卡名循环4" Value="Cung điện pha lê băng" />
+        <String Key="关卡名循环5" Value="Câu chuyện cổ" />
+        <String Key="关卡名循环6" Value="Đỉnh Nộ" />
+        <String Key="关卡名循环7" Value="Bụi hoang dã" />
+        <String Key="关卡名循环8" Value="Thì thầm của đổ nát" />
+        <String Key="关卡描述1" Value="Đã Xóa" />
+        <String Key="关卡描述2" Value="Kỷ lục cao nhất: Làn sóng {0}" />
+        <String Key="关卡描述3" Value="Người hoàn thành：{0}" />
+        <String Key="解锁说明1" Value="Đã mở khóa qua Lv{0}" />
+        <String Key="解锁说明2" Value="Bị khóa" />
+        <String Key="解锁说明3" Value="Mở khóa sau khi thanh toán" />
+        <String Key="解锁说明4" Value="Mở khóa sau 7 ngày đăng nhập" />
+        <String Key="解锁" Value="Mở khóa" />
+        <String Key="波次说明1" Value="Làn sóng {0}" />
+        <String Key="挑战关卡按钮1" Value="Trận chiến" />
+        <String Key="挑战关卡按钮2" Value="Cuộc đột kích" />
+        <String Key="剩余次数说明1" Value="Còn lại {0} lần thử hôm nay" />
+        <String Key="Toast1" Value="Thiết bị không đủ" />
+        <String Key="Toast2" Value="Sức chịu đựng không đủ" />
+        <String Key="Toast3" Value="Vàng không đủ" />
+        <String Key="Toast4" Value="Đá quý không đủ" />
+        <String Key="Toast5" Value="Mảnh không đủ" />
+        <String Key="Toast6" Value="Cầm vũ khí của bạn để chiến đấu" />
+        <String Key="Toast7" Value="Sắp có..." />
+        <String Key="Toast8" Value="Quảng cáo không tải, vui lòng thử lại sau" />
+        <String Key="Toast9" Value="Thiết bị đã đạt cấp độ tối đa, 
+không thể hợp nhất" />
+        <String Key="Toast10" Value="Vui lòng điền mô tả vấn đề" />
+        <String Key="Toast11" Value="gửi thành công" />
+        <String Key="Toast12" Value="Không đủ chìa khóa" />
+        <String Key="Toast13" Value="Kết nối với cửa hàng..." />
+        <String Key="Toast14" Value="Không đủ số lần thử thách còn lại" />
+        <String Key="Toast15" Value="Không đủ thuốc" />
+        <String Key="Toast16" Value="Tài năng đã đầy" />
+        <String Key="Toast17" Value="Ngôi sao anh hùng 3 đã được mở khóa" />
+        <String Key="Toast18" Value="Năng lượng kỹ năng không đủ" />
+        <String Key="Toast19" Value="{0} không đủ" />
+        <String Key="Toast20" Value="Hôm nay nó đã được rút ra, hãy quay lại vào ngày mai" />
+        <String Key="Toast21" Value="Mua hàng thành công!" />
+        <String Key="Toast22" Value="Mua hàng thất bại" />
+        <String Key="Toast23" Value="Khôi phục thành công" />
+        <String Key="Toast24" Value="Khôi phục không thành công, vui lòng thử lại sau" />
+        <String Key="Toast25" Value="Đã vượt quá số ngày mua sắm cho phép" />
+        <String Key="商店分区1" Value="Ưu đãi hàng ngày" />
+        <String Key="商店分区2" Value="Rương Mảnh" />
+        <String Key="商店分区3" Value="Vàng" />
+        <String Key="商店分区4" Value="VIP" />
+        <String Key="商店分区5" Value="Sức chịu đựng" />
+        <String Key="商店分区6" Value="gói quà tặng" />
+        <String Key="商店分区7" Value="lọ thuốc ma thuật" />
+        <String Key="商店礼包1" Value="Gói quà tặng giá trị" />
+        <String Key="商店礼包2" Value="Bao gồm mảnh hero Ngộ Không!" />
+        <String Key="商店礼包3" Value="Mua trong thời gian giới hạn:" />
+        <String Key="商品金币1" Value="Một nắm vàng" />
+        <String Key="商品金币2" Value="Một túi vàng" />
+        <String Key="商品金币3" Value="Một hộp vàng" />
+        <String Key="商品钻石1" Value="Kim cương" />
+        <String Key="商品钻石2" Value="một số kim cương" />
+        <String Key="商品钻石3" Value="một số viên kim cương" />
+        <String Key="商品钻石4" Value="rất nhiều kim cương" />
+        <String Key="商品钻石5" Value="Túi kim cương nhỏ" />
+        <String Key="商品钻石6" Value="Túi kim cương lớn" />
+        <String Key="商品钻石7" Value="hộp kim cương" />
+        <String Key="商品药瓶1" Value="Một lượng nhỏ thuốc ma thuật" />
+        <String Key="商品药瓶2" Value="một số lọ thuốc ma thuật" />
+        <String Key="商品药瓶3" Value="Rất nhiều lọ thuốc thần kỳ" />
+        <String Key="商品钥匙1" Value="chìa khóa bạc" />
+        <String Key="商品钥匙2" Value="chìa khóa vàng" />
+        <String Key="商品宝箱1" Value="Rương Phổ biến" />
+        <String Key="商品宝箱2" Value="Rương Tinh xảo" />
+        <String Key="商品宝箱3" Value="Đảm bảo {0}Thiết bị Phổ biến{1}" />
+        <String Key="商品宝箱4" Value="Đảm bảo {0}Thiết bị Hiếm{1}" />
+        <String Key="商品宝箱5" Value="Các mảnh thiết bị có thể có được:" />
+        <String Key="商品宝箱6" Value="Xác suất của mỗi mảnh: {0}" />
+        <String Key="商品宝箱7" Value="Mở rương tăng cấp độ, cải thiện phần thưởng tiếp theo" />
+        <String Key="商品宝箱8" Value="Nhấn để mở" />
+        <String Key="商品宝箱9" Value="Đảm bảo {0} Thiết bị Sử thi {1}" />
+        <String Key="商品宝箱10" Value="Thiết bị {0}huyền thoại {1} phải có" />
+        <String Key="宝箱弹窗1" Value="Phần thưởng Rương" />
+        <String Key="宝箱弹窗2" Value="Nâng cấp Cấp độ Rương" />
+        <String Key="商品去广告1" Value="Lợi ích VIP: Xóa tất cả quảng cáo" />
+        <String Key="商品去广告2" Value="Lợi ích VIP đã được kích hoạt" />
+        <String Key="体力弹窗1" Value="Trạm Sức chịu đựng" />
+        <String Key="商店说明1" Value="Bạn có thể yêu cầu hoàn tiền trong vòng 7 ngày kể từ ngày mua.
+(Tuy nhiên, không thể hoàn lại tiền cho các sản phẩm đã mở ngay hoặc khi một phần của sản phẩm được sử dụng.)" />
+        <String Key="商店按钮1" Value="Miễn phí" />
+        <String Key="商店按钮2" Value="Đã bán hết" />
+        <String Key="商店按钮3" Value="Khôi phục Mua hàng" />
+        <String Key="商店按钮4" Value="Làm mới" />
+        <String Key="商店按钮5" Value="Hôm nay còn {0} thời gian rảnh" />
+        <String Key="商店折扣1" Value="Khuyến mãi" />
+        <String Key="商店折扣2" Value="-0.9" />
+        <String Key="商店折扣3" Value="-0.7" />
+        <String Key="商店折扣4" Value="-0.5" />
+        <String Key="商店折扣5" Value="-0.3" />
+        <String Key="商店折扣6" Value="-0.1" />
+        <String Key="商店折扣7" Value="Giá trị" />
+        <String Key="vip结算礼包1" Value="Thành viên cao cấp" />
+        <String Key="vip结算礼包2" Value="Nhận ngay lập tức tài nguyên tích lũy sau khi mua:" />
+        <String Key="vip结算礼包3" Value="Tăng vĩnh viễn {0} xu, {1} món tráng miệng và {2} mảnh trang bị vào số tài nguyên nhận được ở cuối mỗi cấp chính sau khi mua!" />
+        <String Key="vip结算礼包4" Value="Quyền lợi có hiệu lực vĩnh viễn!" />
+        <String Key="月卡商店1" Value="Thẻ Tuần" />
+        <String Key="月卡商店2" Value="Nhận thưởng không có quảng cáo" />
+        <String Key="月卡商店3" Value="Thẻ Tháng" />
+        <String Key="月卡商店4" Value="Giới hạn thể lực +30" />
+        <String Key="月卡商店5" Value="Chưa có hiệu lực" />
+        <String Key="月卡商店6" Value="Nhận" />
+        <String Key="月卡商店7" Value="Đã nhận" />
+        <String Key="月卡商店8" Value="Nhận nó ngay bây giờ" />
+        <String Key="月卡商店9" Value="Phần thưởng hàng ngày" />
+        <String Key="月卡弹窗1" Value="Mua và tận hưởng lợi ích giá trị lớn" />
+        <String Key="成长基金1" Value="Có hiệu lực ngay khi mua, hoàn lại tiền nếu không áp dụng." />
+        <String Key="成长基金2" Value="Bạn có thể nâng cấp bằng cách vượt qua cấp độ chính." />
+        <String Key="成长基金3" Value="Trang {0}" />
+        <String Key="成长基金4" Value="Nhận nó với một cú nhấp chuột" />
+        <String Key="成长基金5" Value="Cấp độ tăng trưởng vượt qua {0}" />
+        <String Key="成长基金6" Value="Bạn có thể nhận được những phần thưởng sau ngay sau khi mua" />
+        <String Key="成长基金7" Value="Các phần thưởng sau có thể được mở khóa khi mua" />
+        <String Key="奖励界面1" Value="Chúc mừng" />
+        <String Key="奖励界面2" Value="Nhấn để tiếp tục" />
+        <String Key="装备养成按钮1" Value="Nâng cấp" />
+        <String Key="装备养成按钮2" Value="Tối đa" />
+        <String Key="装备名称0" Value="Ví" />
+        <String Key="装备名称1" Value="Dao găm" />
+        <String Key="装备名称2" Value="Kiếm" />
+        <String Key="装备名称3" Value="Găng tay" />
+        <String Key="装备名称4" Value="Chất độc" />
+        <String Key="装备名称5" Value="Phi tiêu" />
+        <String Key="装备名称6" Value="Thuốc" />
+        <String Key="装备名称7" Value="Cung" />
+        <String Key="装备名称8" Value="Bùa Băng" />
+        <String Key="装备名称9" Value="Thùng rượu" />
+        <String Key="装备名称10" Value="Đũa Laser" />
+        <String Key="装备名称11" Value="Gậy bóng chày" />
+        <String Key="装备名称12" Value="Rìu ném" />
+        <String Key="装备名称13" Value="Búa sấm" />
+        <String Key="装备名称14" Value="Nỏ thần" />
+        <String Key="装备名称15" Value="Bóng đá Mỹ" />
+        <String Key="装备名称16" Value="Côn nhị khúc" />
+        <String Key="装备名称17" Value="Khiên" />
+        <String Key="装备名称18" Value="Nhẫn" />
+        <String Key="装备名称19" Value="quả bóng nảy" />
+        <String Key="装备名称20" Value="súng đôi" />
+        <String Key="装备名称21" Value="Gậy vàng" />
+        <String Key="装备分区1" Value="Đã triển khai" />
+        <String Key="装备分区2" Value="Chưa triển khai" />
+        <String Key="装备属性1" Value="Mục tiêu" />
+        <String Key="装备属性2" Value="CD" />
+        <String Key="装备属性3" Value="Phạm vi" />
+        <String Key="装备属性4" Value="Tấn công" />
+        <String Key="装备属性5" Value="HP" />
+        <String Key="装备属性6" Value="Xếp chồng lá chắn" />
+        <String Key="装备属性7" Value="Chữa bệnh" />
+        <String Key="装备属性8" Value="Tiền" />
+        <String Key="装备属性9" Value="Bản thân" />
+        <String Key="装备属性10" Value="Kẻ thù gần nhất" />
+        <String Key="装备属性11" Value="Kẻ thù ngẫu nhiên" />
+        <String Key="装备1词条1" Value="CD Dao găm {0}-20%{1}" />
+        <String Key="装备1词条2" Value="25% Cơ hội ném thêm một Dao găm {0}+1{1}" />
+        <String Key="装备1词条3" Value="Sát thương Dao găm {0}+25%{1}" />
+        <String Key="装备1词条4" Value="CD Dao găm {0}-30%{1}" />
+        <String Key="装备1词条5" Value="50% Cơ hội ném thêm một Dao găm {0}+1{1}" />
+        <String Key="装备1词条6" Value="Sát thương Dao găm {0}+50%{1}" />
+        <String Key="装备1词条7" Value="Sát thương của dao bướm lên trùm{0}+100%{1}" />
+        <String Key="装备2词条1" Value="CD Kiếm {0}-25%{1}" />
+        <String Key="装备2词条2" Value="Triệu hồi 2 thanh kiếm quay trong 2 giây" />
+        <String Key="装备2词条3" Value="Kiếm Quay Tăng lên {0}4{1}" />
+        <String Key="装备2词条4" Value="Kiếm Quay Tăng lên {0}6{1}" />
+        <String Key="装备2词条5" Value="Phạm vi tấn công của thanh kiếm được triệu hồi {0}+50%{1}" />
+        <String Key="装备2词条6" Value="Sát thương của kiếm{0}+50%{1}" />
+        <String Key="装备2词条7" Value="Có xác suất {0}25%{1} để ném 2 thanh kiếm liên tiếp" />
+        <String Key="装备3词条1" Value="Tất cả Vũ khí bên cạnh Găng tay CD {0}-10%{1}" />
+        <String Key="装备3词条2" Value="CD Găng tay {0}-10%{1}" />
+        <String Key="装备3词条3" Value="Xếp chồng lá chắn Găng tay {0}+20%{1}" />
+        <String Key="装备3词条4" Value="Tất cả Vũ khí bên cạnh Găng tay CD {0}-20%{1}" />
+        <String Key="装备3词条5" Value="Mỗi lần xếp áo giáp có 10% cơ hội nhận được 1 đồng bạc" />
+        <String Key="装备3词条6" Value="Lượng tích lũy áo giáp găng tay tăng lên {0}40%{1}" />
+        <String Key="装备3词条7" Value="Mỗi lần bạn xếp áo giáp, xác suất nhận được 1 đồng bạc sẽ tăng lên {0}20%{1}" />
+        <String Key="装备4词条1" Value="Sát thương do chất độc {0}+100%{1}" />
+        <String Key="装备4词条2" Value="CD Độc {0}-20%{1}" />
+        <String Key="装备4词条3" Value="Sau khi đánh kẻ thù, một bể chất độc sẽ được tạo ra và tất cả kẻ thù đi ngang qua sẽ bị nhiễm độc" />
+        <String Key="装备4词条4" Value="Thời gian nhiễm độc tăng {0}+50%{1}" />
+        <String Key="装备4词条5" Value="{0}50%{1} xác suất ném thêm một chai thuốc độc nhỏ" />
+        <String Key="装备4词条6" Value="Sát thương liên tục của chất độc tăng lên {0}200%{1}" />
+        <String Key="装备4词条7" Value="{0}100%{1} xác suất ném thêm một chai thuốc độc nhỏ và tạo ra một bể chứa chất độc" />
+        <String Key="装备5词条1" Value="Phi tiêu sẽ nảy lại một lần sau khi đánh trúng, tối đa 1 lần nảy lại" />
+        <String Key="装备5词条2" Value="Sát thương Phi tiêu {0}+25%{1}" />
+        <String Key="装备5词条3" Value="Cơ hội tấn công chí mạng của Shuriken{0}+25%{1}" />
+        <String Key="装备5词条4" Value="Số lượng Phi tiêu được bắn {0}+1{1}" />
+        <String Key="装备5词条5" Value="Shuriken có xác suất {0}50%{1} phóng ra 2 lần" />
+        <String Key="装备5词条6" Value="Sát thương của Shuriken{0}+50%{1}" />
+        <String Key="装备5词条7" Value="Số lượng shuriken được bắn đã tăng lên {0}2{1}" />
+        <String Key="装备6词条1" Value="Hồi máu của thuốc {0}+20%{1}" />
+        <String Key="装备6词条2" Value="HP Thuốc {0}+20%{1}" />
+        <String Key="装备6词条3" Value="CD Thuốc {0}-25%{1}" />
+        <String Key="装备6词条4" Value="Hồi máu của thuốc {0}+40%{1}" />
+        <String Key="装备6词条5" Value="Hồi máu của thuốc {0}+50%{1}" />
+        <String Key="装备7词条1" Value="Cung bắn {0}3{1} mũi tên khi tấn công" />
+        <String Key="装备7词条2" Value="Mũi tên xuyên qua {0}+1{1} kẻ thù" />
+        <String Key="装备7词条3" Value="Khi cung đánh trúng, triệu hồi {0}1{1} lốc xoáy" />
+        <String Key="装备7词条4" Value="Tăng tốc độ và khoảng cách di chuyển của lốc xoáy" />
+        <String Key="装备7词条5" Value="Số lượng mũi tên phân tán đã tăng lên {0}5{1}" />
+        <String Key="装备7词条6" Value="Sát thương cung{0}+50%{1}" />
+        <String Key="装备7词条7" Value="Kích thước cơn lốc xoáy tăng lên {0}150%{1}" />
+        <String Key="装备8词条1" Value="CD Phép thuật Băng {0}-20%{1}" />
+        <String Key="装备8词条2" Value="Sát thương Hình nón Băng {0}+30%{1}" />
+        <String Key="装备8词条3" Value="Khi Hình nón Băng đánh trúng, triệu hồi 5 hình nón nhỏ, mỗi hình nón gây ra {0}20%{1} sát thương" />
+        <String Key="装备8词条4" Value="Đòn đánh Hình nón Băng kích hoạt Frost Nova, gây ra một vụ nổ" />
+        <String Key="装备8词条5" Value="Dụng cụ nhặt đá nhỏ có xác suất {0}50%{1} kích hoạt Frost Nova" />
+        <String Key="装备8词条6" Value="Sát thương hình nón băng{0}+50%{1}" />
+        <String Key="装备8词条7" Value="Phạm vi Frost Nova{0}+50%{1}" />
+        <String Key="装备9词条1" Value="Sát thương Thùng {0}+25%{1}" />
+        <String Key="装备9词条2" Value="CD Thùng {0}-20%{1}" />
+        <String Key="装备9词条3" Value="Kích thước Thùng {0}+100%{1}" />
+        <String Key="装备9词条4" Value="{0}25%{1} cơ hội triệu hồi thêm thùng khi tấn công" />
+        <String Key="装备9词条5" Value="Nòng súng phát nổ sau khi lăn được một khoảng nhất định, gây hư hại khu vực" />
+        <String Key="装备9词条6" Value="Sát thương Thùng {0}+50%{1}" />
+        <String Key="装备9词条7" Value="Thùng làm chậm kẻ địch đi {0}25%{1}" />
+        <String Key="装备10词条1" Value="Sát thương Laser {0}+25%{1}" />
+        <String Key="装备10词条2" Value="Tăng {0}+1{1} Laser Quét" />
+        <String Key="装备10词条3" Value="Tăng đáng kể độ rộng của laser" />
+        <String Key="装备10词条4" Value="Tăng số lượng laser lên {0}3{1} chùm" />
+        <String Key="装备10词条5" Value="{0}+1{1} quét laze bổ sung" />
+        <String Key="装备10词条6" Value="Thiệt hại do laze{0}+50%{1}" />
+        <String Key="装备10词条7" Value="Thời gian làm mát bằng laze {0}-50%{1}" />
+        <String Key="装备11词条1" Value="Bắn ngẫu nhiên {0}1{1} quả bóng chày vào kẻ thù sau khi tấn công." />
+        <String Key="装备11词条2" Value="Thiệt hại của gậy bóng chày {0}+25%{1}" />
+        <String Key="装备11词条3" Value="Bắn ngẫu nhiên {0}3{1} quả bóng chày vào kẻ thù sau khi tấn công." />
+        <String Key="装备11词条4" Value="25% cơ hội ném thêm {0}1{1} Gậy bóng chày." />
+        <String Key="装备11词条5" Value="Khối lượng bóng chày{0}+50%{1}" />
+        <String Key="装备11词条6" Value="Sát thương của gậy bóng chày{0}+50%{1}" />
+        <String Key="装备11词条7" Value="Cơ hội ném thêm gậy bóng chày tăng lên {0}50%{1}" />
+        <String Key="装备12词条1" Value="Rìu xuyên kẻ thù {0}+1{1}" />
+        <String Key="装备12词条2" Value="Thời gian hồi chiêu của rìu {0}-20%{1}" />
+        <String Key="装备12词条3" Value="Kích thước của trục {0}+50%{1}" />
+        <String Key="装备12词条4" Value="Làm kẻ thù chảy máu" />
+        <String Key="装备12词条5" Value="Có 25% cơ hội ném thêm một chiếc rìu ném {0}1{1}" />
+        <String Key="装备12词条6" Value="Sát thương ném rìu{0}+50%{1}" />
+        <String Key="装备12词条7" Value="Thời gian hồi chiêu của rìu ném giảm xuống {0}-40%{1}" />
+        <String Key="装备13词条1" Value="Triệu hồi một tia sét sau khi đánh trúng kẻ địch" />
+        <String Key="装备13词条2" Value="Sát thương của búa {0}+25%{1}" />
+        <String Key="装备13词条3" Value="Thời gian hồi chiêu của búa {0}-20%{1}" />
+        <String Key="装备13词条4" Value="Chiếc búa không bị kẻ thù chặn lại" />
+        <String Key="装备13词条5" Value="Chiếc búa có {0}20%{1} cơ hội đẩy lùi kẻ thù" />
+        <String Key="装备13词条6" Value="Sát thương của búa{0}+50%{1}" />
+        <String Key="装备13词条7" Value="Sét gây ra giông bão" />
+        <String Key="装备14词条1" Value="Nỏ bắn thêm {0}5{1} mũi tên nỏ nhỏ" />
+        <String Key="装备14词条2" Value="Thời gian hồi chiêu của nỏ{0}-20%{1}" />
+        <String Key="装备14词条3" Value="Sát thương của nỏ{0}+25%{1}" />
+        <String Key="装备14词条4" Value="Nỏ sẽ đẩy lùi kẻ thù ở khoảng cách ngắn" />
+        <String Key="装备14词条5" Value="Nỏ gây hiệu ứng chảy máu cho kẻ địch" />
+        <String Key="装备14词条6" Value="Sát thương của nỏ{0}+50%{1}" />
+        <String Key="装备14词条7" Value="Nỏ bắn thêm {0}8{1} mũi tên nỏ nhỏ" />
+        <String Key="装备15词条1" Value="Bóng bầu dục sẽ hạ gục kẻ thù ở khoảng cách ngắn" />
+        <String Key="装备15词条2" Value="Thời gian hồi chiêu của bóng đá {0}-20%{1}" />
+        <String Key="装备15词条3" Value="Kích thước bóng đá{0}+50%{1}" />
+        <String Key="装备15词条4" Value="Bóng đá có 20% cơ hội đánh bật đối phương ồ ạt" />
+        <String Key="装备15词条5" Value="{0}25%{1} cơ hội ném bóng bầu dục {0}+1{1}" />
+        <String Key="装备15词条6" Value="Thiệt hại trong bóng đá{0}+50%{1}" />
+        <String Key="装备15词条7" Value="Xác suất đánh bại bóng đá đã tăng lên {0}30%{1}" />
+        <String Key="装备16词条1" Value="Làm kẻ thù chảy máu." />
+        <String Key="装备16词条2" Value="Sát thương của Búa thiên thạch{0}+25%{1}" />
+        <String Key="装备16词条3" Value="Phạm vi tấn công của Meteor Hammer{0}+100%{1}" />
+        <String Key="装备16词条4" Value="Làm choáng kẻ thù." />
+        <String Key="装备16词条5" Value="Tung ra {0}25%{1} cơ hội gây thêm 1 đòn tấn công" />
+        <String Key="装备16词条6" Value="Thiệt hại do vụ nổ {0}+50%{1}" />
+        <String Key="装备16词条7" Value="Thời gian hồi chiêu của cú đập {0}-20%{1}" />
+        <String Key="装备17词条1" Value="Máu Khiên {0}+20%{1}" />
+        <String Key="装备17词条2" Value="Thời gian hồi chiêu của lá chắn {0}-20%{1}" />
+        <String Key="装备17词条3" Value="Ném lá chắn và làm choáng kẻ thù" />
+        <String Key="装备17词条4" Value="20% cơ hội nhận sát thương từ khoảng cách {0}-50%{1}" />
+        <String Key="装备17词条5" Value="Máu Khiên {0}+30%{1}" />
+        <String Key="装备18词条1" Value="Máu của Nhẫn {0}+20%{1}" />
+        <String Key="装备18词条2" Value="Sát thương của vũ khí gần võ đài{0}+20%{1}" />
+        <String Key="装备18词条3" Value="Đối với mỗi chiếc nhẫn được giữ trong ba lô, tỷ lệ né tránh là {0}+1%{1}" />
+        <String Key="装备18词条4" Value="Đối với mỗi chiếc nhẫn được giữ trong ba lô, tỷ lệ trúng đòn chí mạng là {0}+1%{1}" />
+        <String Key="装备19词条1" Value="Số lần nảy của bóng đàn hồi {0}+3{1}" />
+        <String Key="装备19词条2" Value="Thiệt hại mỗi lần nảy của bóng đàn hồi {0}+30%{1}" />
+        <String Key="装备19词条3" Value="Sau khi trúng kẻ thù lần đầu tiên, bóng đàn hồi có 50% xác suất phân chia thành 2 bóng" />
+        <String Key="装备19词条4" Value="Tỷ lệ chí mạng của bóng đàn hồi {0}+30%{1}" />
+        <String Key="装备19词条5" Value="Số lần nảy của quả bóng nảy đã tăng lên {0}5{1}" />
+        <String Key="装备19词条6" Value="Sát thương của quả bóng nảy{0}+50%{1}" />
+        <String Key="装备19词条7" Value="Bóng nảy có {0}20%{1} cơ hội đẩy lùi kẻ thù" />
+        <String Key="装备20词条1" Value="Khi 2 viên đạn trúng cùng một kẻ thù, viên đạn thứ 2 chắc chắn sẽ chí mạng" />
+        <String Key="装备20词条2" Value="Thiệt hại viên đạn {0}+50%{1}" />
+        <String Key="装备20词条3" Value="Viên đạn gây thiệt hại chảy máu khi trúng kẻ thù" />
+        <String Key="装备20词条4" Value="Viên đạn nổ khi trúng kẻ thù, gây thiệt hại diện rộng" />
+        <String Key="装备20词条5" Value="Có {0}30%{1} cơ hội bắn thêm một viên đạn" />
+        <String Key="装备20词条6" Value="Thiệt hại viên đạn {0}+50%{1}" />
+        <String Key="装备20词条7" Value="Thời gian hồi chiêu của súng kép{0}-20%{1}" />
+        <String Key="装备21词条1" Value="Chiều dài của gậy vàng {0}+25%{1}" />
+        <String Key="装备21词条2" Value="Gọi một gậy vàng khổng lồ để đập vào kẻ thù" />
+        <String Key="装备21词条3" Value="Có 20% xác suất choáng trong 0,5 giây khi bị gậy vàng đánh trúng" />
+        <String Key="装备21词条4" Value="Thiệt hại của gậy vàng {0}+50%{1}" />
+        <String Key="装备21词条5" Value="Chiều dài của Cây gậy vàng được tăng lên {0}50%{1}" />
+        <String Key="装备21词条6" Value="Sát thương của Cây gậy vàng{0}+70%{1}" />
+        <String Key="装备21词条7" Value="Làm mát Cây gậy vàng {0}-35%{1}" />
+        <String Key="通用词条装备101" Value="CD của tất cả vũ khí -5%" />
+        <String Key="通用词条装备102" Value="CD của tất cả vũ khí -10%" />
+        <String Key="通用词条装备103" Value="CD của tất cả vũ khí -20%" />
+        <String Key="通用词条装备201" Value="CD của tất cả áo giáp -5%" />
+        <String Key="通用词条装备202" Value="CD của tất cả áo giáp -10%" />
+        <String Key="通用词条装备203" Value="CD của tất cả áo giáp -20%" />
+        <String Key="通用词条装备301" Value="Sát thương tất cả vũ khí +5%" />
+        <String Key="通用词条装备302" Value="Sát thương tất cả vũ khí +10%" />
+        <String Key="通用词条装备303" Value="Sát thương tất cả vũ khí +20%" />
+        <String Key="通用词条装备401" Value="HP của tất cả áo giáp +5%" />
+        <String Key="通用词条装备402" Value="HP của tất cả áo giáp +10%" />
+        <String Key="通用词条装备403" Value="HP của tất cả áo giáp +20%" />
+        <String Key="通用词条装备503" Value="Ngay lập tức phục hồi 50% HP" />
+        <String Key="通用词条怪物101" Value="Kinh nghiệm từ việc giết quái vật +10%" />
+        <String Key="通用词条怪物102" Value="Kinh nghiệm từ việc giết quái vật +25%" />
+        <String Key="通用词条怪物103" Value="Kinh nghiệm từ việc giết quái vật +50%" />
+        <String Key="通用词条怪物201" Value="Tốc độ di chuyển của tất cả quái vật -5%" />
+        <String Key="通用词条怪物202" Value="Tốc độ di chuyển của tất cả quái vật -10%" />
+        <String Key="通用词条怪物203" Value="Tốc độ di chuyển của tất cả quái vật -20%" />
+        <String Key="通用词条怪物301" Value="Sát thương của tất cả quái vật -5%" />
+        <String Key="通用词条怪物302" Value="Sát thương của tất cả quái vật -10%" />
+        <String Key="通用词条怪物303" Value="Sát thương của tất cả quái vật -20%" />
+        <String Key="通用词条经济101" Value="Nhận ngay 20 đồng xu bạc" />
+        <String Key="通用词条经济102" Value="Nhận ngay 30 đồng xu bạc" />
+        <String Key="通用词条经济103" Value="Nhận ngay 60 đồng xu bạc" />
+        <String Key="通用词条经济201" Value="Xu bạc kiếm được mỗi đợt +20%" />
+        <String Key="通用词条经济202" Value="Xu bạc kiếm được mỗi đợt +30%" />
+        <String Key="通用词条经济203" Value="Xu bạc kiếm được mỗi đợt +50%" />
+        <String Key="通用词条商店103" Value="Tăng 50% cơ hội làm mới Thiết bị cấp 2" />
+        <String Key="通用词条商店203" Value="Mỗi lần làm mới sẽ thêm một vật phẩm bổ sung" />
+        <String Key="通用词条商店303" Value="Lần làm mới đầu tiên miễn phí mỗi lần quay lại cửa hàng" />
+        <String Key="通用词条boss101" Value="Sát thương lên trùm +10%" />
+        <String Key="通用词条boss102" Value="Sát thương lên trùm +25%" />
+        <String Key="通用词条boss103" Value="Sát thương lên trùm +40%" />
+        <String Key="通用词条经济301" Value="Kiếm 5% lãi sau trận (tối đa 10)" />
+        <String Key="通用词条经济302" Value="Kiếm 10% lãi sau trận (tối đa 10)" />
+        <String Key="通用词条经济303" Value="Kiếm 20% lãi sau trận (tối đa 10)" />
+        <String Key="通用词条一次性1" Value="Sau vòng chiến này, 1 trang bị sẽ được nâng cấp ngẫu nhiên" />
+        <String Key="通用词条一次性2" Value="Sau vòng chiến này, 2 trang bị sẽ được nâng cấp ngẫu nhiên" />
+        <String Key="暂停界面1" Value="Tạm dừng" />
+        <String Key="暂停界面2" Value="Tính năng đã được kích hoạt" />
+        <String Key="退出弹窗1" Value="Chú ý" />
+        <String Key="退出弹窗2" Value="Rời đi bây giờ sẽ không nhận được bất kỳ phần thưởng nào cũng như không hoàn trả sức chịu đựng. Tiếp tục?" />
+        <String Key="退出弹窗3" Value="Xác nhận" />
+        <String Key="战斗界面1" Value="Làn sóng {0}" />
+        <String Key="战斗界面2" Value="Làm mới" />
+        <String Key="战斗界面3" Value="Thiết bị Lv.2 +1" />
+        <String Key="战斗界面4" Value="Trận chiến" />
+        <String Key="战斗界面5" Value="Thống kê Sát thương" />
+        <String Key="补充银币弹窗1" Value="Xu bạc không đủ" />
+        <String Key="补充银币弹窗2" Value="Xem video để kiếm {0} xu bạc?" />
+        <String Key="选择词条界面1" Value="Tính năng" />
+        <String Key="选择词条界面2" Value="Còn lại {0}/{1} lần sử dụng" />
+        <String Key="选择词条界面3" Value="Làm mới" />
+        <String Key="选择词条界面4" Value="Lấy tất cả" />
+        <String Key="复活界面1" Value="Hồi sinh?" />
+        <String Key="复活界面2" Value="Bạn sẽ nhận được 30 đồng bạc và mở khóa cửa hàng trong trò chơi, luôn làm mới với trang bị cấp 3." />
+        <String Key="复活界面3" Value="Hồi sinh" />
+        <String Key="复活界面4" Value="Không, cảm ơn" />
+        <String Key="结算界面1" Value="Chiến thắng" />
+        <String Key="结算界面2" Value="Thất bại" />
+        <String Key="结算界面3" Value="Kỷ lục cao nhất: Làn sóng {0}" />
+        <String Key="结算界面4" Value="Kỷ lục mới!" />
+        <String Key="结算界面5" Value="Phần thưởng" />
+        <String Key="结算界面6" Value="Gấp đôi" />
+        <String Key="结算界面7" Value="Xác nhận" />
+        <String Key="结算界面8" Value="Còn {0} lần hôm nay" />
+        <String Key="结算界面9" Value="Kỷ lục hiện tại: Sóng {0}" />
+        <String Key="设置界面1" Value="Cài đặt" />
+        <String Key="设置界面2" Value="Âm thanh" />
+        <String Key="设置界面3" Value="Nhạc" />
+        <String Key="设置界面4" Value="Rung" />
+        <String Key="设置界面6" Value="Chính sách bảo mật" />
+        <String Key="设置界面7" Value="chính sách người dùng" />
+        <String Key="设置界面9" Value="Liên kết tài khoản" />
+        <String Key="新装备解锁1" Value="Thiết bị mới" />
+        <String Key="新装备解锁2" Value="Khe triển khai mới" />
+        <String Key="引导1" Value="Quái vật đang đến, nhanh chóng thu dọn thiết bị của bạn để chiến đấu!" />
+        <String Key="引导2" Value="Đặt thiết bị vào ba lô của bạn" />
+        <String Key="引导3" Value="Ba lô không vừa, nhấp vào dao găm để xoay" />
+        <String Key="引导4" Value="Làm mới cửa hàng để nhận thêm thiết bị" />
+        <String Key="引导5" Value="Hai thiết bị giống nhau có thể được kết hợp để nâng cấp" />
+        <String Key="引导6" Value="Túi tiền tạo ra thêm xu bạc sau khi đánh bại mỗi làn sóng" />
+        <String Key="引导7" Value="Mọi thứ đã sẵn sàng, hãy đánh bại những con quái vật đó!" />
+        <String Key="引导8" Value="Chọn một tính năng để nâng cao khả năng của bạn!" />
+        <String Key="引导9" Value="Sau khi đánh bại một làn sóng quái vật, hãy nghỉ ngơi một chút!" />
+        <String Key="引导10" Value="Thêm khe mới vào ba lô của bạn để mở rộng không gian" />
+        <String Key="引导11" Value="Sử dụng xu bạc để làm mới cửa hàng và nhận thêm thiết bị" />
+        <String Key="引导12" Value="Sử dụng đầy đủ không gian ba lô của bạn, tối đa hóa tiềm năng của nó!" />
+        <String Key="引导13" Value="Wow! Bạn đã có một số mảnh thiết bị, bây giờ bạn có thể nâng cấp thiết bị của mình!" />
+        <String Key="引导14" Value="Nâng cấp thiết bị của bạn có thể cải thiện các khả năng cơ bản và mở khóa các tính năng mới" />
+        <String Key="引导15" Value="Nhiều thiết bị mạnh mẽ hơn đang chờ bạn mở khóa" />
+        <String Key="引导16" Value="Bạn đã trở nên mạnh mẽ hơn! Hãy tiếp tục chiến đấu với những con quái vật đó!" />
+        <String Key="引导17" Value="Chúc mừng! Bạn đã mở khóa thiết bị mới, triển khai ngay bây giờ!" />
+        <String Key="引导18" Value="Kéo trang bị vào đó và thay thế bằng trang bị từ trận chiến." />
+        <String Key="引导19" Value="Bấm để điều chỉnh tốc độ chiến đấu của cấp độ hiện tại" />
+        <String Key="断网" Value="Để đảm bảo trải nghiệm chơi game tốt hơn, bạn cần chơi game trực tuyến." />
+        <String Key="好评1" Value="Đánh giá năm sao" />
+        <String Key="好评2" Value="Nếu bạn thích trò chơi của chúng tôi, xin hãy cho chúng tôi một đánh giá năm sao. Điều này rất quan trọng đối với chúng tôi." />
+        <String Key="反馈1" Value="Gửi" />
+        <String Key="反馈2" Value="Phản hồi" />
+        <String Key="反馈3" Value="Loại phản hồi" />
+        <String Key="反馈4" Value="Cải thiện" />
+        <String Key="反馈5" Value="Khiếu nại" />
+        <String Key="反馈6" Value="Khác" />
+        <String Key="反馈7" Value="BUG" />
+        <String Key="反馈8" Value="Nhấn để điền chi tiết." />
+        <String Key="反馈9" Value="Liên hệ (tùy chọn)" />
+        <String Key="反馈10" Value="Facebook" />
+        <String Key="反馈11" Value="Email" />
+        <String Key="反馈12" Value="Phone" />
+        <String Key="反馈13" Value="Vui lòng điền thông tin." />
+        <String Key="断线重连标题" Value="Lưu ý" />
+        <String Key="断线重连内容" Value="Tiếp tục trận chiến trước?" />
+        <String Key="加速弹窗1" Value="Tăng tốc trận chiến" />
+        <String Key="加速弹窗2" Value="Bạn có muốn tăng tốc độ hiện tại?" />
+        <String Key="银币使用弹窗1" Value="gợi ý" />
+        <String Key="银币使用弹窗2" Value="Bạn vẫn còn nhiều đồng bạc có thể làm mới." />
+        <String Key="银币使用弹窗3" Value="Bạn chỉ có thể chuẩn bị chiến đấu một lần ở chế độ một cửa và không thể quay lại sau khi vào trận. Vẫn còn tiền bạc Bạn có chắc chắn muốn tham gia trận chiến không?" />
+        <String Key="银币使用弹窗4" Value="Tiếp tục chuẩn bị chiến tranh" />
+        <String Key="银币使用弹窗5" Value="chiến đấu trực tiếp" />
+        <String Key="确认框勾选1" Value="Hôm nay không còn lời nhắc nào nữa" />
+        <String Key="副本标题1" Value="Diamond Realm" />
+        <String Key="副本标题2" Value="Gold Realm" />
+        <String Key="副本标题3" Value="Gear Realm" />
+        <String Key="副本标题4" Value="Chiến đấu đến cùng" />
+        <String Key="剩余时间说明1" Value="Thời gian còn lại:" />
+        <String Key="副本玩法说明1" Value="Chiến đấu đến cùng" />
+        <String Key="副本玩法说明2" Value="kẻ thù sẽ tiếp tục đến! Hãy sẵn sàng chiến đấu và chờ đợi cho đến khi thời gian đếm ngược kết thúc!" />
+        <String Key="副本玩法说明3" Value="Phần thưởng hào phóng" />
+        <String Key="副本玩法说明4" Value="Điểm tích lũy càng cao thì phần thưởng càng phong phú!" />
+        <String Key="副本玩法说明5" Value="Trận chiến ưa thích" />
+        <String Key="副本玩法说明6" Value="Hai buff và debuff ngẫu nhiên khác nhau mỗi tuần!" />
+        <String Key="副本玩法说明7" Value="Danh sách vinh quang" />
+        <String Key="副本玩法说明8" Value="Danh sách được cập nhật hàng tuần, không ngừng thử thách bản thân và cạnh tranh vị trí dẫn đầu!" />
+        <String Key="副本玩法说明9" Value="Hướng Dẫn" />
+        <String Key="副本积分奖励弹窗1" Value="Điểm thưởng" />
+        <String Key="副本积分奖励弹窗2" Value="Chưa đạt" />
+        <String Key="一站到底排行榜1" Value="Xếp hạng" />
+        <String Key="一站到底排行榜2" Value="RumbleBag" />
+        <String Key="一站到底排行榜3" Value="Chưa xếp hạng" />
+        <String Key="副本按钮1" Value="Nhập" />
+        <String Key="副本记录1" Value="Kỷ lục tốt nhất" />
+        <String Key="副本退出1" Value="Nếu rời đi ngay bây giờ thì thử thách sẽ thất bại. Tiếp tục chứ?" />
+        <String Key="副本退出2" Value="Thử thách vẫn chưa kết thúc,bạn có chắc muốn rời đi không?" />
+        <String Key="游戏属性1" Value="HP" />
+        <String Key="游戏属性2" Value="Tỷ lệ phục hồi HP (%)" />
+        <String Key="游戏属性3" Value="Phục hồi HP" />
+        <String Key="游戏属性4" Value="Tăng HP" />
+        <String Key="游戏属性5" Value="Khiên" />
+        <String Key="游戏属性6" Value="Tỷ lệ phục hồi khiên (%)" />
+        <String Key="游戏属性7" Value="Phục hồi khiên" />
+        <String Key="游戏属性8" Value="Tăng khiên" />
+        <String Key="游戏属性9" Value="Tấn công" />
+        <String Key="游戏属性10" Value="Tăng tấn công" />
+        <String Key="游戏属性11" Value="Tỷ lệ chí mạng" />
+        <String Key="游戏属性12" Value="Sát thương chí mạng" />
+        <String Key="游戏属性13" Value="Tỷ lệ né" />
+        <String Key="游戏属性14" Value="Thời gian choáng" />
+        <String Key="游戏属性15" Value="Tỷ lệ độc" />
+        <String Key="游戏属性16" Value="Thời gian độc" />
+        <String Key="游戏属性17" Value="Tỷ lệ chảy máu" />
+        <String Key="游戏属性18" Value="Thời gian chảy máu" />
+        <String Key="游戏属性19" Value="Tốc độ di chuyển" />
+        <String Key="游戏属性20" Value="Số lần nảy" />
+        <String Key="游戏属性21" Value="Số lần xuyên thủng" />
+        <String Key="游戏属性22" Value="Thời gian hồi chiêu" />
+        <String Key="游戏属性23" Value="Loại mục tiêu" />
+        <String Key="游戏属性24" Value="Khoảng cách mục tiêu" />
+        <String Key="游戏属性25" Value="Lợi ích" />
+        <String Key="游戏强化类型-1" Value="Không có gì" />
+        <String Key="游戏强化类型1" Value="Mở khóa kỹ năng chủ động" />
+        <String Key="游戏强化类型2" Value="Cấp độ {0} {1} ​​sẽ được làm mới khi bắt đầu." />
+        <String Key="游戏强化类型3" Value="Có {0}% xác suất làm mới thêm một trang bị" />
+        <String Key="游戏强化类型4" Value="Mỗi lần làm mới có {0}% xác suất nâng cấp một trang bị" />
+        <String Key="游戏强化类型5" Value="Chỗ chứa ba lô ban đầu tăng thêm {0}" />
+        <String Key="游戏强化类型6" Value="Nhận thêm {0} đồng bạc ban đầu" />
+        <String Key="游戏强化类型7" Value="Mỗi đợt tăng thêm {0} đồng bạc" />
+        <String Key="游戏强化类型8" Value="Bắt đầu với lá chắn đầy đủ" />
+        <String Key="游戏强化类型9" Value="Bắt đầu tràn đầy năng lượng kỹ năng" />
+        <String Key="游戏强化类型101" Value="Tất cả sát thương của anh hùng tăng {0}%, sinh mạng tăng {1}" />
+        <String Key="游戏强化类型102" Value="Sinh mạng cơ bản của anh hùng tăng {0}" />
+        <String Key="游戏强化类型103" Value="Sát thương đối với BOSS tăng {0}%" />
+        <String Key="游戏强化类型104" Value="Tất cả sát thương của anh hùng tăng {0}%" />
+        <String Key="游戏强化类型105" Value="Anh hùng phục hồi {0} sinh mạng mỗi giây" />
+        <String Key="游戏强化类型106" Value="Tất cả sát thương do anh hùng gây ra đều giảm {0}%" />
+        <String Key="游戏强化类型201" Value="Tăng cường kỹ năng chủ động {0}%" />
+        <String Key="游戏强化类型202" Value="Tốc độ sạc kỹ năng chủ động tăng {0}%" />
+        <String Key="游戏强化类型301" Value="Thuộc tính {0} của {1} tăng {2}%" />
+        <String Key="游戏强化类型302" Value="Thuộc tính {0} của tất cả trang bị tăng {1}%" />
+        <String Key="游戏强化类型303" Value="Thuộc tính {0} của tất cả áo giáp đều tăng thêm {1}%" />
+        <String Key="游戏强化类型304" Value="Thuộc tính {0} của tất cả vũ khí tăng {1}%" />
+        <String Key="游戏强化类型301_1" Value="Thuộc tính {1} của {0} bị giảm đi {2}%" />
+        <String Key="游戏强化类型302_1" Value="Thuộc tính {0} của tất cả trang bị bị giảm {1}%" />
+        <String Key="游戏强化类型303_1" Value="Tất cả thuộc tính {0} của áo giáp đều giảm {1}%" />
+        <String Key="游戏强化类型304_1" Value="Thuộc tính {0} của tất cả vũ khí giảm {1}%" />
+        <String Key="游戏强化类型401" Value="Thuộc tính {0} của kẻ thù giảm {1}%" />
+        <String Key="游戏强化类型402" Value="Kinh nghiệm giết kẻ thù tăng {0}%" />
+        <String Key="游戏强化类型403" Value="Boss miễn nhiễm với mọi hiệu ứng tiêu cực" />
+        <String Key="游戏强化类型404" Value="Thuộc tính của quái vật {0} tăng thêm {1}%" />
+        <String Key="游戏强化类型405" Value="Quái vật thông thường miễn nhiễm với mọi hiệu ứng tiêu cực" />
+        <String Key="HeroName1" Value="yêu tinh" />
+        <String Key="HeroName2" Value="học trò ảo thuật" />
+        <String Key="HeroName3" Value="Cô gái vui tính" />
+        <String Key="HeroName4" Value="Ngộ Không" />
+        <String Key="Hero2ActiveSkillDesc" Value="Triệu hồi một quả bóng nảy khổng lồ để đánh bay quái vật trên đường đi" />
+        <String Key="Hero3ActiveSkillDesc" Value="Phục hồi ngay lập tức một lượng lớn máu" />
+        <String Key="Hero4ActiveSkillDesc" Value="Triệu hồi một cây Đại Nhân Bổng để gây sát thương cho kẻ địch gần đó" />
+        <String Key="Hero3PassiveSkillDesc" Value="Liên tục phục hồi một lượng nhỏ máu" />
+        <String Key="Hero4PassiveSkillDesc" Value="Nhận 2 đồng bạc cho mỗi lần tổng hợp" />
+        <String Key="NoActiveSkill" Value="Không có kỹ năng chủ động" />
+        <String Key="NoPassiveSkill" Value="Không có kỹ năng thụ động" />
+        <String Key="英雄界面1" Value="Kỹ năng chủ động" />
+        <String Key="英雄界面2" Value="Kỹ năng thụ động" />
+        <String Key="英雄界面3" Value="Tăng cấp" />
+        <String Key="英雄界面4" Value="Tăng sao" />
+        <String Key="英雄界面5" Value="Tăng cấp" />
+        <String Key="英雄界面6" Value="Nâng cấp nhanh" />
+        <String Key="英雄界面7" Value="Cấp tối đa" />
+        <String Key="英雄界面8" Value="Thưởng sao" />
+        <String Key="英雄界面9" Value="Tăng sao" />
+        <String Key="英雄界面10" Value="Sao tối đa" />
+        <String Key="英雄界面11" Value="Đang sử dụng..." />
+        <String Key="天赋界面1" Value="Danh sách Tài năng" />
+        <String Key="天赋界面2" Value="Sản xuất" />
+        <String Key="天赋界面3" Value="Tất cả tài năng sẽ có hiệu lực sau khi được sở hữu" />
+        <String Key="天赋界面4" Value="Chi tiết Tài năng" />
+        <String Key="天赋描述1" Value="Xác suất chí mạng của tất cả vũ khí +{0}" />
+        <String Key="天赋描述2" Value="Tăng sát thương chí mạng của tất cả vũ khí +{0}" />
+        <String Key="天赋描述3" Value="Sát thương của tất cả vũ khí +{0}" />
+        <String Key="天赋描述4" Value="Giới hạn sức khỏe tối đa của anh hùng +{0}" />
+        <String Key="天赋描述5" Value="Khả năng phục hồi sức khỏe mỗi giây của anh hùng +{0}" />
+        <String Key="天赋描述6" Value="Thời gian hồi chiêu của tất cả vũ khí -{0}" />
+        <String Key="天赋描述7" Value="Thời gian hồi chiêu của tất cả giáp -{0}" />
+        <String Key="天赋描述8" Value="Tốc độ bay của vũ khí +{0}" />
+        <String Key="天赋描述9" Value="Sát thương của kẻ thù -{0}" />
+        <String Key="天赋描述10" Value="Tốc độ di chuyển của kẻ thù -{0}" />
+        <String Key="天赋描述11" Value="Kinh nghiệm thu được từ việc đánh bại kẻ thù +{0}" />
+        <String Key="天赋描述12" Value="Mỗi lần làm mới có {0}% cơ hội để làm mới thêm một thiết bị" />
+        <String Key="天赋描述13" Value="Mỗi lần làm mới có {0}% cơ hội để nâng cấp một thiết bị" />
+        <String Key="天赋描述14" Value="Số slot trong balo ban đầu +{0}" />
+        <String Key="天赋描述15" Value="Số tiền bạc ban đầu +{0}" />
+        <String Key="天赋描述16" Value="Số tiền bạc nhận được vào cuối mỗi đợt +{0}" />
+        <String Key="CurrencyTips7" Value="Có được thông qua các cấp độ, v.v." />
+        <String Key="CurrencyName1" Value="Sức chịu đựng" />
+        <String Key="CurrencyName2" Value="Vàng" />
+        <String Key="CurrencyName3" Value="Kim cương" />
+        <String Key="CurrencyName4" Value="đồng bạc" />
+        <String Key="CurrencyName5" Value="chìa khóa vàng" />
+        <String Key="CurrencyName6" Value="chìa khóa bạc" />
+        <String Key="CurrencyName7" Value="bánh ngọt" />
+        <String Key="CurrencyName8" Value="lọ thuốc ma thuật" />
+        <String Key="CurrencyName1001" Value="Mảnh vỡ trang bị" />
+        <String Key="CurrencyName2001" Value="Mảnh vỡ anh hùng" />
+        <String Key="设置界面8" Value="Hiển thị thiệt hại" />
+        <String Key="任务界面1" Value="Nhiệm vụ" />
+        <String Key="任务界面2" Value="Có thể nhận" />
+        <String Key="任务界面3" Value="Đã nhận" />
+        <String Key="任务界面4" Value="Đang tiến hành" />
+        <String Key="任务界面5" Value="công việc hàng ngày" />
+        <String Key="任务界面6" Value="Thành tích" />
+        <String Key="TaskDesc101" Value="Đạt cấp độ {0}" />
+        <String Key="TaskDesc102" Value="Nhận bất kỳ đợt rương kho báu nào {0} lần" />
+        <String Key="TaskDesc103" Value="Đã hoàn thành tổng cộng {0} lần quét" />
+        <String Key="TaskDesc104" Value="Thanh toán tích lũy {0} lần" />
+        <String Key="TaskDesc105" Value="Đã tham gia sao chép {0} lần" />
+        <String Key="TaskDesc201" Value="Cường hóa bất kỳ trang bị nào {0} lần" />
+        <String Key="TaskDesc202" Value="Cường hóa mọi trang bị lên cấp {0}" />
+        <String Key="TaskDesc301" Value="Đã nhận được tổng cộng {0} chìa khóa vàng" />
+        <String Key="TaskDesc302" Value="Tổng cộng {0} rương kho báu tinh xảo đã được mở" />
+        <String Key="TaskDesc303" Value="Tiêu thụ {0} tiền vàng" />
+        <String Key="TaskDesc304" Value="Tiêu thụ {0} kim cương" />
+        <String Key="TaskDesc305" Value="Tiêu hao {0} thể lực" />
+        <String Key="TaskDesc401" Value="Tăng sức mạnh cho anh hùng {0} lần" />
+        <String Key="TaskDesc402" Value="Bất kỳ anh hùng nào cũng đạt cấp {0}" />
+        <String Key="TaskDesc403" Value="Cấp sao của bất kỳ anh hùng nào đều đạt đến {0} sao" />
+        <String Key="TaskDesc501" Value="Tổng cộng {0} tài năng đã được rút ra" />
+        <String Key="TaskDesc502" Value="Bất kỳ tài năng nào cũng đạt đến cấp độ {0}" />
+        <String Key="TaskDesc601" Value="Trang bị tổng hợp {0} lần trong trận chiến" />
+        <String Key="TaskDesc602" Value="Tiêu thụ {0} đồng bạc" />
+        <String Key="TaskDesc603" Value="Tiêu diệt {0} quái vật" />
+        <String Key="TaskDesc604" Value="Giành chiến thắng với trang bị {0}" />
+        <String Key="TaskDesc605" Value="Tổng cộng các kỹ năng hoạt động đã được phát hành {0} lần" />
+        <String Key="TaskDesc606" Value="Tổng mức tiêu thụ {0} đồng bạc" />
+        <String Key="TaskDesc607" Value="Đã giết tổng cộng {0} quái vật" />
+        <String Key="TaskDesc608" Value="Làm mới cửa hàng tích lũy {0} lần" />
+        <String Key="TaskDesc609" Value="Tổng hợp câu đố tích lũy {0} lần" />
+        <String Key="TaskDesc701" Value="Tổng cộng {0} phút trực tuyến hôm nay" />
+        <String Key="TaskDesc702" Value="Hoàn thành {0} nhiệm vụ hàng ngày" />
+        <String Key="TaskDesc703" Value="Kích hoạt thẻ VIP" />
+        <String Key="TaskDesc704" Value="Đã tích lũy {0} lượt mua hàng trong cửa hàng hàng ngày" />
+        <String Key="签到标题" Value="Đăng nhập" />
+        <String Key="已签到天数" Value="Đã đăng nhập {0} ngày" />
+        <String Key="签到天数标题" Value="Ngày{0}" />
+        <String Key="签到操作描述" Value="Đăng nhập để nhận thưởng." />
+        <String Key="签到状态描述" Value="Đã đăng nhập hôm nay, quay lại ngày mai." />
+        <String Key="签到宝箱天数" Value="{0} ngày" />
+        <String Key="抽奖标题" Value="Vận mệnh hàng ngày" />
+        <String Key="抽奖按钮" Value="Rút thăm" />
+        <String Key="抽奖关闭描述" Value="Nhấn vào chỗ trống để đóng" />
+        <String Key="挂机领奖标题" Value="Phần thưởng phiêu lưu" />
+        <String Key="挂机时长描述" Value="Đã phiêu lưu {0} phút" />
+        <String Key="挂机奖励描述" Value="Càng qua nhiều cấp độ chính, phần thưởng càng lớn." />
+        <String Key="挂机领取等待描述" Value="Có thể nhận sau {0}" />
+        <String Key="挂机奖励已满描述" Value="Hộp phần thưởng đã đầy!" />
+        <String Key="副本扫荡描述" Value="*Mở quét sau khi hoàn thành thử thách hàng ngày.
+*Mở quét vĩnh viễn sau khi hoàn thành cấp độ chính {0}." />
+        <String Key="联网失败标题" Value="Liên kết mạng không thành công" />
+        <String Key="联网失败内容" Value="Vui lòng kiểm tra mạng và thử lại" />
+        <String Key="获取存档标题" Value="Lưu trữ" />
+        <String Key="获取存档内容" Value="Chúng tôi nhận thấy rằng bạn hiện có một kho lưu trữ lịch sử. Bạn có muốn đồng bộ hóa nó không?" />
+        <String Key="支付提示弹窗" Value="Thanh toán đang được xử lý, vui lòng không rời khỏi giao diện hiện tại..." />
+        <String Key="休憩标题" Value="Nghỉ ngơi" />
+        <String Key="休憩已累计" Value="Đã lưu:" />
+        <String Key="休憩制作中" Value="Đang nghỉ ngơi..." />
+    </Dictionary>
+</Dictionaries>

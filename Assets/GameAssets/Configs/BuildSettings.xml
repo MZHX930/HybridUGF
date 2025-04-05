@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <BuildSettings>
+    <DefaultScenes>
+      <DefaultScene Name="Assets/GameAssets/Scenes/Launcher.unity" />
+    </DefaultScenes>
+    <SearchScenePaths>
+      <SearchScenePath Path="Assets/GameAssets/Scenes/" />
+    </SearchScenePaths>
+  </BuildSettings>
+</UnityGameFramework>

@@ -1,0 +1,29 @@
+using GameFramework;
+using GameFramework.Event;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace GameDevScript
+{
+    /// <summary>
+    /// _#Remark#_
+    /// </summary>
+    public class _#ClassName#_ : GameEventArgs
+    {
+        public static readonly int EventId = typeof(_#ClassName#_).GetHashCode();
+
+        public override int Id => EventId;
+
+        public override void Clear()
+        {
+        }
+
+        public static _#ClassName#_ Create()
+        {
+            _#ClassName#_ args = ReferencePool.Acquire<_#ClassName#_>();
+
+            return args;
+        }
+    }
+}

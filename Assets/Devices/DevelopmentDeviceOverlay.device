@@ -1,0 +1,14 @@
+{
+    "friendlyName": "Development Device",
+    "version": 1,
+    "screens": [
+        {
+            "width": 1080,
+            "height": 2176,
+            "dpi": 450.0
+        }
+    ],
+    "systemInfo": {
+        "operatingSystem": "Android"
+    }
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NPOI.Excel</id>
+    <version>2.1.1</version>
+    <authors>Farshid3003</authors>
+    <owners>Farshid3003</owners>
+    <projectUrl>http://npoi.codeplex.com/</projectUrl>
+    <iconUrl>http://download.codeplex.com/Download?ProjectName=npoi&amp;DownloadId=155905&amp;Build=18301</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This project is the .NET version of POI Java project at http://poi.apache.org/. POI is an open source project which can help you read/write xls, doc, ppt files. It has a wide application.
+For example, you can use it to
+a. generate a Excel report without Microsoft Office suite installed on your server and more efficient than call Microsoft Excel ActiveX at background;
+b. extract text from Office documents to help you implement full-text indexing feature (most of time this feature is used to create search engines). 
+c. extract images from Office documents
+d. generate Excel sheets that contains formulas</description>
+    <releaseNotes>New Features
+a. XSSFSheet.CopySheet
+b. Excel2Html for XSSF
+c. insert picture in word 2007
+d. Implement IfError function in formula engine
+
+Bug Fixes
+a. fix conditional formatting issue
+b. fix ctFont order issue
+c. fix vertical alignment issue in XSSF
+d. add IndexedColors to NPOI.SS.UserModel
+e. fix decimal point issue in non-English culture
+f. fix SetMargin issue in XSSF
+g.fix multiple images insert issue in XSSF
+h.fix rich text style missing issue in XSSF
+i. fix cell comment shape (big arrow) in XSSF
+j. WorkbookFactory for Excel 2007 doesn't occupy file.
+k. fix XSSFCell.IsMergedCell
+l. fix incorrect page margin value due to different culture
+m. fix HSSFSheet.CopyTo doesn't copy rich text in cells
+n. fix scroll bar and tabs missing in previous 2.1 release</releaseNotes>
+  </metadata>
+</package>

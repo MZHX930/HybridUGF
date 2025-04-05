@@ -1,0 +1,32 @@
+# 忽略所有文件
+*
+
+# 不忽略Assets文件夹
+!Assets/
+!Assets/*/
+!Assets/**/*/
+
+# 不忽略Library/PackageCache文件夹
+!Library/
+!Library/PackageCache/
+!Library/PackageCache/*/
+!Library/PackageCache/**/*/
+
+# 不忽略Packages文件夹
+!Packages/
+!Packages/*/
+!Packages/**/*/
+
+# 不忽略.cursor
+!.cursor/
+!.cursor/*/
+!.cursor/**/*/
+
+# 不忽略文件夹内的cs文件
+!*.cs
+!*.shader
+!*.mdc
+!*.md
+
+# Project notes and templates
+xnotes/
